@@ -1,0 +1,21 @@
+{
+  "id": "90e748c3-015a-1000-f68d-292036f42e8f",
+  "name": "NiFi Flow",
+  "comments": "Tela principal ",
+  "runningCount": 0,
+  "stoppedCount": 7
+}
+{
+  "id": "082ffd48-016a-1000-0000-000019b97954",
+  "name": "Novo PG criado agora",
+  "comments": "",
+  "runningCount": 0,
+  "stoppedCount": 0
+}
+{
+  "id": "02fd8e72-016a-1000-0000-00004509f2ce",
+  "name": "Demo Flow teste Igor",
+  "comments": "Flow de teste",
+  "runningCount": 0,
+  "stoppedCount": 7
+}

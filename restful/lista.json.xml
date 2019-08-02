@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc xmlns="http://www.ibm.com/iis/flow-doc">
+    <assets>
+        <asset class="$NiFi-ProcessGroup" repr="NiFi Flow" ID="a1">
+            <attribute name="$id" value="90e748c3-015a-1000-f68d-292036f42e8f" />
+            <attribute name="name" value="NiFi Flow" />
+            <attribute name="$comments" value="Tela principal " />
+            <attribute name="$runningCount" value=" 0" />
+            <attribute name="$stoppedCount" value=" 7" />
+        </asset>
+        <asset class="$NiFi-ProcessGroup" repr="Novo PG criado agora" ID="a2">
+            <attribute name="$id" value="082ffd48-016a-1000-0000-000019b97954" />
+            <attribute name="name" value="Novo PG criado agora" />
+            <attribute name="$comments" value="" />
+            <attribute name="$runningCount" value=" 0" />
+            <attribute name="$stoppedCount" value=" 0" />
+        </asset>
+        <asset class="$NiFi-ProcessGroup" repr="Demo Flow teste Igor" ID="a3">
+            <attribute name="$id" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="name" value="Demo Flow teste Igor" />
+            <attribute name="$comments" value="Flow de teste" />
+            <attribute name="$runningCount" value=" 0" />
+            <attribute name="$stoppedCount" value=" 7" />
+        </asset>
+    </assets>
+    <importAction partialAssetIDs="a1" completeAssetIDs="a3"/>
+</doc> 
