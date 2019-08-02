@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc xmlns="http://www.ibm.com/iis/flow-doc">
+    <assets>
+		<asset class="$NiFi-NiFi" repr="NiFi Development" ID="a1">
+			<attribute name="name" value="NiFi Development" />
+			<attribute name="$phase" value="DEV" />
+        </asset>
+		
+        <asset class="$NiFi-ProcessGroup" repr="NiFi Flow" ID="a2">
+            <attribute name="name" value="NiFi Flow" />
+	  	    <attribute name="$id" value="90e748c3-015a-1000-f68d-292036f42e8f" />
+            <attribute name="$parentGroupId" value="null" />
+            <attribute name="$comments" value="Tela principal - 14:41" />
+            <attribute name="$runningCount" value="0" />
+            <attribute name="$stoppedCount" value="9" />
+			<reference name="$Container" assetIDs="a1" />
+        </asset>
+		
+        <asset class="$NiFi-ProcessGroup" repr="ProcessGroup Customer Poc" ID="a3">
+            <attribute name="name" value="ProcessGroup Customer Poc" />
+            <attribute name="$id" value="082ffd48-016a-1000-0000-000019b97954" />
+            <attribute name="$parentGroupId" value="90e748c3-015a-1000-f68d-292036f42e8f" />
+            <attribute name="$comments" value="comentĂ¡rio do novo PG" />
+            <attribute name="$runningCount" value="0" />
+            <attribute name="$stoppedCount" value="2" />
+			<reference name="$Container" assetIDs="a2" />
+        </asset>
+ 
+ 
+ <!-- Processor_GetHTTP -->
+        <asset class="$NiFi-Processor_GetHTTP" repr="GetHTTP" ID="a4">
+            <attribute name="name" value="GetHTTP" />
+			<reference name="$ProcessGroup" assetIDs="a3" />
+        </asset>
+		
+		<asset class="$NiFi-DataField" repr="id" ID="a5">
+		    <attribute name="name" value="id" />
+		    <attribute name="$id" value="0e0a11d9-016a-1000-0000-00005f3dbb7e" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="parentGroupId" ID="a6">
+ 		    <attribute name="name" value="parentGroupId" />
+			<attribute name="$parentGroupId" value="082ffd48-016a-1000-0000-000019b97954" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="type" ID="a7">
+		    <attribute name="name" value="type" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.GetHTTP" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="state" ID="a8">
+		    <attribute name="name" value="state" />
+            <attribute name="$state" value="STOPPED" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="comments" ID="a9">
+		    <attribute name="name" value="comments" />
+            <attribute name="$comments" value="" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="inputRequirement" ID="a10">
+		    <attribute name="name" value="inputRequirement" />
+            <attribute name="$inputRequirement" value="INPUT_FORBIDDEN" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+
+<!-- Processor_QueryDNS -->
+        <asset class="$NiFi-Processor_QueryDNS" repr="QueryDNS" ID="a11">
+            <attribute name="name" value="QueryDNS" />
+			<reference name="$ProcessGroup" assetIDs="a3" />
+        </asset>
+		
+		<asset class="$NiFi-DataField" repr="id" ID="a12">
+		    <attribute name="name" value="id" />
+		    <attribute name="$id" value="0e08944c-016a-1000-ffff-ffff8972a4d8" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="parentGroupId" ID="a13">
+ 		    <attribute name="name" value="parentGroupId" />
+			<attribute name="$parentGroupId" value="082ffd48-016a-1000-0000-000019b97954" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="type" ID="a14">
+		    <attribute name="name" value="type" />
+            <attribute name="$type" value="org.apache.nifi.processors.enrich.QueryDNS" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="state" ID="a15">
+		    <attribute name="name" value="state" />
+            <attribute name="$state" value="STOPPED" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="comments" ID="a16">
+		    <attribute name="name" value="comments" />
+            <attribute name="$comments" value="" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="inputRequirement" ID="a17">
+		    <attribute name="name" value="inputRequirement" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		
+
+<!-- Processor_ConvertRecord -->
+        <asset class="$NiFi-Processor_ConvertRecord" repr="ConvertRecord" ID="a18">
+            <attribute name="name" value="ConvertRecord" />
+			<reference name="$ProcessGroup" assetIDs="a3" />
+        </asset>
+		
+		<asset class="$NiFi-DataField" repr="id" ID="a19">
+		    <attribute name="name" value="id" />
+		    <attribute name="$id" value="0e091eb6-016a-1000-ffff-ffffc6750f09" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="parentGroupId" ID="a20">
+ 		    <attribute name="name" value="parentGroupId" />
+			<attribute name="$parentGroupId" value="082ffd48-016a-1000-0000-000019b97954" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="type" ID="a21">
+		    <attribute name="name" value="type" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.ConvertRecord" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="state" ID="a22">
+		    <attribute name="name" value="state" />
+            <attribute name="$state" value="STOPPED" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="comments" ID="a23">
+		    <attribute name="name" value="comments" />
+            <attribute name="$comments" value="" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="inputRequirement" ID="a24">
+		    <attribute name="name" value="inputRequirement" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+    </assets>
+    <importAction partialAssetIDs="a1" completeAssetIDs="a3"/>
+</doc>

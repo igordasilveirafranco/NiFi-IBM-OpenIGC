@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc xmlns="http://www.ibm.com/iis/flow-doc">
+	<assets>
+		<asset class="$NiFi-NiFi" repr="NiFi Development" ID="a1">
+			<attribute name="name" value="NiFi Development" />
+        </asset>
+		
+        <asset class="$NiFi-ProcessGroup" repr="NiFi Flow" ID="a2">
+            <attribute name="name" value="NiFi Flow" />
+			<reference name="$Container" assetIDs="a1" />
+        </asset>
+		
+        <asset class="$NiFi-ProcessGroup" repr="ProcessGroup Customer Poc" ID="a3">
+            <attribute name="name" value="ProcessGroup Customer Poc" />
+			<reference name="$Container" assetIDs="a2" />
+        </asset>
+ 
+ 
+ <!-- Processor_GetHTTP -->
+        <asset class="$NiFi-Processor_GetHTTP" repr="GetHTTP" ID="a4">
+            <attribute name="name" value="GetHTTP" />
+			<reference name="$ProcessGroup" assetIDs="a3" />
+        </asset>
+		
+		<asset class="$NiFi-DataField" repr="id" ID="a5">
+		    <attribute name="name" value="id" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="parentGroupId" ID="a6">
+ 		    <attribute name="name" value="parentGroupId" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="type" ID="a7">
+		    <attribute name="name" value="type" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="state" ID="a8">
+		    <attribute name="name" value="state" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="comments" ID="a9">
+		    <attribute name="name" value="comments" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="inputRequirement" ID="a10">
+		    <attribute name="name" value="inputRequirement" />
+			<reference name="$Processor" assetIDs="a4" />
+	    </asset>	
+		
+
+<!-- Processor_QueryDNS -->
+        <asset class="$NiFi-Processor_QueryDNS" repr="QueryDNS" ID="a11">
+            <attribute name="name" value="QueryDNS" />
+			<reference name="$ProcessGroup" assetIDs="a3" />
+        </asset>
+		
+		<asset class="$NiFi-DataField" repr="id" ID="a12">
+		    <attribute name="name" value="id" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="parentGroupId" ID="a13">
+ 		    <attribute name="name" value="parentGroupId" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="type" ID="a14">
+		    <attribute name="name" value="type" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="state" ID="a15">
+		    <attribute name="name" value="state" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="comments" ID="a16">
+		    <attribute name="name" value="comments" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="inputRequirement" ID="a17">
+		    <attribute name="name" value="inputRequirement" />
+			<reference name="$Processor" assetIDs="a11" />
+	    </asset>	
+		
+		
+
+<!-- Processor_ConvertRecord -->
+        <asset class="$NiFi-Processor_ConvertRecord" repr="ConvertRecord" ID="a18">
+            <attribute name="name" value="ConvertRecord" />
+			<reference name="$ProcessGroup" assetIDs="a3" />
+        </asset>
+		
+		<asset class="$NiFi-DataField" repr="id" ID="a19">
+		    <attribute name="name" value="id" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="parentGroupId" ID="a20">
+ 		    <attribute name="name" value="parentGroupId" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="type" ID="a21">
+		    <attribute name="name" value="type" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="state" ID="a22">
+		    <attribute name="name" value="state" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="comments" ID="a23">
+		    <attribute name="name" value="comments" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+		
+		<asset class="$NiFi-DataField" repr="inputRequirement" ID="a24">
+		    <attribute name="name" value="inputRequirement" />
+			<reference name="$Processor" assetIDs="a18" />
+	    </asset>	
+
+		
+<!-- 		files 
+
+		<asset class="host" repr="ORACLE" ID="a100">
+			<attribute name="name" value="ORACLE"/>
+		</asset>
+		 -->
+		 
+<!-- 		source file 
+		<asset class="data_file" repr="ClientRecords.csv" ID="a101">
+			<attribute name="name" value="ClientRecords.csv"/>
+			<attribute name="path" tag="true" value="/people"/>
+			<reference name="parent_folder_or_host" assetIDs="a100" />
+		</asset>
+		<asset class="data_file_record" repr="ClientRecords" ID="a102">
+			<attribute name="name" value="ClientRecords"/>
+			<reference name="data_file" assetIDs="a101" />
+		</asset>
+		<asset class="data_file_field" repr="fname" ID="a103">
+			<attribute name="name" value="fname"/>
+			<reference name="data_file_record" assetIDs="a102" />
+		</asset>
+		<asset class="data_file_field" repr="lname" ID="a104">
+			<attribute name="name" value="lname"/>
+			<reference name="data_file_record" assetIDs="a102" />
+		</asset>
+		<asset class="data_file_field" repr="city" ID="a105">
+			<attribute name="name" value="city"/>
+			<reference name="data_file_record" assetIDs="a102" />
+		</asset>
+		
+		-->
+<!-- 		target file  
+		<asset class="data_file" repr="ComposedClientNames.csv" ID="a110">
+			<attribute name="name" value="ComposedClientNames.csv"/>
+			<attribute name="path" tag="true" value="/people"/>
+			<reference name="parent_folder_or_host" assetIDs="a100" />
+		</asset>
+		<asset class="data_file_record" repr="ComposedClientNames" ID="a111">
+			<attribute name="name" value="ComposedClientNames"/>
+			<reference name="data_file" assetIDs="a110" />
+		</asset>
+		<asset class="data_file_field" repr="fullname" ID="a112">
+			<attribute name="name" value="fullname"/>
+			<reference name="data_file_record" assetIDs="a111" />
+		</asset>
+		<asset class="data_file_field" repr="city" ID="a113">
+			<attribute name="name" value="city"/>
+			<reference name="data_file_record" assetIDs="a111" />
+		</asset>
+		-->
+	</assets>
+	<flowUnits>
+        <flowUnit assetID="a2">
+
+<!--         Subflows are used for grouping flows. Setting attributes such as flowType and reuseType are applied to all flows within a subFlow. -->
+
+<!--         flowType="DESIGN", meaning these flows are predicted based on default value parameterization - 'what would happen if run with default params'.   -->
+<!-- 			For some tools, such default parameterization may not exist. There, DESIGN flows may not be applicable, and only OPERATIONAL flows, held by "Run" assets, be uploaded. -->
+
+<!--         reuseType="ENTRY", such that data flow will be reported in the context of this flow unit, to match EXIT (below).   -->
+<!--         comment="..." - comments are ignored on flow upload, they can be provided to help integrators trace and debug their code.   -->
+
+
+<!-- 
+        	<subFlows flowType="DESIGN" comment="from source file 'WorkerRecords.csv' to input stage 'Extractor' ">
+	            <flow sourceIDs="a103" targetIDs="a4" comment="file field 'WorkerRecords.fname' to stage field 'Extractor.fname' "/>
+	            <flow sourceIDs="a104" targetIDs="a5"/>
+	            <flow sourceIDs="a105" targetIDs="a6"/>
+        	</subFlows>
+ 	-->
+	
+<!--         flowType="SYSTEM", meaning these flows are hard-wired, they happen in all job runs.   -->
+<!--         reuseType="INSIDE", such that data flow will be reported in the context of this flow unit, to match ENTRY and EXIT   -->
+
+        	<subFlows flowType="SYSTEM" comment="Do get HTTP até o QueryDNS">
+	            <flow sourceIDs="a9 a8" targetIDs="a16"/>
+	            <flow sourceIDs="a10" targetIDs="a17"/>
+        	</subFlows>
+
+<!--         flowType="SYSTEM", meaning these flows are hard-wired, they happen in all job runs.   -->
+<!--         reuseType="INSIDE", such that data flow will be reported in the context of this flow unit, to match ENTRY and EXIT   -->
+
+        	<subFlows flowType="SYSTEM" comment="Do QueryDNS ateh o ConvertRecord">
+	            <flow sourceIDs="a16" targetIDs="a23"/>
+	            <flow sourceIDs="a17" targetIDs="a24"/>
+        	</subFlows>
+        	
+<!--         flowType="DESIGN", meaning these flows are predicted based on default value parameterization - 'what would happen if run with default params'.   -->
+<!-- 			For some tools, such default parameterization may not exist. There, DESIGN flows may not be applicable, and only OPERATIONAL flows, held by "Run" assets, be uploaded. -->
+<!--         Stating EXIT, such that data flow will be reported in the context of this flow unit, to match ENTRY (above)   -->
+
+<!--
+        	<subFlows flowType="DESIGN" comment="from writer stage to target file">
+	            <flow sourceIDs="a" targetIDs="a112"/>
+	            <flow sourceIDs="a12" targetIDs="a113"/>
+        	</subFlows>
+	-->
+        </flowUnit>
+	</flowUnits>
+</doc> 

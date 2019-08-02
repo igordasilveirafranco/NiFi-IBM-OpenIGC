@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<descriptor xmlns="http://www.ibm.com/iis/igc/asset-type-descriptor" bundleId="NiFi">
+
+
+	<!-- ****************************************************************** -->
+	<!-- ********* GUI Containers: Families, Trees ********** -->
+
+	<family position="2"
+		classRefs="NiFi, ProcessGroup, RemoteProcessGroup, Processor, DataField">
+		<label key="family1" inDefaultLocale="NiFi Processing"/>
+	</family>
+
+	<tree position="3" rootClassRefs="NiFi">
+		<label key="tree1" inDefaultLocale="NiFi"/>
+	</tree>
+
+	<!-- ****************************************************************** -->
+	<!-- ********* Definicoes estruturais: Classes, Atributos ********** -->
+
+	<!-- Defini uma Superclass virtual chamada Container: classes filhas desta 
+		SuperClass serão o NiFi em si, processGroup e remoteProcessgroup. Eu referenciei 
+		ao conteiner SuperClass como virtual, porque nunca aparece na barra de navegacao
+		que mostram os assets e nao tem outra funcao a nao ser a SuperClass dos assets abaixo -->
+
+	<class localId="Container" canHaveImage="false" expandableInLineage="true">
+		<label key="class.Container" inDefaultLocale="Container" />
+		<pluralLabel key="class-plural.Container" inDefaultLocale="Containers"/>
+	</class>
+
+	<!-- *************************** NiFi **************************** -->
+
+	<class localId="NiFi" canHaveImage="true" superClassRef="Container"  >
+		<label key="class.NiFi" inDefaultLocale="NiFi"/>
+		<pluralLabel key="class-plural.NiFi" inDefaultLocale="NiFis"/>
+
+		<headerSection>
+			<attribute localId="phase" type="String" editable="true">
+				<label key="attr.NiFi.phase" inDefaultLocale="phase"/>
+
+				<validValue localId="DEV">
+					<label key="enum.phase.DEV" inDefaultLocale="Development"/>
+				</validValue>
+				<validValue localId="TEST">
+					<label key="enum.phase.TEST" inDefaultLocale="Testing"/>
+				</validValue>
+				<validValue localId="PROD">
+					<label key="enum.phase.PROD" inDefaultLocale="Production"/>
+				</validValue>
+			</attribute>
+		</headerSection>
+
+	</class>
+
+
+
+	<!-- *************************** Process-Group **************************** -->
+
+	<class localId="ProcessGroup" containerClassRefs="Container" canHaveImage="true" expandableInLineage="true" superClassRef="Container">
+		<label key="class.ProcessGroup" inDefaultLocale="Process Group"/>
+		<pluralLabel key="class-plural.ProcessGroup" inDefaultLocale="Process Groups"/>
+
+		<section>
+			<label key="section.ProcessGroup.Details" inDefaultLocale="ProcessGroup Details"/>
+
+			<attribute localId="id" type="String">
+				<label key="attr.ProcessGroup.id" inDefaultLocale="ProcessGroup Id"/>
+			</attribute>
+
+			<attribute localId="parentGroupId" type="String">
+				<label key="attr.ProcessGroup.parentGroupId"
+					inDefaultLocale="Parent ProcessGroup Id"/>
+			</attribute>
+
+			<attribute localId="comments" type="String">
+				<label key="attr.ProcessGroup.comments" inDefaultLocale="ProcessGroup Comments"/>
+			</attribute>
+
+			<attribute localId="runningCount" type="String">
+				<label key="attr.ProcessGroup.runningCount"
+					inDefaultLocale="ProcessGroup runningCount"/>
+			</attribute>
+
+			<attribute localId="stoppedCount" type="String">
+				<label key="attr.ProcessGroup.stoppedCount"
+					inDefaultLocale="ProcessGroup stoppedCount"/>
+			</attribute>
+
+		</section>
+
+	</class>
+
+
+
+	<!-- *************************** Remote ProcessGroup **************************** -->
+
+	<class localId="RemoteProcessGroup" containerClassRefs="Container" canHaveImage="true" expandableInLineage="true" superClassRef="Container">
+		<label key="class.RemoteProcessGroup" inDefaultLocale="Remote Process Group"/>
+		<pluralLabel key="class-plural.RemoteProcessGroup" inDefaultLocale="Remote Process Groups"/>
+
+
+		<section>
+			<label key="section.RemoteProcessGroup.Details"
+				inDefaultLocale="Remote ProcessGroup Details"/>
+
+			<attribute localId="id" type="String">
+				<label key="attr.RemoteProcessGroup.id" inDefaultLocale="Remote ProcessGroup Id"/>
+			</attribute>
+
+			<attribute localId="parentGroupId" type="String">
+				<label key="attr.RemoteProcessGroup.parentGroupId"
+					inDefaultLocale="Parent Remote ProcessGroup"/>
+			</attribute>
+
+			<attribute localId="URL" type="String">
+				<label key="attr.RemoteProcessGroup.URL" inDefaultLocale="Remote ProcessGroup URL"/>
+			</attribute>
+
+			<attribute localId="Transmiting" type="String">
+				<label key="attr.RemoteProcessGroup.Transmiting"
+					inDefaultLocale="Remote ProcessGroup Transmiting"/>
+			</attribute>
+
+		</section>
+	</class>
+
+
+	<!-- *************************** Processor **************************** -->
+
+	<class localId="Processor" containerClassRefs="ProcessGroup" canHaveImage="false">
+		<label key="class.Processor" inDefaultLocale="Processor"/>
+		<pluralLabel key="class-plural.Processor" inDefaultLocale="Processors"/>
+
+		<headerSection>
+			<attribute localId="ProcessorType" type="String">
+				<label key="attr.Stage.ProcessorType" inDefaultLocale="Processor Type"/>
+			</attribute>
+		</headerSection>
+	</class>
+
+	<class localId="Processor_GetHTTP" superClassRef="Processor">
+		<label key="class.Processor_GetHTTP" inDefaultLocale="GetHTTP"/>
+		<pluralLabel key="class-plural.Processor_GetHTTP" inDefaultLocale="GetHTTPs"/>
+	</class>
+
+	<class localId="Processor_QueryDNS" superClassRef="Processor">
+		<label key="class.Processor_QueryDNS" inDefaultLocale="QueryDNS"/>
+		<pluralLabel key="class-plural.Processor_QueryDNS" inDefaultLocale="QueryDNSs"/>
+	</class>
+
+	<class localId="Processor_ConvertRecord" superClassRef="Processor">
+		<label key="class.Processor_ConvertRecord" inDefaultLocale="ConvertRecord"/>
+		<pluralLabel key="class-plural.Processor_ConvertRecord" inDefaultLocale="ConvertRecords"/>
+	</class>
+
+	<class localId="Processor_AttributeRollingWindow" superClassRef="Processor">
+		<label key="class.Processor_AttributeRollingWindow" inDefaultLocale="AttributeRollingWindow"/>
+		<pluralLabel key="class-plural.Processor_AttributeRollingWindow"
+			inDefaultLocale="AttributeRollingWindows"/>
+	</class>
+
+	<class localId="Processor_AttributesToCSV" superClassRef="Processor">
+		<label key="class.Processor_AttributesToCSV" inDefaultLocale="AttributesToCSV"/>
+		<pluralLabel key="class-plural.Processor_AttributesToCSV" inDefaultLocale="AttributesToCSVs"/>
+	</class>
+	
+	<class localId="Processor_AttributesToJSON" superClassRef="Processor">
+		<label key="class.Processor_AttributesToJSON" inDefaultLocale="AttributesToJSON"/>
+		<pluralLabel key="class-plural.Processor_AttributesToJSON" inDefaultLocale="AttributesToJSONs"/>
+	</class>
+	
+	<class localId="Processor_Base64EncodeContent" superClassRef="Processor">
+		<label key="class.Processor_Base64EncodeContent" inDefaultLocale="Base64EncodeContent"/>
+		<pluralLabel key="class-plural.Processor_Base64EncodeContent"
+			inDefaultLocale="Base64EncodeContents"/>
+	</class>
+	<class localId="Processor_CalculateRecordStats" superClassRef="Processor">
+		<label key="class.Processor_CalculateRecordStats" inDefaultLocale="CalculateRecordStats"/>
+		<pluralLabel key="class-plural.Processor_CalculateRecordStats"
+			inDefaultLocale="CalculateRecordStatss"/>
+	</class>
+	<class localId="Processor_CaptureChangeMySQL" superClassRef="Processor">
+		<label key="class.Processor_CaptureChangeMySQL" inDefaultLocale="CaptureChangeMySQL"/>
+		<pluralLabel key="class-plural.Processor_CaptureChangeMySQL"
+			inDefaultLocale="CaptureChangeMySQLs"/>
+	</class>
+	<class localId="Processor_CompareFuzzyHash" superClassRef="Processor">
+		<label key="class.Processor_CompareFuzzyHash" inDefaultLocale="CompareFuzzyHash"/>
+		<pluralLabel key="class-plural.Processor_CompareFuzzyHash"
+			inDefaultLocale="CompareFuzzyHashs"/>
+	</class>
+	<class localId="Processor_CompressContent" superClassRef="Processor">
+		<label key="class.Processor_CompressContent" inDefaultLocale="CompressContent"/>
+		<pluralLabel key="class-plural.Processor_CompressContent" inDefaultLocale="CompressContents"
+		/>
+	</class>
+	<class localId="Processor_ConnectWebSocket" superClassRef="Processor">
+		<label key="class.Processor_ConnectWebSocket" inDefaultLocale="ConnectWebSocket"/>
+		<pluralLabel key="class-plural.Processor_ConnectWebSocket"
+			inDefaultLocale="ConnectWebSockets"/>
+	</class>
+	<class localId="Processor_ConsumeAMQP" superClassRef="Processor">
+		<label key="class.Processor_ConsumeAMQP" inDefaultLocale="ConsumeAMQP"/>
+		<pluralLabel key="class-plural.Processor_ConsumeAMQP" inDefaultLocale="ConsumeAMQPs"/>
+	</class>
+	<class localId="Processor_ConsumeAzureEventHub" superClassRef="Processor">
+		<label key="class.Processor_ConsumeAzureEventHub" inDefaultLocale="ConsumeAzureEventHub"/>
+		<pluralLabel key="class-plural.Processor_ConsumeAzureEventHub"
+			inDefaultLocale="ConsumeAzureEventHubs"/>
+	</class>
+	<class localId="Processor_ConsumeEWS" superClassRef="Processor">
+		<label key="class.Processor_ConsumeEWS" inDefaultLocale="ConsumeEWS"/>
+		<pluralLabel key="class-plural.Processor_ConsumeEWS" inDefaultLocale="ConsumeEWSs"/>
+	</class>
+	<class localId="Processor_ConsumeGCPubSub" superClassRef="Processor">
+		<label key="class.Processor_ConsumeGCPubSub" inDefaultLocale="ConsumeGCPubSub"/>
+		<pluralLabel key="class-plural.Processor_ConsumeGCPubSub" inDefaultLocale="ConsumeGCPubSubs"
+		/>
+	</class>
+	<class localId="Processor_ConsumeIMAP" superClassRef="Processor">
+		<label key="class.Processor_ConsumeIMAP" inDefaultLocale="ConsumeIMAP"/>
+		<pluralLabel key="class-plural.Processor_ConsumeIMAP" inDefaultLocale="ConsumeIMAPs"/>
+	</class>
+	<class localId="Processor_ConsumeJMS" superClassRef="Processor">
+		<label key="class.Processor_ConsumeJMS" inDefaultLocale="ConsumeJMS"/>
+		<pluralLabel key="class-plural.Processor_ConsumeJMS" inDefaultLocale="ConsumeJMSs"/>
+	</class>
+	<class localId="Processor_ConsumeKafka" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafka" inDefaultLocale="ConsumeKafka"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafka" inDefaultLocale="ConsumeKafkas"/>
+	</class>
+	<class localId="Processor_ConsumeKafka_0_10" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafka_0_10" inDefaultLocale="ConsumeKafka_0_10"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafka_0_10"
+			inDefaultLocale="ConsumeKafka_0_10s"/>
+	</class>
+	<class localId="Processor_ConsumeKafka_0_11" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafka_0_11" inDefaultLocale="ConsumeKafka_0_11"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafka_0_11"
+			inDefaultLocale="ConsumeKafka_0_11s"/>
+	</class>
+	<class localId="Processor_ConsumeKafka_1_0" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafka_1_0" inDefaultLocale="ConsumeKafka_1_0"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafka_1_0"
+			inDefaultLocale="ConsumeKafka_1_0s"/>
+	</class>
+	<class localId="Processor_ConsumeKafka_2_0" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafka_2_0" inDefaultLocale="ConsumeKafka_2_0"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafka_2_0"
+			inDefaultLocale="ConsumeKafka_2_0s"/>
+	</class>
+	<class localId="Processor_ConsumeKafkaRecord_0_10" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafkaRecord_0_10"
+			inDefaultLocale="ConsumeKafkaRecord_0_10"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafkaRecord_0_10"
+			inDefaultLocale="ConsumeKafkaRecord_0_10s"/>
+	</class>
+	<class localId="Processor_ConsumeKafkaRecord_0_11" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafkaRecord_0_11"
+			inDefaultLocale="ConsumeKafkaRecord_0_11"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafkaRecord_0_11"
+			inDefaultLocale="ConsumeKafkaRecord_0_11s"/>
+	</class>
+	<class localId="Processor_ConsumeKafkaRecord_1_0" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafkaRecord_1_0" inDefaultLocale="ConsumeKafkaRecord_1_0"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafkaRecord_1_0"
+			inDefaultLocale="ConsumeKafkaRecord_1_0s"/>
+	</class>
+	<class localId="Processor_ConsumeKafkaRecord_2_0" superClassRef="Processor">
+		<label key="class.Processor_ConsumeKafkaRecord_2_0" inDefaultLocale="ConsumeKafkaRecord_2_0"/>
+		<pluralLabel key="class-plural.Processor_ConsumeKafkaRecord_2_0"
+			inDefaultLocale="ConsumeKafkaRecord_2_0s"/>
+	</class>
+	<class localId="Processor_ConsumeMQTT" superClassRef="Processor">
+		<label key="class.Processor_ConsumeMQTT" inDefaultLocale="ConsumeMQTT"/>
+		<pluralLabel key="class-plural.Processor_ConsumeMQTT" inDefaultLocale="ConsumeMQTTs"/>
+	</class>
+	<class localId="Processor_ConsumePOP3" superClassRef="Processor">
+		<label key="class.Processor_ConsumePOP3" inDefaultLocale="ConsumePOP3"/>
+		<pluralLabel key="class-plural.Processor_ConsumePOP3" inDefaultLocale="ConsumePOP3s"/>
+	</class>
+	<class localId="Processor_ConsumeWindowsEventLog" superClassRef="Processor">
+		<label key="class.Processor_ConsumeWindowsEventLog" inDefaultLocale="ConsumeWindowsEventLog"/>
+		<pluralLabel key="class-plural.Processor_ConsumeWindowsEventLog"
+			inDefaultLocale="ConsumeWindowsEventLogs"/>
+	</class>
+	<class localId="Processor_ControlRate" superClassRef="Processor">
+		<label key="class.Processor_ControlRate" inDefaultLocale="ControlRate"/>
+		<pluralLabel key="class-plural.Processor_ControlRate" inDefaultLocale="ControlRates"/>
+	</class>
+	<class localId="Processor_ConvertAvroSchema" superClassRef="Processor">
+		<label key="class.Processor_ConvertAvroSchema" inDefaultLocale="ConvertAvroSchema"/>
+		<pluralLabel key="class-plural.Processor_ConvertAvroSchema"
+			inDefaultLocale="ConvertAvroSchemas"/>
+	</class>
+	<class localId="Processor_ConvertAvroToJSON" superClassRef="Processor">
+		<label key="class.Processor_ConvertAvroToJSON" inDefaultLocale="ConvertAvroToJSON"/>
+		<pluralLabel key="class-plural.Processor_ConvertAvroToJSON"
+			inDefaultLocale="ConvertAvroToJSONs"/>
+	</class>
+	<class localId="Processor_ConvertAvroToORC" superClassRef="Processor">
+		<label key="class.Processor_ConvertAvroToORC" inDefaultLocale="ConvertAvroToORC"/>
+		<pluralLabel key="class-plural.Processor_ConvertAvroToORC"
+			inDefaultLocale="ConvertAvroToORCs"/>
+	</class>
+	<class localId="Processor_ConvertAvroToParquet" superClassRef="Processor">
+		<label key="class.Processor_ConvertAvroToParquet" inDefaultLocale="ConvertAvroToParquet"/>
+		<pluralLabel key="class-plural.Processor_ConvertAvroToParquet"
+			inDefaultLocale="ConvertAvroToParquets"/>
+	</class>
+	<class localId="Processor_ConvertCharacterSet" superClassRef="Processor">
+		<label key="class.Processor_ConvertCharacterSet" inDefaultLocale="ConvertCharacterSet"/>
+		<pluralLabel key="class-plural.Processor_ConvertCharacterSet"
+			inDefaultLocale="ConvertCharacterSets"/>
+	</class>
+	<class localId="Processor_ConvertCSVToAvro" superClassRef="Processor">
+		<label key="class.Processor_ConvertCSVToAvro" inDefaultLocale="ConvertCSVToAvro"/>
+		<pluralLabel key="class-plural.Processor_ConvertCSVToAvro"
+			inDefaultLocale="ConvertCSVToAvros"/>
+	</class>
+	<class localId="Processor_ConvertExcelToCSVProcessor" superClassRef="Processor">
+		<label key="class.Processor_ConvertExcelToCSVProcessor"
+			inDefaultLocale="ConvertExcelToCSVProcessor"/>
+		<pluralLabel key="class-plural.Processor_ConvertExcelToCSVProcessor"
+			inDefaultLocale="ConvertExcelToCSVProcessors"/>
+	</class>
+	<class localId="Processor_ConvertJSONToAvro" superClassRef="Processor">
+		<label key="class.Processor_ConvertJSONToAvro" inDefaultLocale="ConvertJSONToAvro"/>
+		<pluralLabel key="class-plural.Processor_ConvertJSONToAvro"
+			inDefaultLocale="ConvertJSONToAvros"/>
+	</class>
+	<class localId="Processor_ConvertJSONToSQL" superClassRef="Processor">
+		<label key="class.Processor_ConvertJSONToSQL" inDefaultLocale="ConvertJSONToSQL"/>
+		<pluralLabel key="class-plural.Processor_ConvertJSONToSQL"
+			inDefaultLocale="ConvertJSONToSQLs"/>
+	</class>
+
+	<class localId="Processor_CountText" superClassRef="Processor">
+		<label key="class.Processor_CountText" inDefaultLocale="CountText"/>
+		<pluralLabel key="class-plural.Processor_CountText" inDefaultLocale="CountTexts"/>
+	</class>
+	<class localId="Processor_CreateHadoopSequenceFile" superClassRef="Processor">
+		<label key="class.Processor_CreateHadoopSequenceFile"
+			inDefaultLocale="CreateHadoopSequenceFile"/>
+		<pluralLabel key="class-plural.Processor_CreateHadoopSequenceFile"
+			inDefaultLocale="CreateHadoopSequenceFiles"/>
+	</class>
+	<class localId="Processor_CryptographicHashAttribute" superClassRef="Processor">
+		<label key="class.Processor_CryptographicHashAttribute"
+			inDefaultLocale="CryptographicHashAttribute"/>
+		<pluralLabel key="class-plural.Processor_CryptographicHashAttribute"
+			inDefaultLocale="CryptographicHashAttributes"/>
+	</class>
+	<class localId="Processor_CryptographicHashContent" superClassRef="Processor">
+		<label key="class.Processor_CryptographicHashContent"
+			inDefaultLocale="CryptographicHashContent"/>
+		<pluralLabel key="class-plural.Processor_CryptographicHashContent"
+			inDefaultLocale="CryptographicHashContents"/>
+	</class>
+	<class localId="Processor_DebugFlow" superClassRef="Processor">
+		<label key="class.Processor_DebugFlow" inDefaultLocale="DebugFlow"/>
+		<pluralLabel key="class-plural.Processor_DebugFlow" inDefaultLocale="DebugFlows"/>
+	</class>
+	<class localId="Processor_DeleteAzureBlobStorage" superClassRef="Processor">
+		<label key="class.Processor_DeleteAzureBlobStorage" inDefaultLocale="DeleteAzureBlobStorage"/>
+		<pluralLabel key="class-plural.Processor_DeleteAzureBlobStorage"
+			inDefaultLocale="DeleteAzureBlobStorages"/>
+	</class>
+	<class localId="Processor_DeleteByQueryElasticsearch" superClassRef="Processor">
+		<label key="class.Processor_DeleteByQueryElasticsearch"
+			inDefaultLocale="DeleteByQueryElasticsearch"/>
+		<pluralLabel key="class-plural.Processor_DeleteByQueryElasticsearch"
+			inDefaultLocale="DeleteByQueryElasticsearchs"/>
+	</class>
+	<class localId="Processor_DeleteDynamoDB" superClassRef="Processor">
+		<label key="class.Processor_DeleteDynamoDB" inDefaultLocale="DeleteDynamoDB"/>
+		<pluralLabel key="class-plural.Processor_DeleteDynamoDB" inDefaultLocale="DeleteDynamoDBs"/>
+	</class>
+	<class localId="Processor_DeleteElasticsearch5" superClassRef="Processor">
+		<label key="class.Processor_DeleteElasticsearch5" inDefaultLocale="DeleteElasticsearch5"/>
+		<pluralLabel key="class-plural.Processor_DeleteElasticsearch5"
+			inDefaultLocale="DeleteElasticsearch5s"/>
+	</class>
+	<class localId="Processor_DeleteGCSObject" superClassRef="Processor">
+		<label key="class.Processor_DeleteGCSObject" inDefaultLocale="DeleteGCSObject"/>
+		<pluralLabel key="class-plural.Processor_DeleteGCSObject" inDefaultLocale="DeleteGCSObjects"
+		/>
+	</class>
+	<class localId="Processor_DeleteGridFS" superClassRef="Processor">
+		<label key="class.Processor_DeleteGridFS" inDefaultLocale="DeleteGridFS"/>
+		<pluralLabel key="class-plural.Processor_DeleteGridFS" inDefaultLocale="DeleteGridFSs"/>
+	</class>
+	<class localId="Processor_DeleteHBaseCells" superClassRef="Processor">
+		<label key="class.Processor_DeleteHBaseCells" inDefaultLocale="DeleteHBaseCells"/>
+		<pluralLabel key="class-plural.Processor_DeleteHBaseCells"
+			inDefaultLocale="DeleteHBaseCellss"/>
+	</class>
+	<class localId="Processor_DeleteHBaseRow" superClassRef="Processor">
+		<label key="class.Processor_DeleteHBaseRow" inDefaultLocale="DeleteHBaseRow"/>
+		<pluralLabel key="class-plural.Processor_DeleteHBaseRow" inDefaultLocale="DeleteHBaseRows"/>
+	</class>
+	<class localId="Processor_DeleteHDFS" superClassRef="Processor">
+		<label key="class.Processor_DeleteHDFS" inDefaultLocale="DeleteHDFS"/>
+		<pluralLabel key="class-plural.Processor_DeleteHDFS" inDefaultLocale="DeleteHDFSs"/>
+	</class>
+	<class localId="Processor_DeleteMongo" superClassRef="Processor">
+		<label key="class.Processor_DeleteMongo" inDefaultLocale="DeleteMongo"/>
+		<pluralLabel key="class-plural.Processor_DeleteMongo" inDefaultLocale="DeleteMongos"/>
+	</class>
+	<class localId="Processor_DeleteRethinkDB" superClassRef="Processor">
+		<label key="class.Processor_DeleteRethinkDB" inDefaultLocale="DeleteRethinkDB"/>
+		<pluralLabel key="class-plural.Processor_DeleteRethinkDB" inDefaultLocale="DeleteRethinkDBs"
+		/>
+	</class>
+	<class localId="Processor_DeleteS3Object" superClassRef="Processor">
+		<label key="class.Processor_DeleteS3Object" inDefaultLocale="DeleteS3Object"/>
+		<pluralLabel key="class-plural.Processor_DeleteS3Object" inDefaultLocale="DeleteS3Objects"/>
+	</class>
+	<class localId="Processor_DeleteSQS" superClassRef="Processor">
+		<label key="class.Processor_DeleteSQS" inDefaultLocale="DeleteSQS"/>
+		<pluralLabel key="class-plural.Processor_DeleteSQS" inDefaultLocale="DeleteSQSs"/>
+	</class>
+	<class localId="Processor_DetectDuplicate" superClassRef="Processor">
+		<label key="class.Processor_DetectDuplicate" inDefaultLocale="DetectDuplicate"/>
+		<pluralLabel key="class-plural.Processor_DetectDuplicate" inDefaultLocale="DetectDuplicates"
+		/>
+	</class>
+	<class localId="Processor_DistributeLoad" superClassRef="Processor">
+		<label key="class.Processor_DistributeLoad" inDefaultLocale="DistributeLoad"/>
+		<pluralLabel key="class-plural.Processor_DistributeLoad" inDefaultLocale="DistributeLoads"/>
+	</class>
+	<class localId="Processor_DuplicateFlowFile" superClassRef="Processor">
+		<label key="class.Processor_DuplicateFlowFile" inDefaultLocale="DuplicateFlowFile"/>
+		<pluralLabel key="class-plural.Processor_DuplicateFlowFile"
+			inDefaultLocale="DuplicateFlowFiles"/>
+	</class>
+	<class localId="Processor_EncryptContent" superClassRef="Processor">
+		<label key="class.Processor_EncryptContent" inDefaultLocale="EncryptContent"/>
+		<pluralLabel key="class-plural.Processor_EncryptContent" inDefaultLocale="EncryptContents"/>
+	</class>
+	<class localId="Processor_EnforceOrder" superClassRef="Processor">
+		<label key="class.Processor_EnforceOrder" inDefaultLocale="EnforceOrder"/>
+		<pluralLabel key="class-plural.Processor_EnforceOrder" inDefaultLocale="EnforceOrders"/>
+	</class>
+	<class localId="Processor_EvaluateJsonPath" superClassRef="Processor">
+		<label key="class.Processor_EvaluateJsonPath" inDefaultLocale="EvaluateJsonPath"/>
+		<pluralLabel key="class-plural.Processor_EvaluateJsonPath"
+			inDefaultLocale="EvaluateJsonPaths"/>
+	</class>
+	<class localId="Processor_EvaluateXPath" superClassRef="Processor">
+		<label key="class.Processor_EvaluateXPath" inDefaultLocale="EvaluateXPath"/>
+		<pluralLabel key="class-plural.Processor_EvaluateXPath" inDefaultLocale="EvaluateXPaths"/>
+	</class>
+	<class localId="Processor_EvaluateXQuery" superClassRef="Processor">
+		<label key="class.Processor_EvaluateXQuery" inDefaultLocale="EvaluateXQuery"/>
+		<pluralLabel key="class-plural.Processor_EvaluateXQuery" inDefaultLocale="EvaluateXQuerys"/>
+	</class>
+	<class localId="Processor_ExecuteFlumeSink" superClassRef="Processor">
+		<label key="class.Processor_ExecuteFlumeSink" inDefaultLocale="ExecuteFlumeSink"/>
+		<pluralLabel key="class-plural.Processor_ExecuteFlumeSink"
+			inDefaultLocale="ExecuteFlumeSinks"/>
+	</class>
+	<class localId="Processor_ExecuteFlumeSource" superClassRef="Processor">
+		<label key="class.Processor_ExecuteFlumeSource" inDefaultLocale="ExecuteFlumeSource"/>
+		<pluralLabel key="class-plural.Processor_ExecuteFlumeSource"
+			inDefaultLocale="ExecuteFlumeSources"/>
+	</class>
+	<class localId="Processor_ExecuteGroovyScript" superClassRef="Processor">
+		<label key="class.Processor_ExecuteGroovyScript" inDefaultLocale="ExecuteGroovyScript"/>
+		<pluralLabel key="class-plural.Processor_ExecuteGroovyScript"
+			inDefaultLocale="ExecuteGroovyScripts"/>
+	</class>
+	<class localId="Processor_ExecuteInfluxDBQuery" superClassRef="Processor">
+		<label key="class.Processor_ExecuteInfluxDBQuery" inDefaultLocale="ExecuteInfluxDBQuery"/>
+		<pluralLabel key="class-plural.Processor_ExecuteInfluxDBQuery"
+			inDefaultLocale="ExecuteInfluxDBQuerys"/>
+	</class>
+	<class localId="Processor_ExecuteProcess" superClassRef="Processor">
+		<label key="class.Processor_ExecuteProcess" inDefaultLocale="ExecuteProcess"/>
+		<pluralLabel key="class-plural.Processor_ExecuteProcess" inDefaultLocale="ExecuteProcesss"/>
+	</class>
+	<class localId="Processor_ExecuteScript" superClassRef="Processor">
+		<label key="class.Processor_ExecuteScript" inDefaultLocale="ExecuteScript"/>
+		<pluralLabel key="class-plural.Processor_ExecuteScript" inDefaultLocale="ExecuteScripts"/>
+	</class>
+	<class localId="Processor_ExecuteSparkInteractive" superClassRef="Processor">
+		<label key="class.Processor_ExecuteSparkInteractive"
+			inDefaultLocale="ExecuteSparkInteractive"/>
+		<pluralLabel key="class-plural.Processor_ExecuteSparkInteractive"
+			inDefaultLocale="ExecuteSparkInteractives"/>
+	</class>
+	<class localId="Processor_ExecuteSQL" superClassRef="Processor">
+		<label key="class.Processor_ExecuteSQL" inDefaultLocale="ExecuteSQL"/>
+		<pluralLabel key="class-plural.Processor_ExecuteSQL" inDefaultLocale="ExecuteSQLs"/>
+	</class>
+	<class localId="Processor_ExecuteSQLRecord" superClassRef="Processor">
+		<label key="class.Processor_ExecuteSQLRecord" inDefaultLocale="ExecuteSQLRecord"/>
+		<pluralLabel key="class-plural.Processor_ExecuteSQLRecord"
+			inDefaultLocale="ExecuteSQLRecords"/>
+	</class>
+	<class localId="Processor_ExecuteStreamCommand" superClassRef="Processor">
+		<label key="class.Processor_ExecuteStreamCommand" inDefaultLocale="ExecuteStreamCommand"/>
+		<pluralLabel key="class-plural.Processor_ExecuteStreamCommand"
+			inDefaultLocale="ExecuteStreamCommands"/>
+	</class>
+	<class localId="Processor_ExtractAvroMetadata" superClassRef="Processor">
+		<label key="class.Processor_ExtractAvroMetadata" inDefaultLocale="ExtractAvroMetadata"/>
+		<pluralLabel key="class-plural.Processor_ExtractAvroMetadata"
+			inDefaultLocale="ExtractAvroMetadatas"/>
+	</class>
+	<class localId="Processor_ExtractCCDAAttributes" superClassRef="Processor">
+		<label key="class.Processor_ExtractCCDAAttributes" inDefaultLocale="ExtractCCDAAttributes"/>
+		<pluralLabel key="class-plural.Processor_ExtractCCDAAttributes"
+			inDefaultLocale="ExtractCCDAAttributess"/>
+	</class>
+	<class localId="Processor_ExtractEmailAttachments" superClassRef="Processor">
+		<label key="class.Processor_ExtractEmailAttachments"
+			inDefaultLocale="ExtractEmailAttachments"/>
+		<pluralLabel key="class-plural.Processor_ExtractEmailAttachments"
+			inDefaultLocale="ExtractEmailAttachmentss"/>
+	</class>
+	<class localId="Processor_ExtractEmailHeaders" superClassRef="Processor">
+		<label key="class.Processor_ExtractEmailHeaders" inDefaultLocale="ExtractEmailHeaders"/>
+		<pluralLabel key="class-plural.Processor_ExtractEmailHeaders"
+			inDefaultLocale="ExtractEmailHeaderss"/>
+	</class>
+	<class localId="Processor_ExtractGrok" superClassRef="Processor">
+		<label key="class.Processor_ExtractGrok" inDefaultLocale="ExtractGrok"/>
+		<pluralLabel key="class-plural.Processor_ExtractGrok" inDefaultLocale="ExtractGroks"/>
+	</class>
+	<class localId="Processor_ExtractHL7Attributes" superClassRef="Processor">
+		<label key="class.Processor_ExtractHL7Attributes" inDefaultLocale="ExtractHL7Attributes"/>
+		<pluralLabel key="class-plural.Processor_ExtractHL7Attributes"
+			inDefaultLocale="ExtractHL7Attributess"/>
+	</class>
+	<class localId="Processor_ExtractImageMetadata" superClassRef="Processor">
+		<label key="class.Processor_ExtractImageMetadata" inDefaultLocale="ExtractImageMetadata"/>
+		<pluralLabel key="class-plural.Processor_ExtractImageMetadata"
+			inDefaultLocale="ExtractImageMetadatas"/>
+	</class>
+	<class localId="Processor_ExtractMediaMetadata" superClassRef="Processor">
+		<label key="class.Processor_ExtractMediaMetadata" inDefaultLocale="ExtractMediaMetadata"/>
+		<pluralLabel key="class-plural.Processor_ExtractMediaMetadata"
+			inDefaultLocale="ExtractMediaMetadatas"/>
+	</class>
+	<class localId="Processor_ExtractText" superClassRef="Processor">
+		<label key="class.Processor_ExtractText" inDefaultLocale="ExtractText"/>
+		<pluralLabel key="class-plural.Processor_ExtractText" inDefaultLocale="ExtractTexts"/>
+	</class>
+	<class localId="Processor_ExtractTNEFAttachments" superClassRef="Processor">
+		<label key="class.Processor_ExtractTNEFAttachments" inDefaultLocale="ExtractTNEFAttachments"/>
+		<pluralLabel key="class-plural.Processor_ExtractTNEFAttachments"
+			inDefaultLocale="ExtractTNEFAttachmentss"/>
+	</class>
+	<class localId="Processor_FetchAzureBlobStorage" superClassRef="Processor">
+		<label key="class.Processor_FetchAzureBlobStorage" inDefaultLocale="FetchAzureBlobStorage"/>
+		<pluralLabel key="class-plural.Processor_FetchAzureBlobStorage"
+			inDefaultLocale="FetchAzureBlobStorages"/>
+	</class>
+	<class localId="Processor_FetchDistributedMapCache" superClassRef="Processor">
+		<label key="class.Processor_FetchDistributedMapCache"
+			inDefaultLocale="FetchDistributedMapCache"/>
+		<pluralLabel key="class-plural.Processor_FetchDistributedMapCache"
+			inDefaultLocale="FetchDistributedMapCaches"/>
+	</class>
+	<class localId="Processor_FetchElasticsearch" superClassRef="Processor">
+		<label key="class.Processor_FetchElasticsearch" inDefaultLocale="FetchElasticsearch"/>
+		<pluralLabel key="class-plural.Processor_FetchElasticsearch"
+			inDefaultLocale="FetchElasticsearchs"/>
+	</class>
+	<class localId="Processor_FetchElasticsearch5" superClassRef="Processor">
+		<label key="class.Processor_FetchElasticsearch5" inDefaultLocale="FetchElasticsearch5"/>
+		<pluralLabel key="class-plural.Processor_FetchElasticsearch5"
+			inDefaultLocale="FetchElasticsearch5s"/>
+	</class>
+	<class localId="Processor_FetchElasticsearchHttp" superClassRef="Processor">
+		<label key="class.Processor_FetchElasticsearchHttp" inDefaultLocale="FetchElasticsearchHttp"/>
+		<pluralLabel key="class-plural.Processor_FetchElasticsearchHttp"
+			inDefaultLocale="FetchElasticsearchHttps"/>
+	</class>
+	<class localId="Processor_FetchFile" superClassRef="Processor">
+		<label key="class.Processor_FetchFile" inDefaultLocale="FetchFile"/>
+		<pluralLabel key="class-plural.Processor_FetchFile" inDefaultLocale="FetchFiles"/>
+	</class>
+	<class localId="Processor_FetchFTP" superClassRef="Processor">
+		<label key="class.Processor_FetchFTP" inDefaultLocale="FetchFTP"/>
+		<pluralLabel key="class-plural.Processor_FetchFTP" inDefaultLocale="FetchFTPs"/>
+	</class>
+	<class localId="Processor_FetchGCSObject" superClassRef="Processor">
+		<label key="class.Processor_FetchGCSObject" inDefaultLocale="FetchGCSObject"/>
+		<pluralLabel key="class-plural.Processor_FetchGCSObject" inDefaultLocale="FetchGCSObjects"/>
+	</class>
+	<class localId="Processor_FetchGridFS" superClassRef="Processor">
+		<label key="class.Processor_FetchGridFS" inDefaultLocale="FetchGridFS"/>
+		<pluralLabel key="class-plural.Processor_FetchGridFS" inDefaultLocale="FetchGridFSs"/>
+	</class>
+	<class localId="Processor_FetchHBaseRow" superClassRef="Processor">
+		<label key="class.Processor_FetchHBaseRow" inDefaultLocale="FetchHBaseRow"/>
+		<pluralLabel key="class-plural.Processor_FetchHBaseRow" inDefaultLocale="FetchHBaseRows"/>
+	</class>
+	<class localId="Processor_FetchHDFS" superClassRef="Processor">
+		<label key="class.Processor_FetchHDFS" inDefaultLocale="FetchHDFS"/>
+		<pluralLabel key="class-plural.Processor_FetchHDFS" inDefaultLocale="FetchHDFSs"/>
+	</class>
+	<class localId="Processor_FetchParquet" superClassRef="Processor">
+		<label key="class.Processor_FetchParquet" inDefaultLocale="FetchParquet"/>
+		<pluralLabel key="class-plural.Processor_FetchParquet" inDefaultLocale="FetchParquets"/>
+	</class>
+	<class localId="Processor_FetchS3Object" superClassRef="Processor">
+		<label key="class.Processor_FetchS3Object" inDefaultLocale="FetchS3Object"/>
+		<pluralLabel key="class-plural.Processor_FetchS3Object" inDefaultLocale="FetchS3Objects"/>
+	</class>
+	<class localId="Processor_FetchSFTP" superClassRef="Processor">
+		<label key="class.Processor_FetchSFTP" inDefaultLocale="FetchSFTP"/>
+		<pluralLabel key="class-plural.Processor_FetchSFTP" inDefaultLocale="FetchSFTPs"/>
+	</class>
+	<class localId="Processor_FlattenJson" superClassRef="Processor">
+		<label key="class.Processor_FlattenJson" inDefaultLocale="FlattenJson"/>
+		<pluralLabel key="class-plural.Processor_FlattenJson" inDefaultLocale="FlattenJsons"/>
+	</class>
+	<class localId="Processor_ForkRecord" superClassRef="Processor">
+		<label key="class.Processor_ForkRecord" inDefaultLocale="ForkRecord"/>
+		<pluralLabel key="class-plural.Processor_ForkRecord" inDefaultLocale="ForkRecords"/>
+	</class>
+	<class localId="Processor_FuzzyHashContent" superClassRef="Processor">
+		<label key="class.Processor_FuzzyHashContent" inDefaultLocale="FuzzyHashContent"/>
+		<pluralLabel key="class-plural.Processor_FuzzyHashContent"
+			inDefaultLocale="FuzzyHashContents"/>
+	</class>
+	<class localId="Processor_GenerateFlowFile" superClassRef="Processor">
+		<label key="class.Processor_GenerateFlowFile" inDefaultLocale="GenerateFlowFile"/>
+		<pluralLabel key="class-plural.Processor_GenerateFlowFile"
+			inDefaultLocale="GenerateFlowFiles"/>
+	</class>
+	<class localId="Processor_GenerateTableFetch" superClassRef="Processor">
+		<label key="class.Processor_GenerateTableFetch" inDefaultLocale="GenerateTableFetch"/>
+		<pluralLabel key="class-plural.Processor_GenerateTableFetch"
+			inDefaultLocale="GenerateTableFetchs"/>
+	</class>
+	<class localId="Processor_GeoEnrichIP" superClassRef="Processor">
+		<label key="class.Processor_GeoEnrichIP" inDefaultLocale="GeoEnrichIP"/>
+		<pluralLabel key="class-plural.Processor_GeoEnrichIP" inDefaultLocale="GeoEnrichIPs"/>
+	</class>
+	<class localId="Processor_GetAzureEventHub" superClassRef="Processor">
+		<label key="class.Processor_GetAzureEventHub" inDefaultLocale="GetAzureEventHub"/>
+		<pluralLabel key="class-plural.Processor_GetAzureEventHub"
+			inDefaultLocale="GetAzureEventHubs"/>
+	</class>
+	<class localId="Processor_GetAzureQueueStorage" superClassRef="Processor">
+		<label key="class.Processor_GetAzureQueueStorage" inDefaultLocale="GetAzureQueueStorage"/>
+		<pluralLabel key="class-plural.Processor_GetAzureQueueStorage"
+			inDefaultLocale="GetAzureQueueStorages"/>
+	</class>
+	<class localId="Processor_GetCouchbaseKey" superClassRef="Processor">
+		<label key="class.Processor_GetCouchbaseKey" inDefaultLocale="GetCouchbaseKey"/>
+		<pluralLabel key="class-plural.Processor_GetCouchbaseKey" inDefaultLocale="GetCouchbaseKeys"
+		/>
+	</class>
+	<class localId="Processor_GetDynamoDB" superClassRef="Processor">
+		<label key="class.Processor_GetDynamoDB" inDefaultLocale="GetDynamoDB"/>
+		<pluralLabel key="class-plural.Processor_GetDynamoDB" inDefaultLocale="GetDynamoDBs"/>
+	</class>
+	<class localId="Processor_GetFile" superClassRef="Processor">
+		<label key="class.Processor_GetFile" inDefaultLocale="GetFile"/>
+		<pluralLabel key="class-plural.Processor_GetFile" inDefaultLocale="GetFiles"/>
+	</class>
+	<class localId="Processor_GetFTP" superClassRef="Processor">
+		<label key="class.Processor_GetFTP" inDefaultLocale="GetFTP"/>
+		<pluralLabel key="class-plural.Processor_GetFTP" inDefaultLocale="GetFTPs"/>
+	</class>
+	<class localId="Processor_GetHBase" superClassRef="Processor">
+		<label key="class.Processor_GetHBase" inDefaultLocale="GetHBase"/>
+		<pluralLabel key="class-plural.Processor_GetHBase" inDefaultLocale="GetHBases"/>
+	</class>
+	<class localId="Processor_GetHDFS" superClassRef="Processor">
+		<label key="class.Processor_GetHDFS" inDefaultLocale="GetHDFS"/>
+		<pluralLabel key="class-plural.Processor_GetHDFS" inDefaultLocale="GetHDFSs"/>
+	</class>
+	<class localId="Processor_GetHDFSEvents" superClassRef="Processor">
+		<label key="class.Processor_GetHDFSEvents" inDefaultLocale="GetHDFSEvents"/>
+		<pluralLabel key="class-plural.Processor_GetHDFSEvents" inDefaultLocale="GetHDFSEventss"/>
+	</class>
+	<class localId="Processor_GetHDFSFileInfo" superClassRef="Processor">
+		<label key="class.Processor_GetHDFSFileInfo" inDefaultLocale="GetHDFSFileInfo"/>
+		<pluralLabel key="class-plural.Processor_GetHDFSFileInfo" inDefaultLocale="GetHDFSFileInfos"
+		/>
+	</class>
+	<class localId="Processor_GetHDFSSequenceFile" superClassRef="Processor">
+		<label key="class.Processor_GetHDFSSequenceFile" inDefaultLocale="GetHDFSSequenceFile"/>
+		<pluralLabel key="class-plural.Processor_GetHDFSSequenceFile"
+			inDefaultLocale="GetHDFSSequenceFiles"/>
+	</class>
+	<class localId="Processor_GetHTMLElement" superClassRef="Processor">
+		<label key="class.Processor_GetHTMLElement" inDefaultLocale="GetHTMLElement"/>
+		<pluralLabel key="class-plural.Processor_GetHTMLElement" inDefaultLocale="GetHTMLElements"/>
+	</class>
+
+	<class localId="Processor_GetIgniteCache" superClassRef="Processor">
+		<label key="class.Processor_GetIgniteCache" inDefaultLocale="GetIgniteCache"/>
+		<pluralLabel key="class-plural.Processor_GetIgniteCache" inDefaultLocale="GetIgniteCaches"/>
+	</class>
+	<class localId="Processor_GetJMSQueue" superClassRef="Processor">
+		<label key="class.Processor_GetJMSQueue" inDefaultLocale="GetJMSQueue"/>
+		<pluralLabel key="class-plural.Processor_GetJMSQueue" inDefaultLocale="GetJMSQueues"/>
+	</class>
+	<class localId="Processor_GetJMSTopic" superClassRef="Processor">
+		<label key="class.Processor_GetJMSTopic" inDefaultLocale="GetJMSTopic"/>
+		<pluralLabel key="class-plural.Processor_GetJMSTopic" inDefaultLocale="GetJMSTopics"/>
+	</class>
+	<class localId="Processor_GetKafka" superClassRef="Processor">
+		<label key="class.Processor_GetKafka" inDefaultLocale="GetKafka"/>
+		<pluralLabel key="class-plural.Processor_GetKafka" inDefaultLocale="GetKafkas"/>
+	</class>
+	<class localId="Processor_GetMongo" superClassRef="Processor">
+		<label key="class.Processor_GetMongo" inDefaultLocale="GetMongo"/>
+		<pluralLabel key="class-plural.Processor_GetMongo" inDefaultLocale="GetMongos"/>
+	</class>
+	<class localId="Processor_GetMongoRecord" superClassRef="Processor">
+		<label key="class.Processor_GetMongoRecord" inDefaultLocale="GetMongoRecord"/>
+		<pluralLabel key="class-plural.Processor_GetMongoRecord" inDefaultLocale="GetMongoRecords"/>
+	</class>
+	<class localId="Processor_GetRethinkDB" superClassRef="Processor">
+		<label key="class.Processor_GetRethinkDB" inDefaultLocale="GetRethinkDB"/>
+		<pluralLabel key="class-plural.Processor_GetRethinkDB" inDefaultLocale="GetRethinkDBs"/>
+	</class>
+	<class localId="Processor_GetSFTP" superClassRef="Processor">
+		<label key="class.Processor_GetSFTP" inDefaultLocale="GetSFTP"/>
+		<pluralLabel key="class-plural.Processor_GetSFTP" inDefaultLocale="GetSFTPs"/>
+	</class>
+	<class localId="Processor_GetSNMP" superClassRef="Processor">
+		<label key="class.Processor_GetSNMP" inDefaultLocale="GetSNMP"/>
+		<pluralLabel key="class-plural.Processor_GetSNMP" inDefaultLocale="GetSNMPs"/>
+	</class>
+	<class localId="Processor_GetSolr" superClassRef="Processor">
+		<label key="class.Processor_GetSolr" inDefaultLocale="GetSolr"/>
+		<pluralLabel key="class-plural.Processor_GetSolr" inDefaultLocale="GetSolrs"/>
+	</class>
+	<class localId="Processor_GetSplunk" superClassRef="Processor">
+		<label key="class.Processor_GetSplunk" inDefaultLocale="GetSplunk"/>
+		<pluralLabel key="class-plural.Processor_GetSplunk" inDefaultLocale="GetSplunks"/>
+	</class>
+	<class localId="Processor_GetSQS" superClassRef="Processor">
+		<label key="class.Processor_GetSQS" inDefaultLocale="GetSQS"/>
+		<pluralLabel key="class-plural.Processor_GetSQS" inDefaultLocale="GetSQSs"/>
+	</class>
+	<class localId="Processor_GetTCP" superClassRef="Processor">
+		<label key="class.Processor_GetTCP" inDefaultLocale="GetTCP"/>
+		<pluralLabel key="class-plural.Processor_GetTCP" inDefaultLocale="GetTCPs"/>
+	</class>
+	<class localId="Processor_GetTwitter" superClassRef="Processor">
+		<label key="class.Processor_GetTwitter" inDefaultLocale="GetTwitter"/>
+		<pluralLabel key="class-plural.Processor_GetTwitter" inDefaultLocale="GetTwitters"/>
+	</class>
+	<class localId="Processor_HandleHttpRequest" superClassRef="Processor">
+		<label key="class.Processor_HandleHttpRequest" inDefaultLocale="HandleHttpRequest"/>
+		<pluralLabel key="class-plural.Processor_HandleHttpRequest"
+			inDefaultLocale="HandleHttpRequests"/>
+	</class>
+	<class localId="Processor_HandleHttpResponse" superClassRef="Processor">
+		<label key="class.Processor_HandleHttpResponse" inDefaultLocale="HandleHttpResponse"/>
+		<pluralLabel key="class-plural.Processor_HandleHttpResponse"
+			inDefaultLocale="HandleHttpResponses"/>
+	</class>
+	<class localId="Processor_HashAttribute" superClassRef="Processor">
+		<label key="class.Processor_HashAttribute" inDefaultLocale="HashAttribute"/>
+		<pluralLabel key="class-plural.Processor_HashAttribute" inDefaultLocale="HashAttributes"/>
+	</class>
+	<class localId="Processor_HashContent" superClassRef="Processor">
+		<label key="class.Processor_HashContent" inDefaultLocale="HashContent"/>
+		<pluralLabel key="class-plural.Processor_HashContent" inDefaultLocale="HashContents"/>
+	</class>
+	<class localId="Processor_IdentifyMimeType" superClassRef="Processor">
+		<label key="class.Processor_IdentifyMimeType" inDefaultLocale="IdentifyMimeType"/>
+		<pluralLabel key="class-plural.Processor_IdentifyMimeType"
+			inDefaultLocale="IdentifyMimeTypes"/>
+	</class>
+	<class localId="Processor_InferAvroSchema" superClassRef="Processor">
+		<label key="class.Processor_InferAvroSchema" inDefaultLocale="InferAvroSchema"/>
+		<pluralLabel key="class-plural.Processor_InferAvroSchema" inDefaultLocale="InferAvroSchemas"
+		/>
+	</class>
+	<class localId="Processor_InvokeAWSGatewayApi" superClassRef="Processor">
+		<label key="class.Processor_InvokeAWSGatewayApi" inDefaultLocale="InvokeAWSGatewayApi"/>
+		<pluralLabel key="class-plural.Processor_InvokeAWSGatewayApi"
+			inDefaultLocale="InvokeAWSGatewayApis"/>
+	</class>
+	<class localId="Processor_InvokeGRPC" superClassRef="Processor">
+		<label key="class.Processor_InvokeGRPC" inDefaultLocale="InvokeGRPC"/>
+		<pluralLabel key="class-plural.Processor_InvokeGRPC" inDefaultLocale="InvokeGRPCs"/>
+	</class>
+	<class localId="Processor_InvokeHTTP" superClassRef="Processor">
+		<label key="class.Processor_InvokeHTTP" inDefaultLocale="InvokeHTTP"/>
+		<pluralLabel key="class-plural.Processor_InvokeHTTP" inDefaultLocale="InvokeHTTPs"/>
+	</class>
+	<class localId="Processor_InvokeScriptedProcessor" superClassRef="Processor">
+		<label key="class.Processor_InvokeScriptedProcessor"
+			inDefaultLocale="InvokeScriptedProcessor"/>
+		<pluralLabel key="class-plural.Processor_InvokeScriptedProcessor"
+			inDefaultLocale="InvokeScriptedProcessors"/>
+	</class>
+	<class localId="Processor_ISPEnrichIP" superClassRef="Processor">
+		<label key="class.Processor_ISPEnrichIP" inDefaultLocale="ISPEnrichIP"/>
+		<pluralLabel key="class-plural.Processor_ISPEnrichIP" inDefaultLocale="ISPEnrichIPs"/>
+	</class>
+	<class localId="Processor_JoltTransformJSON" superClassRef="Processor">
+		<label key="class.Processor_JoltTransformJSON" inDefaultLocale="JoltTransformJSON"/>
+		<pluralLabel key="class-plural.Processor_JoltTransformJSON"
+			inDefaultLocale="JoltTransformJSONs"/>
+	</class>
+	<class localId="Processor_JoltTransformRecord" superClassRef="Processor">
+		<label key="class.Processor_JoltTransformRecord" inDefaultLocale="JoltTransformRecord"/>
+		<pluralLabel key="class-plural.Processor_JoltTransformRecord"
+			inDefaultLocale="JoltTransformRecords"/>
+	</class>
+	<class localId="Processor_JsonQueryElasticsearch" superClassRef="Processor">
+		<label key="class.Processor_JsonQueryElasticsearch" inDefaultLocale="JsonQueryElasticsearch"/>
+		<pluralLabel key="class-plural.Processor_JsonQueryElasticsearch"
+			inDefaultLocale="JsonQueryElasticsearchs"/>
+	</class>
+	<class localId="Processor_ListAzureBlobStorage" superClassRef="Processor">
+		<label key="class.Processor_ListAzureBlobStorage" inDefaultLocale="ListAzureBlobStorage"/>
+		<pluralLabel key="class-plural.Processor_ListAzureBlobStorage"
+			inDefaultLocale="ListAzureBlobStorages"/>
+	</class>
+	<class localId="Processor_ListDatabaseTables" superClassRef="Processor">
+		<label key="class.Processor_ListDatabaseTables" inDefaultLocale="ListDatabaseTables"/>
+		<pluralLabel key="class-plural.Processor_ListDatabaseTables"
+			inDefaultLocale="ListDatabaseTabless"/>
+	</class>
+	<class localId="Processor_ListenBeats" superClassRef="Processor">
+		<label key="class.Processor_ListenBeats" inDefaultLocale="ListenBeats"/>
+		<pluralLabel key="class-plural.Processor_ListenBeats" inDefaultLocale="ListenBeatss"/>
+	</class>
+	<class localId="Processor_ListenGRPC" superClassRef="Processor">
+		<label key="class.Processor_ListenGRPC" inDefaultLocale="ListenGRPC"/>
+		<pluralLabel key="class-plural.Processor_ListenGRPC" inDefaultLocale="ListenGRPCs"/>
+	</class>
+	<class localId="Processor_ListenHTTP" superClassRef="Processor">
+		<label key="class.Processor_ListenHTTP" inDefaultLocale="ListenHTTP"/>
+		<pluralLabel key="class-plural.Processor_ListenHTTP" inDefaultLocale="ListenHTTPs"/>
+	</class>
+	<class localId="Processor_ListenLumberjack" superClassRef="Processor">
+		<label key="class.Processor_ListenLumberjack" inDefaultLocale="ListenLumberjack"/>
+		<pluralLabel key="class-plural.Processor_ListenLumberjack"
+			inDefaultLocale="ListenLumberjacks"/>
+	</class>
+	<class localId="Processor_ListenRELP" superClassRef="Processor">
+		<label key="class.Processor_ListenRELP" inDefaultLocale="ListenRELP"/>
+		<pluralLabel key="class-plural.Processor_ListenRELP" inDefaultLocale="ListenRELPs"/>
+	</class>
+	<class localId="Processor_ListenSMTP" superClassRef="Processor">
+		<label key="class.Processor_ListenSMTP" inDefaultLocale="ListenSMTP"/>
+		<pluralLabel key="class-plural.Processor_ListenSMTP" inDefaultLocale="ListenSMTPs"/>
+	</class>
+	<class localId="Processor_ListenSyslog" superClassRef="Processor">
+		<label key="class.Processor_ListenSyslog" inDefaultLocale="ListenSyslog"/>
+		<pluralLabel key="class-plural.Processor_ListenSyslog" inDefaultLocale="ListenSyslogs"/>
+	</class>
+	<class localId="Processor_ListenTCP" superClassRef="Processor">
+		<label key="class.Processor_ListenTCP" inDefaultLocale="ListenTCP"/>
+		<pluralLabel key="class-plural.Processor_ListenTCP" inDefaultLocale="ListenTCPs"/>
+	</class>
+	<class localId="Processor_ListenTCPRecord" superClassRef="Processor">
+		<label key="class.Processor_ListenTCPRecord" inDefaultLocale="ListenTCPRecord"/>
+		<pluralLabel key="class-plural.Processor_ListenTCPRecord" inDefaultLocale="ListenTCPRecords"
+		/>
+	</class>
+	<class localId="Processor_ListenUDP" superClassRef="Processor">
+		<label key="class.Processor_ListenUDP" inDefaultLocale="ListenUDP"/>
+		<pluralLabel key="class-plural.Processor_ListenUDP" inDefaultLocale="ListenUDPs"/>
+	</class>
+	<class localId="Processor_ListenUDPRecord" superClassRef="Processor">
+		<label key="class.Processor_ListenUDPRecord" inDefaultLocale="ListenUDPRecord"/>
+		<pluralLabel key="class-plural.Processor_ListenUDPRecord" inDefaultLocale="ListenUDPRecords"
+		/>
+	</class>
+	<class localId="Processor_ListenWebSocket" superClassRef="Processor">
+		<label key="class.Processor_ListenWebSocket" inDefaultLocale="ListenWebSocket"/>
+		<pluralLabel key="class-plural.Processor_ListenWebSocket" inDefaultLocale="ListenWebSockets"
+		/>
+	</class>
+	<class localId="Processor_ListFile" superClassRef="Processor">
+		<label key="class.Processor_ListFile" inDefaultLocale="ListFile"/>
+		<pluralLabel key="class-plural.Processor_ListFile" inDefaultLocale="ListFiles"/>
+	</class>
+	<class localId="Processor_ListFTP" superClassRef="Processor">
+		<label key="class.Processor_ListFTP" inDefaultLocale="ListFTP"/>
+		<pluralLabel key="class-plural.Processor_ListFTP" inDefaultLocale="ListFTPs"/>
+	</class>
+	<class localId="Processor_ListGCSBucket" superClassRef="Processor">
+		<label key="class.Processor_ListGCSBucket" inDefaultLocale="ListGCSBucket"/>
+		<pluralLabel key="class-plural.Processor_ListGCSBucket" inDefaultLocale="ListGCSBuckets"/>
+	</class>
+	<class localId="Processor_ListHDFS" superClassRef="Processor">
+		<label key="class.Processor_ListHDFS" inDefaultLocale="ListHDFS"/>
+		<pluralLabel key="class-plural.Processor_ListHDFS" inDefaultLocale="ListHDFSs"/>
+	</class>
+	<class localId="Processor_ListS3" superClassRef="Processor">
+		<label key="class.Processor_ListS3" inDefaultLocale="ListS3"/>
+		<pluralLabel key="class-plural.Processor_ListS3" inDefaultLocale="ListS3s"/>
+	</class>
+	<class localId="Processor_ListSFTP" superClassRef="Processor">
+		<label key="class.Processor_ListSFTP" inDefaultLocale="ListSFTP"/>
+		<pluralLabel key="class-plural.Processor_ListSFTP" inDefaultLocale="ListSFTPs"/>
+	</class>
+	<class localId="Processor_LogAttribute" superClassRef="Processor">
+		<label key="class.Processor_LogAttribute" inDefaultLocale="LogAttribute"/>
+		<pluralLabel key="class-plural.Processor_LogAttribute" inDefaultLocale="LogAttributes"/>
+	</class>
+	<class localId="Processor_LogMessage" superClassRef="Processor">
+		<label key="class.Processor_LogMessage" inDefaultLocale="LogMessage"/>
+		<pluralLabel key="class-plural.Processor_LogMessage" inDefaultLocale="LogMessages"/>
+	</class>
+	<class localId="Processor_LookupAttribute" superClassRef="Processor">
+		<label key="class.Processor_LookupAttribute" inDefaultLocale="LookupAttribute"/>
+		<pluralLabel key="class-plural.Processor_LookupAttribute" inDefaultLocale="LookupAttributes"
+		/>
+	</class>
+	<class localId="Processor_LookupRecord" superClassRef="Processor">
+		<label key="class.Processor_LookupRecord" inDefaultLocale="LookupRecord"/>
+		<pluralLabel key="class-plural.Processor_LookupRecord" inDefaultLocale="LookupRecords"/>
+	</class>
+	<class localId="Processor_MergeContent" superClassRef="Processor">
+		<label key="class.Processor_MergeContent" inDefaultLocale="MergeContent"/>
+		<pluralLabel key="class-plural.Processor_MergeContent" inDefaultLocale="MergeContents"/>
+	</class>
+	<class localId="Processor_MergeRecord" superClassRef="Processor">
+		<label key="class.Processor_MergeRecord" inDefaultLocale="MergeRecord"/>
+		<pluralLabel key="class-plural.Processor_MergeRecord" inDefaultLocale="MergeRecords"/>
+	</class>
+	<class localId="Processor_ModifyBytes" superClassRef="Processor">
+		<label key="class.Processor_ModifyBytes" inDefaultLocale="ModifyBytes"/>
+		<pluralLabel key="class-plural.Processor_ModifyBytes" inDefaultLocale="ModifyBytess"/>
+	</class>
+	<class localId="Processor_ModifyHTMLElement" superClassRef="Processor">
+		<label key="class.Processor_ModifyHTMLElement" inDefaultLocale="ModifyHTMLElement"/>
+		<pluralLabel key="class-plural.Processor_ModifyHTMLElement"
+			inDefaultLocale="ModifyHTMLElements"/>
+	</class>
+	<class localId="Processor_MonitorActivity" superClassRef="Processor">
+		<label key="class.Processor_MonitorActivity" inDefaultLocale="MonitorActivity"/>
+		<pluralLabel key="class-plural.Processor_MonitorActivity" inDefaultLocale="MonitorActivitys"
+		/>
+	</class>
+	<class localId="Processor_MoveHDFS" superClassRef="Processor">
+		<label key="class.Processor_MoveHDFS" inDefaultLocale="MoveHDFS"/>
+		<pluralLabel key="class-plural.Processor_MoveHDFS" inDefaultLocale="MoveHDFSs"/>
+	</class>
+	<class localId="Processor_Notify" superClassRef="Processor">
+		<label key="class.Processor_Notify" inDefaultLocale="Notify"/>
+		<pluralLabel key="class-plural.Processor_Notify" inDefaultLocale="Notifys"/>
+	</class>
+	<class localId="Processor_ParseCEF" superClassRef="Processor">
+		<label key="class.Processor_ParseCEF" inDefaultLocale="ParseCEF"/>
+		<pluralLabel key="class-plural.Processor_ParseCEF" inDefaultLocale="ParseCEFs"/>
+	</class>
+	<class localId="Processor_ParseEvtx" superClassRef="Processor">
+		<label key="class.Processor_ParseEvtx" inDefaultLocale="ParseEvtx"/>
+		<pluralLabel key="class-plural.Processor_ParseEvtx" inDefaultLocale="ParseEvtxs"/>
+	</class>
+	<class localId="Processor_ParseNetflowv5" superClassRef="Processor">
+		<label key="class.Processor_ParseNetflowv5" inDefaultLocale="ParseNetflowv5"/>
+		<pluralLabel key="class-plural.Processor_ParseNetflowv5" inDefaultLocale="ParseNetflowv5s"/>
+	</class>
+	<class localId="Processor_ParseSyslog" superClassRef="Processor">
+		<label key="class.Processor_ParseSyslog" inDefaultLocale="ParseSyslog"/>
+		<pluralLabel key="class-plural.Processor_ParseSyslog" inDefaultLocale="ParseSyslogs"/>
+	</class>
+	<class localId="Processor_ParseSyslog5424" superClassRef="Processor">
+		<label key="class.Processor_ParseSyslog5424" inDefaultLocale="ParseSyslog5424"/>
+		<pluralLabel key="class-plural.Processor_ParseSyslog5424" inDefaultLocale="ParseSyslog5424s"
+		/>
+	</class>
+	<class localId="Processor_PartitionRecord" superClassRef="Processor">
+		<label key="class.Processor_PartitionRecord" inDefaultLocale="PartitionRecord"/>
+		<pluralLabel key="class-plural.Processor_PartitionRecord" inDefaultLocale="PartitionRecords"
+		/>
+	</class>
+	<class localId="Processor_PostHTTP" superClassRef="Processor">
+		<label key="class.Processor_PostHTTP" inDefaultLocale="PostHTTP"/>
+		<pluralLabel key="class-plural.Processor_PostHTTP" inDefaultLocale="PostHTTPs"/>
+	</class>
+	<class localId="Processor_PublishAMQP" superClassRef="Processor">
+		<label key="class.Processor_PublishAMQP" inDefaultLocale="PublishAMQP"/>
+		<pluralLabel key="class-plural.Processor_PublishAMQP" inDefaultLocale="PublishAMQPs"/>
+	</class>
+	<class localId="Processor_PublishGCPubSub" superClassRef="Processor">
+		<label key="class.Processor_PublishGCPubSub" inDefaultLocale="PublishGCPubSub"/>
+		<pluralLabel key="class-plural.Processor_PublishGCPubSub" inDefaultLocale="PublishGCPubSubs"
+		/>
+	</class>
+	<class localId="Processor_PublishJMS" superClassRef="Processor">
+		<label key="class.Processor_PublishJMS" inDefaultLocale="PublishJMS"/>
+		<pluralLabel key="class-plural.Processor_PublishJMS" inDefaultLocale="PublishJMSs"/>
+	</class>
+	<class localId="Processor_PublishKafka" superClassRef="Processor">
+		<label key="class.Processor_PublishKafka" inDefaultLocale="PublishKafka"/>
+		<pluralLabel key="class-plural.Processor_PublishKafka" inDefaultLocale="PublishKafkas"/>
+	</class>
+	<class localId="Processor_PublishKafka_0_10" superClassRef="Processor">
+		<label key="class.Processor_PublishKafka_0_10" inDefaultLocale="PublishKafka_0_10"/>
+		<pluralLabel key="class-plural.Processor_PublishKafka_0_10"
+			inDefaultLocale="PublishKafka_0_10s"/>
+	</class>
+	<class localId="Processor_PublishKafka_0_11" superClassRef="Processor">
+		<label key="class.Processor_PublishKafka_0_11" inDefaultLocale="PublishKafka_0_11"/>
+		<pluralLabel key="class-plural.Processor_PublishKafka_0_11"
+			inDefaultLocale="PublishKafka_0_11s"/>
+	</class>
+	<class localId="Processor_PublishKafka_1_0" superClassRef="Processor">
+		<label key="class.Processor_PublishKafka_1_0" inDefaultLocale="PublishKafka_1_0"/>
+		<pluralLabel key="class-plural.Processor_PublishKafka_1_0"
+			inDefaultLocale="PublishKafka_1_0s"/>
+	</class>
+	<class localId="Processor_PublishKafka_2_0" superClassRef="Processor">
+		<label key="class.Processor_PublishKafka_2_0" inDefaultLocale="PublishKafka_2_0"/>
+		<pluralLabel key="class-plural.Processor_PublishKafka_2_0"
+			inDefaultLocale="PublishKafka_2_0s"/>
+	</class>
+	<class localId="Processor_PublishKafkaRecord_0_10" superClassRef="Processor">
+		<label key="class.Processor_PublishKafkaRecord_0_10"
+			inDefaultLocale="PublishKafkaRecord_0_10"/>
+		<pluralLabel key="class-plural.Processor_PublishKafkaRecord_0_10"
+			inDefaultLocale="PublishKafkaRecord_0_10s"/>
+	</class>
+	<class localId="Processor_PublishKafkaRecord_0_11" superClassRef="Processor">
+		<label key="class.Processor_PublishKafkaRecord_0_11"
+			inDefaultLocale="PublishKafkaRecord_0_11"/>
+		<pluralLabel key="class-plural.Processor_PublishKafkaRecord_0_11"
+			inDefaultLocale="PublishKafkaRecord_0_11s"/>
+	</class>
+	<class localId="Processor_PublishKafkaRecord_1_0" superClassRef="Processor">
+		<label key="class.Processor_PublishKafkaRecord_1_0" inDefaultLocale="PublishKafkaRecord_1_0"/>
+		<pluralLabel key="class-plural.Processor_PublishKafkaRecord_1_0"
+			inDefaultLocale="PublishKafkaRecord_1_0s"/>
+	</class>
+	<class localId="Processor_PublishKafkaRecord_2_0" superClassRef="Processor">
+		<label key="class.Processor_PublishKafkaRecord_2_0" inDefaultLocale="PublishKafkaRecord_2_0"/>
+		<pluralLabel key="class-plural.Processor_PublishKafkaRecord_2_0"
+			inDefaultLocale="PublishKafkaRecord_2_0s"/>
+	</class>
+	<class localId="Processor_PublishMQTT" superClassRef="Processor">
+		<label key="class.Processor_PublishMQTT" inDefaultLocale="PublishMQTT"/>
+		<pluralLabel key="class-plural.Processor_PublishMQTT" inDefaultLocale="PublishMQTTs"/>
+	</class>
+	<class localId="Processor_PutAzureBlobStorage" superClassRef="Processor">
+		<label key="class.Processor_PutAzureBlobStorage" inDefaultLocale="PutAzureBlobStorage"/>
+		<pluralLabel key="class-plural.Processor_PutAzureBlobStorage"
+			inDefaultLocale="PutAzureBlobStorages"/>
+	</class>
+	<class localId="Processor_PutAzureEventHub" superClassRef="Processor">
+		<label key="class.Processor_PutAzureEventHub" inDefaultLocale="PutAzureEventHub"/>
+		<pluralLabel key="class-plural.Processor_PutAzureEventHub"
+			inDefaultLocale="PutAzureEventHubs"/>
+	</class>
+	<class localId="Processor_PutAzureQueueStorage" superClassRef="Processor">
+		<label key="class.Processor_PutAzureQueueStorage" inDefaultLocale="PutAzureQueueStorage"/>
+		<pluralLabel key="class-plural.Processor_PutAzureQueueStorage"
+			inDefaultLocale="PutAzureQueueStorages"/>
+	</class>
+	<class localId="Processor_PutBigQueryBatch" superClassRef="Processor">
+		<label key="class.Processor_PutBigQueryBatch" inDefaultLocale="PutBigQueryBatch"/>
+		<pluralLabel key="class-plural.Processor_PutBigQueryBatch"
+			inDefaultLocale="PutBigQueryBatchs"/>
+	</class>
+	<class localId="Processor_PutCassandraQL" superClassRef="Processor">
+		<label key="class.Processor_PutCassandraQL" inDefaultLocale="PutCassandraQL"/>
+		<pluralLabel key="class-plural.Processor_PutCassandraQL" inDefaultLocale="PutCassandraQLs"/>
+	</class>
+	<class localId="Processor_PutCassandraRecord" superClassRef="Processor">
+		<label key="class.Processor_PutCassandraRecord" inDefaultLocale="PutCassandraRecord"/>
+		<pluralLabel key="class-plural.Processor_PutCassandraRecord"
+			inDefaultLocale="PutCassandraRecords"/>
+	</class>
+	<class localId="Processor_PutCloudWatchMetric" superClassRef="Processor">
+		<label key="class.Processor_PutCloudWatchMetric" inDefaultLocale="PutCloudWatchMetric"/>
+		<pluralLabel key="class-plural.Processor_PutCloudWatchMetric"
+			inDefaultLocale="PutCloudWatchMetrics"/>
+	</class>
+	<class localId="Processor_PutCouchbaseKey" superClassRef="Processor">
+		<label key="class.Processor_PutCouchbaseKey" inDefaultLocale="PutCouchbaseKey"/>
+		<pluralLabel key="class-plural.Processor_PutCouchbaseKey" inDefaultLocale="PutCouchbaseKeys"
+		/>
+	</class>
+	<class localId="Processor_PutDatabaseRecord" superClassRef="Processor">
+		<label key="class.Processor_PutDatabaseRecord" inDefaultLocale="PutDatabaseRecord"/>
+		<pluralLabel key="class-plural.Processor_PutDatabaseRecord"
+			inDefaultLocale="PutDatabaseRecords"/>
+	</class>
+	<class localId="Processor_PutDistributedMapCache" superClassRef="Processor">
+		<label key="class.Processor_PutDistributedMapCache" inDefaultLocale="PutDistributedMapCache"/>
+		<pluralLabel key="class-plural.Processor_PutDistributedMapCache"
+			inDefaultLocale="PutDistributedMapCaches"/>
+	</class>
+	<class localId="Processor_PutDruidRecord" superClassRef="Processor">
+		<label key="class.Processor_PutDruidRecord" inDefaultLocale="PutDruidRecord"/>
+		<pluralLabel key="class-plural.Processor_PutDruidRecord" inDefaultLocale="PutDruidRecords"/>
+	</class>
+	<class localId="Processor_PutDynamoDB" superClassRef="Processor">
+		<label key="class.Processor_PutDynamoDB" inDefaultLocale="PutDynamoDB"/>
+		<pluralLabel key="class-plural.Processor_PutDynamoDB" inDefaultLocale="PutDynamoDBs"/>
+	</class>
+	<class localId="Processor_PutElasticsearch" superClassRef="Processor">
+		<label key="class.Processor_PutElasticsearch" inDefaultLocale="PutElasticsearch"/>
+		<pluralLabel key="class-plural.Processor_PutElasticsearch"
+			inDefaultLocale="PutElasticsearchs"/>
+	</class>
+	<class localId="Processor_PutElasticsearch5" superClassRef="Processor">
+		<label key="class.Processor_PutElasticsearch5" inDefaultLocale="PutElasticsearch5"/>
+		<pluralLabel key="class-plural.Processor_PutElasticsearch5"
+			inDefaultLocale="PutElasticsearch5s"/>
+	</class>
+	<class localId="Processor_PutElasticsearchHttp" superClassRef="Processor">
+		<label key="class.Processor_PutElasticsearchHttp" inDefaultLocale="PutElasticsearchHttp"/>
+		<pluralLabel key="class-plural.Processor_PutElasticsearchHttp"
+			inDefaultLocale="PutElasticsearchHttps"/>
+	</class>
+	<class localId="Processor_PutElasticsearchHttpRecord" superClassRef="Processor">
+		<label key="class.Processor_PutElasticsearchHttpRecord"
+			inDefaultLocale="PutElasticsearchHttpRecord"/>
+		<pluralLabel key="class-plural.Processor_PutElasticsearchHttpRecord"
+			inDefaultLocale="PutElasticsearchHttpRecords"/>
+	</class>
+	<class localId="Processor_PutEmail" superClassRef="Processor">
+		<label key="class.Processor_PutEmail" inDefaultLocale="PutEmail"/>
+		<pluralLabel key="class-plural.Processor_PutEmail" inDefaultLocale="PutEmails"/>
+	</class>
+	<class localId="Processor_PutFile" superClassRef="Processor">
+		<label key="class.Processor_PutFile" inDefaultLocale="PutFile"/>
+		<pluralLabel key="class-plural.Processor_PutFile" inDefaultLocale="PutFiles"/>
+	</class>
+	<class localId="Processor_PutFTP" superClassRef="Processor">
+		<label key="class.Processor_PutFTP" inDefaultLocale="PutFTP"/>
+		<pluralLabel key="class-plural.Processor_PutFTP" inDefaultLocale="PutFTPs"/>
+	</class>
+	<class localId="Processor_PutGCSObject" superClassRef="Processor">
+		<label key="class.Processor_PutGCSObject" inDefaultLocale="PutGCSObject"/>
+		<pluralLabel key="class-plural.Processor_PutGCSObject" inDefaultLocale="PutGCSObjects"/>
+	</class>
+	<class localId="Processor_PutGridFS" superClassRef="Processor">
+		<label key="class.Processor_PutGridFS" inDefaultLocale="PutGridFS"/>
+		<pluralLabel key="class-plural.Processor_PutGridFS" inDefaultLocale="PutGridFSs"/>
+	</class>
+	<class localId="Processor_PutHBaseCell" superClassRef="Processor">
+		<label key="class.Processor_PutHBaseCell" inDefaultLocale="PutHBaseCell"/>
+		<pluralLabel key="class-plural.Processor_PutHBaseCell" inDefaultLocale="PutHBaseCells"/>
+	</class>
+	<class localId="Processor_PutHBaseJSON" superClassRef="Processor">
+		<label key="class.Processor_PutHBaseJSON" inDefaultLocale="PutHBaseJSON"/>
+		<pluralLabel key="class-plural.Processor_PutHBaseJSON" inDefaultLocale="PutHBaseJSONs"/>
+	</class>
+	<class localId="Processor_PutHBaseRecord" superClassRef="Processor">
+		<label key="class.Processor_PutHBaseRecord" inDefaultLocale="PutHBaseRecord"/>
+		<pluralLabel key="class-plural.Processor_PutHBaseRecord" inDefaultLocale="PutHBaseRecords"/>
+	</class>
+	<class localId="Processor_PutHDFS" superClassRef="Processor">
+		<label key="class.Processor_PutHDFS" inDefaultLocale="PutHDFS"/>
+		<pluralLabel key="class-plural.Processor_PutHDFS" inDefaultLocale="PutHDFSs"/>
+	</class>
+	<class localId="Processor_PutHiveQL" superClassRef="Processor">
+		<label key="class.Processor_PutHiveQL" inDefaultLocale="PutHiveQL"/>
+		<pluralLabel key="class-plural.Processor_PutHiveQL" inDefaultLocale="PutHiveQLs"/>
+	</class>
+	<class localId="Processor_PutHiveStreaming" superClassRef="Processor">
+		<label key="class.Processor_PutHiveStreaming" inDefaultLocale="PutHiveStreaming"/>
+		<pluralLabel key="class-plural.Processor_PutHiveStreaming"
+			inDefaultLocale="PutHiveStreamings"/>
+	</class>
+	<class localId="Processor_PutHTMLElement" superClassRef="Processor">
+		<label key="class.Processor_PutHTMLElement" inDefaultLocale="PutHTMLElement"/>
+		<pluralLabel key="class-plural.Processor_PutHTMLElement" inDefaultLocale="PutHTMLElements"/>
+	</class>
+	<class localId="Processor_PutIgniteCache" superClassRef="Processor">
+		<label key="class.Processor_PutIgniteCache" inDefaultLocale="PutIgniteCache"/>
+		<pluralLabel key="class-plural.Processor_PutIgniteCache" inDefaultLocale="PutIgniteCaches"/>
+	</class>
+	<class localId="Processor_PutInfluxDB" superClassRef="Processor">
+		<label key="class.Processor_PutInfluxDB" inDefaultLocale="PutInfluxDB"/>
+		<pluralLabel key="class-plural.Processor_PutInfluxDB" inDefaultLocale="PutInfluxDBs"/>
+	</class>
+	<class localId="Processor_PutJMS" superClassRef="Processor">
+		<label key="class.Processor_PutJMS" inDefaultLocale="PutJMS"/>
+		<pluralLabel key="class-plural.Processor_PutJMS" inDefaultLocale="PutJMSs"/>
+	</class>
+	<class localId="Processor_PutKafka" superClassRef="Processor">
+		<label key="class.Processor_PutKafka" inDefaultLocale="PutKafka"/>
+		<pluralLabel key="class-plural.Processor_PutKafka" inDefaultLocale="PutKafkas"/>
+	</class>
+	<class localId="Processor_PutKinesisFirehose" superClassRef="Processor">
+		<label key="class.Processor_PutKinesisFirehose" inDefaultLocale="PutKinesisFirehose"/>
+		<pluralLabel key="class-plural.Processor_PutKinesisFirehose"
+			inDefaultLocale="PutKinesisFirehoses"/>
+	</class>
+	<class localId="Processor_PutKinesisStream" superClassRef="Processor">
+		<label key="class.Processor_PutKinesisStream" inDefaultLocale="PutKinesisStream"/>
+		<pluralLabel key="class-plural.Processor_PutKinesisStream"
+			inDefaultLocale="PutKinesisStreams"/>
+	</class>
+	<class localId="Processor_PutKudu" superClassRef="Processor">
+		<label key="class.Processor_PutKudu" inDefaultLocale="PutKudu"/>
+		<pluralLabel key="class-plural.Processor_PutKudu" inDefaultLocale="PutKudus"/>
+	</class>
+	<class localId="Processor_PutLambda" superClassRef="Processor">
+		<label key="class.Processor_PutLambda" inDefaultLocale="PutLambda"/>
+		<pluralLabel key="class-plural.Processor_PutLambda" inDefaultLocale="PutLambdas"/>
+	</class>
+	<class localId="Processor_PutMongo" superClassRef="Processor">
+		<label key="class.Processor_PutMongo" inDefaultLocale="PutMongo"/>
+		<pluralLabel key="class-plural.Processor_PutMongo" inDefaultLocale="PutMongos"/>
+	</class>
+	<class localId="Processor_PutMongoRecord" superClassRef="Processor">
+		<label key="class.Processor_PutMongoRecord" inDefaultLocale="PutMongoRecord"/>
+		<pluralLabel key="class-plural.Processor_PutMongoRecord" inDefaultLocale="PutMongoRecords"/>
+	</class>
+	<class localId="Processor_PutParquet" superClassRef="Processor">
+		<label key="class.Processor_PutParquet" inDefaultLocale="PutParquet"/>
+		<pluralLabel key="class-plural.Processor_PutParquet" inDefaultLocale="PutParquets"/>
+	</class>
+	<class localId="Processor_PutRethinkDB" superClassRef="Processor">
+		<label key="class.Processor_PutRethinkDB" inDefaultLocale="PutRethinkDB"/>
+		<pluralLabel key="class-plural.Processor_PutRethinkDB" inDefaultLocale="PutRethinkDBs"/>
+	</class>
+	<class localId="Processor_PutRiemann" superClassRef="Processor">
+		<label key="class.Processor_PutRiemann" inDefaultLocale="PutRiemann"/>
+		<pluralLabel key="class-plural.Processor_PutRiemann" inDefaultLocale="PutRiemanns"/>
+	</class>
+	<class localId="Processor_PutS3Object" superClassRef="Processor">
+		<label key="class.Processor_PutS3Object" inDefaultLocale="PutS3Object"/>
+		<pluralLabel key="class-plural.Processor_PutS3Object" inDefaultLocale="PutS3Objects"/>
+	</class>
+	<class localId="Processor_PutSFTP" superClassRef="Processor">
+		<label key="class.Processor_PutSFTP" inDefaultLocale="PutSFTP"/>
+		<pluralLabel key="class-plural.Processor_PutSFTP" inDefaultLocale="PutSFTPs"/>
+	</class>
+	<class localId="Processor_PutSlack" superClassRef="Processor">
+		<label key="class.Processor_PutSlack" inDefaultLocale="PutSlack"/>
+		<pluralLabel key="class-plural.Processor_PutSlack" inDefaultLocale="PutSlacks"/>
+	</class>
+	<class localId="Processor_PutSNS" superClassRef="Processor">
+		<label key="class.Processor_PutSNS" inDefaultLocale="PutSNS"/>
+		<pluralLabel key="class-plural.Processor_PutSNS" inDefaultLocale="PutSNSs"/>
+	</class>
+	<class localId="Processor_PutSolrContentStream" superClassRef="Processor">
+		<label key="class.Processor_PutSolrContentStream" inDefaultLocale="PutSolrContentStream"/>
+		<pluralLabel key="class-plural.Processor_PutSolrContentStream"
+			inDefaultLocale="PutSolrContentStreams"/>
+	</class>
+	<class localId="Processor_PutSolrRecord" superClassRef="Processor">
+		<label key="class.Processor_PutSolrRecord" inDefaultLocale="PutSolrRecord"/>
+		<pluralLabel key="class-plural.Processor_PutSolrRecord" inDefaultLocale="PutSolrRecords"/>
+	</class>
+	<class localId="Processor_PutSplunk" superClassRef="Processor">
+		<label key="class.Processor_PutSplunk" inDefaultLocale="PutSplunk"/>
+		<pluralLabel key="class-plural.Processor_PutSplunk" inDefaultLocale="PutSplunks"/>
+	</class>
+	<class localId="Processor_PutSQL" superClassRef="Processor">
+		<label key="class.Processor_PutSQL" inDefaultLocale="PutSQL"/>
+		<pluralLabel key="class-plural.Processor_PutSQL" inDefaultLocale="PutSQLs"/>
+	</class>
+	<class localId="Processor_PutSQS" superClassRef="Processor">
+		<label key="class.Processor_PutSQS" inDefaultLocale="PutSQS"/>
+		<pluralLabel key="class-plural.Processor_PutSQS" inDefaultLocale="PutSQSs"/>
+	</class>
+	<class localId="Processor_PutSyslog" superClassRef="Processor">
+		<label key="class.Processor_PutSyslog" inDefaultLocale="PutSyslog"/>
+		<pluralLabel key="class-plural.Processor_PutSyslog" inDefaultLocale="PutSyslogs"/>
+	</class>
+	<class localId="Processor_PutTCP" superClassRef="Processor">
+		<label key="class.Processor_PutTCP" inDefaultLocale="PutTCP"/>
+		<pluralLabel key="class-plural.Processor_PutTCP" inDefaultLocale="PutTCPs"/>
+	</class>
+	<class localId="Processor_PutUDP" superClassRef="Processor">
+		<label key="class.Processor_PutUDP" inDefaultLocale="PutUDP"/>
+		<pluralLabel key="class-plural.Processor_PutUDP" inDefaultLocale="PutUDPs"/>
+	</class>
+	<class localId="Processor_PutWebSocket" superClassRef="Processor">
+		<label key="class.Processor_PutWebSocket" inDefaultLocale="PutWebSocket"/>
+		<pluralLabel key="class-plural.Processor_PutWebSocket" inDefaultLocale="PutWebSockets"/>
+	</class>
+	<class localId="Processor_QueryCassandra" superClassRef="Processor">
+		<label key="class.Processor_QueryCassandra" inDefaultLocale="QueryCassandra"/>
+		<pluralLabel key="class-plural.Processor_QueryCassandra" inDefaultLocale="QueryCassandras"/>
+	</class>
+
+	<class localId="Processor_QueryDatabaseTable" superClassRef="Processor">
+		<label key="class.Processor_QueryDatabaseTable" inDefaultLocale="QueryDatabaseTable"/>
+		<pluralLabel key="class-plural.Processor_QueryDatabaseTable"
+			inDefaultLocale="QueryDatabaseTables"/>
+	</class>
+
+	<class localId="Processor_QueryElasticsearchHttp" superClassRef="Processor">
+		<label key="class.Processor_QueryElasticsearchHttp" inDefaultLocale="QueryElasticsearchHttp"/>
+		<pluralLabel key="class-plural.Processor_QueryElasticsearchHttp"
+			inDefaultLocale="QueryElasticsearchHttps"/>
+	</class>
+	<class localId="Processor_QueryRecord" superClassRef="Processor">
+		<label key="class.Processor_QueryRecord" inDefaultLocale="QueryRecord"/>
+		<pluralLabel key="class-plural.Processor_QueryRecord" inDefaultLocale="QueryRecords"/>
+	</class>
+	<class localId="Processor_QuerySolr" superClassRef="Processor">
+		<label key="class.Processor_QuerySolr" inDefaultLocale="QuerySolr"/>
+		<pluralLabel key="class-plural.Processor_QuerySolr" inDefaultLocale="QuerySolrs"/>
+	</class>
+	<class localId="Processor_QueryWhois" superClassRef="Processor">
+		<label key="class.Processor_QueryWhois" inDefaultLocale="QueryWhois"/>
+		<pluralLabel key="class-plural.Processor_QueryWhois" inDefaultLocale="QueryWhoiss"/>
+	</class>
+	<class localId="Processor_ReplaceText" superClassRef="Processor">
+		<label key="class.Processor_ReplaceText" inDefaultLocale="ReplaceText"/>
+		<pluralLabel key="class-plural.Processor_ReplaceText" inDefaultLocale="ReplaceTexts"/>
+	</class>
+	<class localId="Processor_ReplaceTextWithMapping" superClassRef="Processor">
+		<label key="class.Processor_ReplaceTextWithMapping" inDefaultLocale="ReplaceTextWithMapping"/>
+		<pluralLabel key="class-plural.Processor_ReplaceTextWithMapping"
+			inDefaultLocale="ReplaceTextWithMappings"/>
+	</class>
+	<class localId="Processor_ResizeImage" superClassRef="Processor">
+		<label key="class.Processor_ResizeImage" inDefaultLocale="ResizeImage"/>
+		<pluralLabel key="class-plural.Processor_ResizeImage" inDefaultLocale="ResizeImages"/>
+	</class>
+	<class localId="Processor_RouteHL7" superClassRef="Processor">
+		<label key="class.Processor_RouteHL7" inDefaultLocale="RouteHL7"/>
+		<pluralLabel key="class-plural.Processor_RouteHL7" inDefaultLocale="RouteHL7s"/>
+	</class>
+	<class localId="Processor_RouteOnAttribute" superClassRef="Processor">
+		<label key="class.Processor_RouteOnAttribute" inDefaultLocale="RouteOnAttribute"/>
+		<pluralLabel key="class-plural.Processor_RouteOnAttribute"
+			inDefaultLocale="RouteOnAttributes"/>
+	</class>
+	<class localId="Processor_RouteOnContent" superClassRef="Processor">
+		<label key="class.Processor_RouteOnContent" inDefaultLocale="RouteOnContent"/>
+		<pluralLabel key="class-plural.Processor_RouteOnContent" inDefaultLocale="RouteOnContents"/>
+	</class>
+	<class localId="Processor_RouteText" superClassRef="Processor">
+		<label key="class.Processor_RouteText" inDefaultLocale="RouteText"/>
+		<pluralLabel key="class-plural.Processor_RouteText" inDefaultLocale="RouteTexts"/>
+	</class>
+	<class localId="Processor_RunMongoAggregation" superClassRef="Processor">
+		<label key="class.Processor_RunMongoAggregation" inDefaultLocale="RunMongoAggregation"/>
+		<pluralLabel key="class-plural.Processor_RunMongoAggregation"
+			inDefaultLocale="RunMongoAggregations"/>
+	</class>
+	<class localId="Processor_ScanAttribute" superClassRef="Processor">
+		<label key="class.Processor_ScanAttribute" inDefaultLocale="ScanAttribute"/>
+		<pluralLabel key="class-plural.Processor_ScanAttribute" inDefaultLocale="ScanAttributes"/>
+	</class>
+	<class localId="Processor_ScanContent" superClassRef="Processor">
+		<label key="class.Processor_ScanContent" inDefaultLocale="ScanContent"/>
+		<pluralLabel key="class-plural.Processor_ScanContent" inDefaultLocale="ScanContents"/>
+	</class>
+	<class localId="Processor_ScanHBase" superClassRef="Processor">
+		<label key="class.Processor_ScanHBase" inDefaultLocale="ScanHBase"/>
+		<pluralLabel key="class-plural.Processor_ScanHBase" inDefaultLocale="ScanHBases"/>
+	</class>
+	<class localId="Processor_ScrollElasticsearchHttp" superClassRef="Processor">
+		<label key="class.Processor_ScrollElasticsearchHttp"
+			inDefaultLocale="ScrollElasticsearchHttp"/>
+		<pluralLabel key="class-plural.Processor_ScrollElasticsearchHttp"
+			inDefaultLocale="ScrollElasticsearchHttps"/>
+	</class>
+	<class localId="Processor_SegmentContent" superClassRef="Processor">
+		<label key="class.Processor_SegmentContent" inDefaultLocale="SegmentContent"/>
+		<pluralLabel key="class-plural.Processor_SegmentContent" inDefaultLocale="SegmentContents"/>
+	</class>
+	<class localId="Processor_SelectHiveQL" superClassRef="Processor">
+		<label key="class.Processor_SelectHiveQL" inDefaultLocale="SelectHiveQL"/>
+		<pluralLabel key="class-plural.Processor_SelectHiveQL" inDefaultLocale="SelectHiveQLs"/>
+	</class>
+	<class localId="Processor_SetSNMP" superClassRef="Processor">
+		<label key="class.Processor_SetSNMP" inDefaultLocale="SetSNMP"/>
+		<pluralLabel key="class-plural.Processor_SetSNMP" inDefaultLocale="SetSNMPs"/>
+	</class>
+	<class localId="Processor_SplitAvro" superClassRef="Processor">
+		<label key="class.Processor_SplitAvro" inDefaultLocale="SplitAvro"/>
+		<pluralLabel key="class-plural.Processor_SplitAvro" inDefaultLocale="SplitAvros"/>
+	</class>
+	<class localId="Processor_SplitContent" superClassRef="Processor">
+		<label key="class.Processor_SplitContent" inDefaultLocale="SplitContent"/>
+		<pluralLabel key="class-plural.Processor_SplitContent" inDefaultLocale="SplitContents"/>
+	</class>
+	<class localId="Processor_SplitJson" superClassRef="Processor">
+		<label key="class.Processor_SplitJson" inDefaultLocale="SplitJson"/>
+		<pluralLabel key="class-plural.Processor_SplitJson" inDefaultLocale="SplitJsons"/>
+	</class>
+	<class localId="Processor_SplitRecord" superClassRef="Processor">
+		<label key="class.Processor_SplitRecord" inDefaultLocale="SplitRecord"/>
+		<pluralLabel key="class-plural.Processor_SplitRecord" inDefaultLocale="SplitRecords"/>
+	</class>
+	<class localId="Processor_SplitText" superClassRef="Processor">
+		<label key="class.Processor_SplitText" inDefaultLocale="SplitText"/>
+		<pluralLabel key="class-plural.Processor_SplitText" inDefaultLocale="SplitTexts"/>
+	</class>
+	<class localId="Processor_SplitXml" superClassRef="Processor">
+		<label key="class.Processor_SplitXml" inDefaultLocale="SplitXml"/>
+		<pluralLabel key="class-plural.Processor_SplitXml" inDefaultLocale="SplitXmls"/>
+	</class>
+	<class localId="Processor_SpringContextProcessor" superClassRef="Processor">
+		<label key="class.Processor_SpringContextProcessor" inDefaultLocale="SpringContextProcessor"/>
+		<pluralLabel key="class-plural.Processor_SpringContextProcessor"
+			inDefaultLocale="SpringContextProcessors"/>
+	</class>
+	<class localId="Processor_StoreInKiteDataset" superClassRef="Processor">
+		<label key="class.Processor_StoreInKiteDataset" inDefaultLocale="StoreInKiteDataset"/>
+		<pluralLabel key="class-plural.Processor_StoreInKiteDataset"
+			inDefaultLocale="StoreInKiteDatasets"/>
+	</class>
+	<class localId="Processor_TagS3Object" superClassRef="Processor">
+		<label key="class.Processor_TagS3Object" inDefaultLocale="TagS3Object"/>
+		<pluralLabel key="class-plural.Processor_TagS3Object" inDefaultLocale="TagS3Objects"/>
+	</class>
+	<class localId="Processor_TailFile" superClassRef="Processor">
+		<label key="class.Processor_TailFile" inDefaultLocale="TailFile"/>
+		<pluralLabel key="class-plural.Processor_TailFile" inDefaultLocale="TailFiles"/>
+	</class>
+	<class localId="Processor_TransformXml" superClassRef="Processor">
+		<label key="class.Processor_TransformXml" inDefaultLocale="TransformXml"/>
+		<pluralLabel key="class-plural.Processor_TransformXml" inDefaultLocale="TransformXmls"/>
+	</class>
+	<class localId="Processor_UnpackContent" superClassRef="Processor">
+		<label key="class.Processor_UnpackContent" inDefaultLocale="UnpackContent"/>
+		<pluralLabel key="class-plural.Processor_UnpackContent" inDefaultLocale="UnpackContents"/>
+	</class>
+	<class localId="Processor_UpdateAttribute" superClassRef="Processor">
+		<label key="class.Processor_UpdateAttribute" inDefaultLocale="UpdateAttribute"/>
+		<pluralLabel key="class-plural.Processor_UpdateAttribute" inDefaultLocale="UpdateAttributes"
+		/>
+	</class>
+	<class localId="Processor_UpdateCounter" superClassRef="Processor">
+		<label key="class.Processor_UpdateCounter" inDefaultLocale="UpdateCounter"/>
+		<pluralLabel key="class-plural.Processor_UpdateCounter" inDefaultLocale="UpdateCounters"/>
+	</class>
+	<class localId="Processor_UpdateRecord" superClassRef="Processor">
+		<label key="class.Processor_UpdateRecord" inDefaultLocale="UpdateRecord"/>
+		<pluralLabel key="class-plural.Processor_UpdateRecord" inDefaultLocale="UpdateRecords"/>
+	</class>
+	<class localId="Processor_ValidateCsv" superClassRef="Processor">
+		<label key="class.Processor_ValidateCsv" inDefaultLocale="ValidateCsv"/>
+		<pluralLabel key="class-plural.Processor_ValidateCsv" inDefaultLocale="ValidateCsvs"/>
+	</class>
+	<class localId="Processor_ValidateRecord" superClassRef="Processor">
+		<label key="class.Processor_ValidateRecord" inDefaultLocale="ValidateRecord"/>
+		<pluralLabel key="class-plural.Processor_ValidateRecord" inDefaultLocale="ValidateRecords"/>
+	</class>
+	<class localId="Processor_ValidateXml" superClassRef="Processor">
+		<label key="class.Processor_ValidateXml" inDefaultLocale="ValidateXml"/>
+		<pluralLabel key="class-plural.Processor_ValidateXml" inDefaultLocale="ValidateXmls"/>
+	</class>
+	<class localId="Processor_Wait" superClassRef="Processor">
+		<label key="class.Processor_Wait" inDefaultLocale="Wait"/>
+		<pluralLabel key="class-plural.Processor_Wait" inDefaultLocale="Waits"/>
+	</class>
+	<class localId="Processor_YandexTranslate" superClassRef="Processor">
+		<label key="class.Processor_YandexTranslate" inDefaultLocale="YandexTranslate"/>
+		<pluralLabel key="class-plural.Processor_YandexTranslate" inDefaultLocale="YandexTranslates"
+		/>
+	</class>
+
+
+
+
+
+	<!-- *************************** Datafield **************************** -->
+
+	<class localId="DataField" containerClassRefs="Processor" canHaveImage="false">
+		<label key="class.DataField" inDefaultLocale="DataField"/>
+		<pluralLabel key="class-plural.DataField" inDefaultLocale="DataFields"/>
+
+		<headerSection>
+			<attribute localId="datatype" type="String">
+				<label key="attr.DataField.datatype" inDefaultLocale="Data Type"/>
+			</attribute>
+		</headerSection>
+
+		<section>
+			<label key="section.DataField.Parameters" inDefaultLocale="Parameters"/>
+
+			<attribute localId="id" type="String">
+				<label key="attr.DataField.id" inDefaultLocale="Id"/>
+			</attribute>
+
+			<attribute localId="parentGroupId" type="String">
+				<label key="attr.DataField.parentGroupId" inDefaultLocale="GroupId"/>
+			</attribute>
+
+			<attribute localId="type" type="String">
+				<label key="attr.DataField.type" inDefaultLocale="Type"/>
+			</attribute>
+
+			<attribute localId="state" type="String">
+				<label key="attr.DataField.state" inDefaultLocale="State"/>
+			</attribute>
+
+			<attribute localId="comments" type="String">
+				<label key="attr.DataField.comments" inDefaultLocale="Comments"/>
+			</attribute>
+
+			<attribute localId="inputRequirement" type="String">
+				<label key="attr.DataField.inputRequirement" inDefaultLocale="Input Requirement"/>
+			</attribute>
+
+		</section>
+
+	</class>
+
+
+</descriptor>
