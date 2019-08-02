@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc xmlns="http://www.ibm.com/iis/flow-doc">
+    <assets>
+        <asset class="$NiFi-ProcessGroup" repr="NiFi Flow" ID="a1">
+            <attribute name="$id" value="90e748c3-015a-1000-f68d-292036f42e8f" />
+            <attribute name="$parentGroupId" value=" null," />
+            <attribute name="name" value="NiFi Flow" />
+            <attribute name="$comments" value="Tela principal - 14:41" />
+            <attribute name="$runningCount" value=" 0" />
+            <attribute name="$stoppedCount" value=" 9" />
+        </asset>
+        <asset class="$NiFi-ProcessGroup" repr="Novo PG criado agora" ID="a2">
+            <attribute name="$id" value="082ffd48-016a-1000-0000-000019b97954" />
+            <attribute name="$parentGroupId" value="90e748c3-015a-1000-f68d-292036f42e8f" />
+            <attribute name="name" value="Novo PG criado agora" />
+            <attribute name="$comments" value="comentário do novo PG" />
+            <attribute name="$runningCount" value=" 0" />
+            <attribute name="$stoppedCount" value=" 2" />
+        </asset>
+        <asset class="$NiFi-ProcessGroup" repr="Demo Flow teste Igor" ID="a3">
+            <attribute name="$id" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$parentGroupId" value="90e748c3-015a-1000-f68d-292036f42e8f" />
+            <attribute name="name" value="Demo Flow teste Igor" />
+            <attribute name="$comments" value="Flow de teste - reuniao" />
+            <attribute name="$runningCount" value=" 0" />
+            <attribute name="$stoppedCount" value=" 7" />
+        </asset>
+        <asset class="$NiFi-RemoteProcessGroup" repr="https://localhost:8443" ID="a4">
+            <attribute name="$id" value="0cb99766-016a-1000-0000-000011e159a1" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="name" value="https://localhost:8443" />
+            <attribute name="$URL" value="https://localhost:8443" />
+            <attribute name="$Transmiting" value="NotTransmitting" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="QueryDNS" ID="a5">
+            <attribute name="name" value="QueryDNS" />
+            <attribute name="$id" value="0e08944c-016a-1000-ffff-ffff8972a4d8" />
+            <attribute name="$parentGroupId" value="082ffd48-016a-1000-0000-000019b97954" />
+            <attribute name="$type" value="org.apache.nifi.processors.enrich.QueryDNS" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="GetHTTP" ID="a6">
+            <attribute name="name" value="GetHTTP" />
+            <attribute name="$id" value="0e0a11d9-016a-1000-0000-00005f3dbb7e" />
+            <attribute name="$parentGroupId" value="082ffd48-016a-1000-0000-000019b97954" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.GetHTTP" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_FORBIDDEN" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="ConvertRecord" ID="a7">
+            <attribute name="name" value="ConvertRecord" />
+            <attribute name="$id" value="0e091eb6-016a-1000-ffff-ffffc6750f09" />
+            <attribute name="$parentGroupId" value="082ffd48-016a-1000-0000-000019b97954" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.ConvertRecord" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="RouteOnAttribute" ID="a8">
+            <attribute name="name" value="RouteOnAttribute" />
+            <attribute name="$id" value="ba9810a6-0162-1000-0000-00001df5b2c5" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.RouteOnAttribute" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="PublishKafka_1_0" ID="a9">
+            <attribute name="name" value="PublishKafka_1_0" />
+            <attribute name="$id" value="bbc02858-0162-1000-ffff-ffff9feca20a" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="org.apache.nifi.processors.kafka.pubsub.PublishKafka_1_0" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="EnrichTruckData" ID="a10">
+            <attribute name="name" value="EnrichTruckData" />
+            <attribute name="$id" value="bb765e18-0162-1000-0000-00004647b527" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="com.orendainx.trucking.nifi.processors.EnrichTruckData" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="ConvertRecord" ID="a11">
+            <attribute name="name" value="ConvertRecord" />
+            <attribute name="$id" value="ba98635e-0162-1000-0000-000069713e68" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.ConvertRecord" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="PublishKafka_1_0" ID="a12">
+            <attribute name="name" value="PublishKafka_1_0" />
+            <attribute name="$id" value="98e33e9a-ad36-18bf-82d7-82e72e9bd5ac" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="org.apache.nifi.processors.kafka.pubsub.PublishKafka_1_0" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="GetTruckingData" ID="a13">
+            <attribute name="name" value="GetTruckingData" />
+            <attribute name="$id" value="bb76754d-0162-1000-0000-000042c680a6" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="com.orendainx.trucking.nifi.processors.GetTruckingData" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_FORBIDDEN" />
+        </asset>
+        <asset class="$NiFi-Processor" repr="ConvertRecord" ID="a14">
+            <attribute name="name" value="ConvertRecord" />
+            <attribute name="$id" value="26f63ebb-e71b-1e49-9033-9a291b7bf29a" />
+            <attribute name="$parentGroupId" value="02fd8e72-016a-1000-0000-00004509f2ce" />
+            <attribute name="$type" value="org.apache.nifi.processors.standard.ConvertRecord" />
+            <attribute name="$state" value="STOPPED" />
+            <attribute name="$comments" value="" />
+            <attribute name="$inputRequirement" value="INPUT_REQUIRED" />
+        </asset>
+    </assets>
+    <importAction partialAssetIDs="a1" completeAssetIDs="a14"/>
+</doc> 
