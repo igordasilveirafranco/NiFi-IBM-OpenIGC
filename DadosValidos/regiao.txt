@@ -1,0 +1,139 @@
+Agreste Alagoano
+Agreste Paraibano
+Agreste Pernambucano
+Agreste Potiguar
+Agreste Sergipano
+Araraquara
+Araçatuba
+Assis
+Baixadas
+Baixo Amazonas
+Bauru
+Borborema
+Campinas
+Campo das Vertentes
+Central Espírito-santense
+Central Mineira
+Central Potiguar
+Centro Amazonense
+Centro Fluminense
+Centro Goiano
+Centro Maranhense
+Centro Norte Baiano
+Centro Norte de Mato Grosso do Sul
+Centro Ocidental Paranaense
+Centro Ocidental Rio-grandense
+Centro Oriental Paranaense
+Centro Oriental Rio-grandense
+Centro Sul Baiano
+Centro-Norte Piauiense
+Centro-Sul Cearense
+Centro-Sul Mato-grossense
+Centro-Sul Paranaense
+Distrito Federal
+Extremo Oeste Baiano
+Grande Florianópolis
+Itapetininga
+Jaguaribe
+Jequitinhonha
+Leste Alagoano
+Leste Goiano
+Leste Maranhense
+Leste Potiguar
+Leste Rondoniense
+Leste Sergipano
+Leste de Mato Grosso do Sul
+Litoral Norte Espírito-santense
+Litoral Sul Paulista
+Macro Metropolitana Paulista
+Madeira-Guaporé
+Marajó
+Marília
+Mata Paraibana
+Mata Pernambucana
+Metropolitana de Belo Horizonte
+Metropolitana de Belém
+Metropolitana de Curitiba
+Metropolitana de Fortaleza
+Metropolitana de Porto Alegre
+Metropolitana de Recife
+Metropolitana de Salvador
+Metropolitana de São Paulo
+Metropolitana do Rio de Janeiro
+Nordeste Baiano
+Nordeste Mato-grossense
+Nordeste Paraense
+Nordeste Rio-grandense
+Noroeste Cearense
+Noroeste Espírito-santense
+Noroeste Fluminense
+Noroeste Goiano
+Noroeste Paranaense
+Noroeste Rio-grandense
+Noroeste de Minas
+Norte Amazonense
+Norte Catarinense
+Norte Cearense
+Norte Central Paranaense
+Norte Fluminense
+Norte Goiano
+Norte Maranhense
+Norte Mato-grossense
+Norte Piauiense
+Norte Pioneiro Paranaense
+Norte de Minas
+Norte de Roraima
+Norte do Amapá
+Ocidental do Tocantins
+Oeste Catarinense
+Oeste Maranhense
+Oeste Paranaense
+Oeste Potiguar
+Oeste de Minas
+Oriental do Tocantins
+Pantanais Sul Mato-grossense
+Piracicaba
+Presidente Prudente
+Ribeirão Preto
+Serrana
+Sertão Alagoano
+Sertão Paraibano
+Sertão Pernambucano
+Sertão Sergipano
+Sertões Cearenses
+Sudeste Mato-grossense
+Sudeste Paraense
+Sudeste Paranaense
+Sudeste Piauiense
+Sudeste Rio-grandense
+Sudoeste Amazonense
+Sudoeste Mato-grossense
+Sudoeste Paraense
+Sudoeste Paranaense
+Sudoeste Piauiense
+Sudoeste Rio-grandense
+Sudoeste de Mato Grosso do Sul
+Sul Amazonense
+Sul Baiano
+Sul Catarinense
+Sul Cearense
+Sul Espírito-santense
+Sul Fluminense
+Sul Goiano
+Sul Maranhense
+Sul de Roraima
+Sul do Amapá
+Sul de Minas
+Sudoeste de Minas
+São Francisco Pernambucano
+São José do Rio Preto
+Triângulo Mineiro
+Alto Paranaíba
+Vale São-Franciscano da Bahia
+Vale do Acre
+Vale do Itajaí
+Vale do Juruá
+Vale do Mucuri
+Vale do Paraíba Paulista
+Vale do Rio Doce
+Zona da Mata

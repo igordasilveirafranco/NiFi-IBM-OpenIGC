@@ -1,0 +1,64 @@
+AC
+AL
+AM
+AP
+BA
+CE
+DF
+ES
+GO
+MA
+MG
+MS
+MT
+PA
+PB
+PE
+PI
+PR
+RJ
+RN
+RO
+RR
+RS
+SC
+SE
+SP
+TO
+Acre
+Alagoas
+Amapá
+Amapa
+Amazonas
+Bahia
+Ceara
+Distrito Federal
+Espírito Santo
+Espirito Santo
+Goiás
+Goias
+Maranhão
+Maranhao
+Mato Grosso
+Mato Grosso do Sul
+Minas Gerais
+Pará
+Para
+Paraíba
+Paraiba
+Paraná
+Parana
+Pernambuco
+Piauí
+Piaui
+Rio de Janeiro
+Rio Grande do Norte
+Rio Grande do Sul
+Rondônia
+Rondonia
+Roraima
+Santa Catarina
+São Paulo
+Sao Paulo
+Sergipe
+Tocantins

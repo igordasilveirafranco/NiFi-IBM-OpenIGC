@@ -1,0 +1,31 @@
+Analfabetizado
+Analfabeto
+Doutorado
+Educacao Infantil
+Educação Infantil
+Ensino Fundamental
+Ensino Fundamental Incompleto
+Ensino Medio
+Ensino Médio
+Ensino Médio Incompleto
+Ensino Medio Incompleto
+Ensino Superior
+Fundamental Incompleto
+Graduação
+Graduacao
+Graduação Incompleto
+Graduacao Incompleto
+Médio Incompleto
+Medio Incompleto
+Mestrado
+Pós
+Pos
+Pos Graduacao
+Pós Graduação
+Pós-Graduação
+Pós Graduado
+Superior
+Tecnico
+Técnico
+Tecnologo
+Tecnólogo
