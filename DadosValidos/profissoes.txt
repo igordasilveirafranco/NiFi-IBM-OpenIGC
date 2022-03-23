@@ -68,6 +68,7 @@ Alinhador
 Almoxarife
 Alpinista Industrial
 Amarrador
+Analista
 Analista Administrativo
 Analista Administrativo de Obras
 Analista Ambiental
@@ -734,6 +735,7 @@ Bordador
 Borracheiro
 Brigadista
 Business Partner
+BUSINESS CONSULTANT
 Cabeleireiro
 Cabista
 Caixa de Banco
@@ -1657,6 +1659,7 @@ Gemólogo
 Geofísico
 Geógrafo
 Geólogo
+Gerente
 Gerente Administrativo
 Gerente Agrícola
 Gerente Bancário
