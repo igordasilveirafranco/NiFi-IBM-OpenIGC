@@ -1,0 +1,41 @@
+Inativação
+Alteração
+Ativação
+Atraso
+Automática
+Bandeira
+Bloqueada
+Bloqueio
+Cancelamento
+Carta de cancelamento de venda
+Chip reativado pelo Analista
+Consulta
+Contestação
+Contratação
+Dados de contato
+Dados do Representante
+Denegado SEFAZ
+Domicílio Bancário
+Endereço
+Estorno
+Exclusão
+Execução
+Extrato
+Falhou
+Hieraquia de Pagamento
+Horário de Trabalho
+Inativação
+Inclusão
+Modalidade incorreta
+Orientação
+Outros
+Razão Social
+Nome Fantasia
+Serviços
+Solicitação
+Suporte técnico
+Taxas
+Tarifas
+Valores
+Promoções
+Trava de Domicilio
