@@ -1,0 +1,15 @@
+Cadastro
+Equipamento
+Financeiro
+Antecipação
+Contato
+Portal
+Credenciamento
+Campanha
+Crédito
+Suprimentos
+Terminal comprado
+Software
+Proposta
+Suporte ao Provedor
+Serviços
