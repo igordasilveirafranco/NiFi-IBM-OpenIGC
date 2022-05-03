@@ -1,0 +1,27 @@
+Bandeira
+POS
+Manutenção
+Bandeira
+Conta
+Consulta
+Cancelamento de Venda
+Manual
+Taxa
+Ativo
+Direcionamento
+Manuseio Novo Portal
+Recusa
+Cancelamento
+Chargeback
+Retenção
+Automática
+Bobina
+PID
+Não Aprovado
+Leitora de CartÃ£o
+Alteração Status CHIP
+Hieraquia de Relacionamento
+Negada por crédito e risco
+OS Cancelada
+Limite de parcelas
+Solicitação
