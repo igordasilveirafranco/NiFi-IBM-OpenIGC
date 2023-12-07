@@ -1,84 +1,135 @@
+Abadia de Goias
 Abadia de Goiás
 Abadia Dos Dourados
+Abadiania
 Abadiânia
+Abaete
 Abaeté
 Abaetetuba
 Abaiara
+Abaira
 Abaíra
+Abare
 Abaré
+Abatia
 Abatiá
 Abdon Batista
 Abel Figueiredo
 Abelardo Luz
 Abre Campo
 Abreu e Lima
+Abreulandia
 Abreulândia
 Acaiaca
+Acailandia
 Açailândia
 Acajutiba
+Acara
 Acará
+Acarape
 Acarapé
+Acarau
 Acaraú
 Acari
+Acaua
 Acauã
+Acegua
 Aceguá
 Acopiara
 Acorizal
+Acrelandia
 Acrelândia
+Acreuna
 Acreúna
+Acu
 Açu
+Acucena
 Açucena
 Adamantina
+Adelandia
 Adelândia
 Adolfo
+Adrianopolis
 Adrianópolis
 Adustina
 Afogados da Ingazeira
 Afonso Bezerra
+Afonso Claudio
 Afonso Cláudio
 Afonso Cunha
+Afranio
 Afrânio
+Afua
 Afuá
 Agrestina
+Agricolandia
 Agricolândia
+Agrolandia
 Agrolândia
+Agronomica
 Agronômica
+agua Azul do Norte
 Água Azul do Norte
+agua Boa
 Água Boa
-Água Boa
+agua Branca
 Água Branca
-Água Branca
-Água Branca
+agua Clara
 Água Clara
+agua Comprida
 Água Comprida
+agua Doce
 Água Doce
+agua Doce do Maranhao
 Água Doce do Maranhão
+agua Doce do Norte
 Água Doce do Norte
+agua Fria
 Água Fria
+agua Fria de Goias
 Água Fria de Goiás
+agua Limpa
 Água Limpa
+agua Nova
 Água Nova
+agua Preta
 Água Preta
+agua Santa
 Água Santa
+Aguai
 Aguaí
 Aguanil
+aguas Belas
 Águas Belas
+aguas da Prata
 Águas da Prata
+aguas de Chapeco
 Águas de Chapecó
+aguas de Lindoia
 Águas de Lindóia
+aguas de Santa Barbara
 Águas de Santa Bárbara
+aguas de Sao Pedro
 Águas de São Pedro
+aguas Formosas
 Águas Formosas
+aguas Frias
 Águas Frias
+aguas Lindas de Goias
 Águas Lindas de Goiás
+aguas Mornas
 Águas Mornas
+aguas Vermelhas
 Águas Vermelhas
 Agudo
 Agudos
 Agudos do Sul
+aguia Branca
 Águia Branca
 Aguiar
+Aguiarnopolis
 Aguiarnópolis
+Aimores
 Aimorés
 Aiquara
 Aiuaba
@@ -88,232 +139,327 @@ Alagoa
 Alagoa Grande
 Alagoa Nova
 Alagoinha
-Alagoinha
+Alagoinha do Piaui
 Alagoinha do Piauí
 Alagoinhas
 Alambari
 Albertina
+Alcantara
 Alcântara
+Alcantaras
 Alcântaras
 Alcantil
+Alcinopolis
 Alcinópolis
+Alcobaca
 Alcobaça
 Aldeias Altas
 Alecrim
 Alegre
 Alegrete
+Alegrete do Piaui
 Alegrete do Piauí
 Alegria
+Alem Paraiba
 Além Paraíba
 Alenquer
 Alexandria
+Alexania
 Alexânia
 Alfenas
 Alfredo Chaves
 Alfredo Marcondes
 Alfredo Vasconcelos
 Alfredo Wagner
+Algodao de Jandaira
 Algodão de Jandaíra
 Alhandra
+Alianca
 Aliança
+Alianca do Tocantins
 Aliança do Tocantins
 Almadina
 Almas
 Almeirim
 Almenara
 Almino Afonso
+Almirante Tamandare
 Almirante Tamandaré
+Almirante Tamandare do Sul
 Almirante Tamandaré do Sul
+Aloandia
 Aloândia
 Alpercata
 Alpestre
+Alpinopolis
 Alpinópolis
 Alta Floresta
 Alta Floresta D´oeste
 Altair
 Altamira
+Altamira do Maranhao
 Altamira do Maranhão
+Altamira do Parana
 Altamira do Paraná
 Altaneira
 Alterosa
 Altinho
+Altinopolis
 Altinópolis
 Alto Alegre
-Alto Alegre
-Alto Alegre
+Alto Alegre do Maranhao
 Alto Alegre do Maranhão
+Alto Alegre do Pindare
 Alto Alegre do Pindaré
 Alto Alegre Dos Parecis
 Alto Araguaia
 Alto Bela Vista
 Alto Boa Vista
+Alto Caparao
 Alto Caparaó
 Alto do Rodrigues
 Alto Feliz
+Alto Garcas
 Alto Garças
 Alto Horizonte
+Alto Jequitiba
 Alto Jequitibá
+Alto Longa
 Alto Longá
 Alto Paraguai
+Alto Paraiso
 Alto Paraíso
+Alto Paraiso de Goias
 Alto Paraíso de Goiás
+Alto Parana
 Alto Paraná
+Alto Parnaiba
 Alto Parnaíba
 Alto Piquiri
 Alto Rio Doce
 Alto Rio Novo
 Alto Santo
 Alto Taquari
+Altonia
 Altônia
 Altos
+Aluminio
 Alumínio
+Alvaraes
 Alvarães
 Alvarenga
+alvares Florence
 Álvares Florence
+alvares Machado
 Álvares Machado
+alvaro de Carvalho
 Álvaro de Carvalho
+Alvinlandia
 Alvinlândia
+Alvinopolis
 Alvinópolis
-Alvorada
 Alvorada
 Alvorada D´oeste
 Alvorada de Minas
+Alvorada do Gurgueia
 Alvorada do Gurguéia
 Alvorada do Norte
 Alvorada do Sul
 Amajari
+Amambai
 Amambaí
+Amapa
 Amapá
+Amapa do Maranhao
 Amapá do Maranhão
+Amapora
 Amaporã
 Amaraji
 Amaral Ferrador
 Amaralina
 Amarante
+Amarante do Maranhao
 Amarante do Maranhão
 Amargosa
+Amatura
 Amaturá
+Amelia Rodrigues
 Amélia Rodrigues
+America Dourada
 América Dourada
 Americana
 Americano do Brasil
+Americo Brasiliense
 Américo Brasiliense
+Americo de Campos
 Américo de Campos
 Ametista do Sul
 Amontada
+Amorinopolis
 Amorinópolis
 Amparo
-Amparo
+Amparo de Sao Francisco
 Amparo de São Francisco
 Amparo do Serra
+Ampere
 Ampére
 Anadia
+Anage
 Anagé
 Anahy
+Anajas
 Anajás
 Anajatuba
+Analandia
 Analândia
+Anama
 Anamã
+Ananas
 Ananás
 Ananindeua
+Anapolis
 Anápolis
 Anapu
 Anapurus
+Anastacio
 Anastácio
+Anaurilandia
 Anaurilândia
 Anchieta
-Anchieta
+Andarai
 Andaraí
+Andira
 Andirá
 Andorinha
 Andradas
 Andradina
+Andre da Rocha
 André da Rocha
+Andrelandia
 Andrelândia
 Angatuba
+Angelandia
 Angelândia
+Angelica
 Angélica
 Angelim
 Angelina
 Angical
+Angical do Piaui
 Angical do Piauí
 Angico
 Angicos
 Angra Dos Reis
 Anguera
+angulo
 Ângulo
 Anhanguera
 Anhembi
 Anhumas
 Anicuns
+Anisio de Abreu
 Anísio de Abreu
 Anita Garibaldi
+Anitapolis
 Anitápolis
 Anori
 Anta Gorda
 Antas
 Antonina
 Antonina do Norte
+Antonio Almeida
 Antônio Almeida
+Antonio Cardoso
 Antônio Cardoso
+Antonio Carlos
 Antônio Carlos
-Antônio Carlos
+Antonio Dias
 Antônio Dias
+Antonio Goncalves
 Antônio Gonçalves
+Antonio Joao
 Antônio João
+Antonio Martins
 Antônio Martins
+Antonio Olinto
 Antônio Olinto
+Antonio Prado
 Antônio Prado
+Antonio Prado de Minas
 Antônio Prado de Minas
 Aparecida
-Aparecida
 Aparecida D´oeste
+Aparecida de Goiania
 Aparecida de Goiânia
 Aparecida do Rio Doce
 Aparecida do Rio Negro
 Aparecida do Taboado
+Aperibe
 Aperibé
+Apiaca
 Apiacá
+Apiacas
 Apiacás
+Apiai
 Apiaí
+Apicum-acu
 Apicum-açu
+Apiuna
 Apiúna
 Apodi
+Apora
 Aporá
+Apore
 Aporé
 Apuarema
 Apucarana
+Apui
 Apuí
+Apuiares
 Apuiarés
+Aquidaba
 Aquidabã
 Aquidauana
 Aquiraz
+Arabuta
 Arabutã
+Aracagi
 Araçagi
+Aracai
 Araçaí
 Aracaju
+Aracariguama
 Araçariguama
+Aracas
 Araças
 Aracati
 Aracatu
+Aracatuba
 Araçatuba
 Araci
 Aracitaba
 Aracoiaba
 Araçoiaba
+Aracoiaba da Serra
 Araçoiaba da Serra
 Aracruz
+Aracu
 Araçu
+Aracuai
 Araçuaí
+Aragarcas
 Aragarças
+Aragoiania
 Aragoiânia
 Aragominas
 Araguacema
+Araguacu
 Araguaçu
 Araguaiana
+Araguaina
 Araguaína
 Araguainha
-Araguanã
+Araguana
 Araguanã
 Araguapaz
 Araguari
@@ -321,43 +467,55 @@ Araguatins
 Araioses
 Aral Moreira
 Aramari
+Arambare
 Arambaré
 Arame
 Aramina
 Arandu
 Arantina
+Arapei
 Arapeí
 Arapiraca
 Arapoema
 Araponga
 Arapongas
+Arapora
 Araporã
 Arapoti
+Arapua
 Arapuá
 Arapuã
 Araputanga
 Araquari
 Arara
+Ararangua
 Araranguá
 Araraquara
 Araras
+Ararenda
 Ararendá
 Arari
+Ararica
 Araricá
 Araripe
 Araripina
 Araruama
 Araruna
-Araruna
 Arataca
 Aratiba
 Aratuba
+Aratuipe
 Aratuípe
+Araua
 Arauá
+Araucaria
 Araucária
+Araujos
 Araújos
+Araxa
 Araxá
 Arceburgo
+Arco-iris
 Arco-íris
 Arcos
 Arcoverde
@@ -366,22 +524,30 @@ Areal
 Arealva
 Areia
 Areia Branca
-Areia Branca
+Areia de Baraunas
 Areia de Baraúnas
 Areial
 Areias
+Areiopolis
 Areiópolis
+Arenapolis
 Arenápolis
+Arenopolis
 Arenópolis
+Ares
 Arês
 Argirita
 Aricanduva
 Arinos
+Aripuana
 Aripuanã
 Ariquemes
 Ariranha
+Ariranha do Ivai
 Ariranha do Ivaí
+Armacao Dos Buzios
 Armação Dos Búzios
+Armazem
 Armazém
 Arneiroz
 Aroazes
@@ -398,50 +564,67 @@ Arroio Dos Ratos
 Arroio Grande
 Arroio Trinta
 Artur Nogueira
+Aruana
 Aruanã
+Aruja
 Arujá
 Arvoredo
 Arvorezinha
 Ascurra
+Aspasia
 Aspásia
+Assai
 Assaí
+Assare
 Assaré
 Assis
 Assis Brasil
 Assis Chateaubriand
+Assuncao
 Assunção
+Assuncao do Piaui
 Assunção do Piauí
 Astolfo Dutra
 Astorga
 Atalaia
-Atalaia
 Atalaia do Norte
 Atalanta
+Ataleia
 Ataléia
 Atibaia
 Atilio Vivacqua
+Augustinopolis
 Augustinópolis
+Augusto Correa
 Augusto Corrêa
 Augusto de Lima
 Augusto Pestana
 Augusto Severo
+aurea
 Áurea
 Aurelino Leal
 Auriflama
+Aurilandia
 Aurilândia
 Aurora
-Aurora
+Aurora do Para
 Aurora do Pará
 Aurora do Tocantins
 Autazes
+Avai
 Avaí
 Avanhandava
+Avare
 Avaré
 Aveiro
 Avelino Lopes
+Avelinopolis
 Avelinópolis
+Axixa
 Axixá
+Axixa do Tocantins
 Axixá do Tocantins
+Babaculandia
 Babaçulândia
 Bacabal
 Bacabeira
@@ -449,11 +632,16 @@ Bacuri
 Bacurituba
 Bady Bassitt
 Baependi
+Bage
 Bagé
 Bagre
+Baia da Traicao
 Baía da Traição
+Baia Formosa
 Baía Formosa
+Baianopolis
 Baianópolis
+Baiao
 Baião
 Baixa Grande
 Baixa Grande do Ribeiro
@@ -462,16 +650,25 @@ Baixo Guandu
 Balbinos
 Baldim
 Baliza
+Balneario Arroio do Silva
 Balneário Arroio do Silva
+Balneario Barra do Sul
 Balneário Barra do Sul
+Balneario Camboriu
 Balneário Camboriú
+Balneario Gaivota
 Balneário Gaivota
+Balneario Pinhal
 Balneário Pinhal
+Balneario Rincao
 Balneário Rincão
 Balsa Nova
+Balsamo
 Bálsamo
 Balsas
+Bambui
 Bambuí
+Banabuiu
 Banabuiú
 Bananal
 Bananeiras
@@ -479,19 +676,27 @@ Bandeira
 Bandeira do Sul
 Bandeirante
 Bandeirantes
-Bandeirantes
 Bandeirantes do Tocantins
 Bannach
+Banzae
 Banzaê
+Barao
 Barão
+Barao de Antonina
 Barão de Antonina
+Barao de Cocais
 Barão de Cocais
+Barao de Cotegipe
 Barão de Cotegipe
+Barao de Grajau
 Barão de Grajaú
+Barao de Melgaco
 Barão de Melgaço
+Barao de Monte Alto
 Barão de Monte Alto
+Barao do Triunfo
 Barão do Triunfo
-Baraúna
+Barauna
 Baraúna
 Barbacena
 Barbalha
@@ -503,26 +708,34 @@ Barcelos
 Bariri
 Barra
 Barra Bonita
-Barra Bonita
+Barra D´alcantara
 Barra D´alcântara
 Barra da Estiva
 Barra de Guabiraba
 Barra de Santa Rosa
 Barra de Santana
+Barra de Santo Antonio
 Barra de Santo Antônio
+Barra de Sao Francisco
 Barra de São Francisco
-Barra de São Miguel
+Barra de Sao Miguel
 Barra de São Miguel
 Barra do Bugres
+Barra do Chapeu
 Barra do Chapéu
+Barra do Choca
 Barra do Choça
 Barra do Corda
+Barra do Garcas
 Barra do Garças
 Barra do Guarita
+Barra do Jacare
 Barra do Jacaré
 Barra do Mendes
 Barra do Ouro
+Barra do Pirai
 Barra do Piraí
+Barra do Quarai
 Barra do Quaraí
 Barra do Ribeiro
 Barra do Rio Azul
@@ -533,11 +746,12 @@ Barra Funda
 Barra Longa
 Barra Mansa
 Barra Velha
-Barracão
+Barracao
 Barracão
 Barras
 Barreira
 Barreiras
+Barreiras do Piaui
 Barreiras do Piauí
 Barreirinha
 Barreirinhas
@@ -546,9 +760,9 @@ Barretos
 Barrinha
 Barro
 Barro Alto
-Barro Alto
 Barro Duro
 Barrocas
+Barrolandia
 Barrolândia
 Barroquinha
 Barros Cassal
@@ -557,9 +771,10 @@ Barueri
 Bastos
 Bataguassu
 Batalha
-Batalha
 Batatais
+Bataypora
 Batayporã
+Baturite
 Baturité
 Bauru
 Bayeux
@@ -568,23 +783,30 @@ Beberibe
 Bela Cruz
 Bela Vista
 Bela Vista da Caroba
+Bela Vista de Goias
 Bela Vista de Goiás
 Bela Vista de Minas
+Bela Vista do Maranhao
 Bela Vista do Maranhão
+Bela Vista do Paraiso
 Bela Vista do Paraíso
+Bela Vista do Piaui
 Bela Vista do Piauí
 Bela Vista do Toldo
+Belagua
 Belágua
+Belem
 Belém
-Belém
-Belém
+Belem de Maria
 Belém de Maria
+Belem de Sao Francisco
 Belém de São Francisco
+Belem do Brejo do Cruz
 Belém do Brejo do Cruz
+Belem do Piaui
 Belém do Piauí
 Belford Roxo
 Belmiro Braga
-Belmonte
 Belmonte
 Belo Campo
 Belo Horizonte
@@ -601,24 +823,32 @@ Benjamin Constant
 Benjamin Constant do Sul
 Bento de Abreu
 Bento Fernandes
+Bento Goncalves
 Bento Gonçalves
+Bequimao
 Bequimão
 Berilo
 Berizal
 Bernardino Batista
 Bernardino de Campos
 Bernardo do Mearim
+Bernardo Sayao
 Bernardo Sayão
 Bertioga
+Bertolinia
 Bertolínia
+Bertopolis
 Bertópolis
 Beruri
+Betania
 Betânia
+Betania do Piaui
 Betânia do Piauí
 Betim
 Bezerros
 Bias Fortes
 Bicas
+Biguacu
 Biguaçu
 Bilac
 Biquinhas
@@ -627,20 +857,23 @@ Biritiba-mirim
 Biritinga
 Bituruna
 Blumenau
+Boa Esperanca
 Boa Esperança
-Boa Esperança
-Boa Esperança
+Boa Esperanca do Iguacu
 Boa Esperança do Iguaçu
+Boa Esperanca do Sul
 Boa Esperança do Sul
 Boa Hora
 Boa Nova
 Boa Ventura
+Boa Ventura de Sao Roque
 Boa Ventura de São Roque
 Boa Viagem
 Boa Vista
-Boa Vista
 Boa Vista da Aparecida
+Boa Vista Das Missoes
 Boa Vista Das Missões
+Boa Vista do Burica
 Boa Vista do Buricá
 Boa Vista do Cadeado
 Boa Vista do Gurupi
@@ -651,12 +884,15 @@ Boa Vista do Tupim
 Boca da Mata
 Boca do Acre
 Bocaina
-Bocaina
 Bocaina de Minas
 Bocaina do Sul
+Bocaiuva
 Bocaiúva
+Bocaiuva do Sul
 Bocaiúva do Sul
+Bodo
 Bodó
+Bodoco
 Bodocó
 Bodoquena
 Bofete
@@ -664,20 +900,16 @@ Boituva
 Bom Conselho
 Bom Despacho
 Bom Jardim
-Bom Jardim
-Bom Jardim
 Bom Jardim da Serra
+Bom Jardim de Goias
 Bom Jardim de Goiás
 Bom Jardim de Minas
-Bom Jesus
-Bom Jesus
-Bom Jesus
-Bom Jesus
 Bom Jesus
 Bom Jesus da Lapa
 Bom Jesus da Penha
 Bom Jesus da Serra
 Bom Jesus Das Selvas
+Bom Jesus de Goias
 Bom Jesus de Goiás
 Bom Jesus do Amparo
 Bom Jesus do Araguaia
@@ -687,109 +919,143 @@ Bom Jesus do Norte
 Bom Jesus do Oeste
 Bom Jesus do Sul
 Bom Jesus do Tocantins
-Bom Jesus do Tocantins
+Bom Jesus Dos Perdoes
 Bom Jesus Dos Perdões
 Bom Lugar
+Bom Principio
 Bom Princípio
+Bom Principio do Piaui
 Bom Princípio do Piauí
 Bom Progresso
 Bom Repouso
 Bom Retiro
 Bom Retiro do Sul
 Bom Sucesso
-Bom Sucesso
-Bom Sucesso
+Bom Sucesso de Itarare
 Bom Sucesso de Itararé
 Bom Sucesso do Sul
 Bombinhas
 Bonfim
-Bonfim
+Bonfim do Piaui
 Bonfim do Piauí
+Bonfinopolis
 Bonfinópolis
+Bonfinopolis de Minas
 Bonfinópolis de Minas
 Boninal
 Bonito
-Bonito
-Bonito
-Bonito
 Bonito de Minas
+Bonito de Santa fe
 Bonito de Santa fé
+Bonopolis
 Bonópolis
+Boqueirao
 Boqueirão
+Boqueirao do Leao
 Boqueirão do Leão
+Boqueirao do Piaui
 Boqueirão do Piauí
 Boquim
 Boquira
+Bora
 Borá
+Boraceia
 Boracéia
 Borba
 Borborema
-Borborema
 Borda da Mata
 Borebi
+Borrazopolis
 Borrazópolis
 Bossoroca
 Botelhos
 Botucatu
 Botumirim
+Botupora
 Botuporã
+Botuvera
 Botuverá
 Bozano
+Braco do Norte
 Braço do Norte
+Braco do Trombudo
 Braço do Trombudo
 Braga
+Braganca
 Bragança
+Braganca Paulista
 Bragança Paulista
 Braganey
 Branquinha
+Bras Pires
 Brás Pires
 Brasil Novo
+Brasilandia
 Brasilândia
+Brasilandia de Minas
 Brasilândia de Minas
+Brasilandia do Sul
 Brasilândia do Sul
+Brasilandia do Tocantins
 Brasilândia do Tocantins
+Brasileia
 Brasiléia
 Brasileira
+Brasilia
 Brasília
+Brasilia de Minas
 Brasília de Minas
 Brasnorte
+Brasopolis
 Brasópolis
+Brauna
 Braúna
+Braunas
 Braúnas
 Brazabrantes
+Brejao
 Brejão
 Brejetuba
 Brejinho
-Brejinho
+Brejinho de Nazare
 Brejinho de Nazaré
 Brejo
 Brejo Alegre
 Brejo da Madre de Deus
 Brejo de Areia
 Brejo do Cruz
+Brejo do Piaui
 Brejo do Piauí
 Brejo Dos Santos
 Brejo Grande
 Brejo Grande do Araguaia
 Brejo Santo
+Brejoes
 Brejões
+Brejolandia
 Brejolândia
 Breu Branco
 Breves
+Britania
 Britânia
 Brochier
 Brodowski
 Brotas
+Brotas de Macaubas
 Brotas de Macaúbas
 Brumadinho
 Brumado
+Brunopolis
 Brunópolis
 Brusque
+Bueno Brandao
 Bueno Brandão
+Buenopolis
 Buenópolis
 Buenos Aires
 Buerarema
 Bugre
+Buique
 Buíque
 Bujari
 Bujaru
@@ -798,59 +1064,74 @@ Buritama
 Buriti
 Buriti Alegre
 Buriti Bravo
+Buriti de Goias
 Buriti de Goiás
 Buriti do Tocantins
 Buriti Dos Lopes
 Buriti Dos Montes
 Buriticupu
+Buritinopolis
 Buritinópolis
 Buritirama
 Buritirana
 Buritis
-Buritis
 Buritizal
 Buritizeiro
+Butia
 Butiá
 Caapiranga
+Caapora
 Caaporã
+Caarapo
 Caarapó
 Caatiba
 Cabaceiras
+Cabaceiras do Paraguacu
 Cabaceiras do Paraguaçu
 Cabeceira Grande
 Cabeceiras
+Cabeceiras do Piaui
 Cabeceiras do Piauí
 Cabedelo
 Cabixi
 Cabo de Santo Agostinho
 Cabo Frio
 Cabo Verde
+Cabralia Paulista
 Cabrália Paulista
+Cabreuva
 Cabreúva
+Cabrobo
 Cabrobó
+Cacador
 Caçador
+Cacapava
 Caçapava
+Cacapava do Sul
 Caçapava do Sul
+Cacaulandia
 Cacaulândia
 Cacequi
+Caceres
 Cáceres
 Cachoeira
 Cachoeira Alta
 Cachoeira da Prata
+Cachoeira de Goias
 Cachoeira de Goiás
 Cachoeira de Minas
+Cachoeira de Pajeu
 Cachoeira de Pajeú
 Cachoeira do Arari
+Cachoeira do Piria
 Cachoeira do Piriá
 Cachoeira do Sul
+Cachoeira Dos indios
 Cachoeira Dos Índios
-Cachoeira Dourada
 Cachoeira Dourada
 Cachoeira Grande
 Cachoeira Paulista
 Cachoeiras de Macacu
-Cachoeirinha
-Cachoeirinha
 Cachoeirinha
 Cachoeiro de Itapemirim
 Cacimba de Areia
@@ -860,37 +1141,52 @@ Cacimbinhas
 Cacique Doble
 Cacoal
 Caconde
+Cacu
 Caçu
+Cacule
 Caculé
+Caem
 Caém
+Caetanopolis
 Caetanópolis
 Caetanos
+Caete
 Caeté
+Caetes
 Caetés
+Caetite
 Caetité
 Cafarnaum
 Cafeara
-Cafelândia
+Cafelandia
 Cafelândia
 Cafezal do Sul
 Caiabu
 Caiana
+Caiaponia
 Caiapônia
+Caibate
 Caibaté
 Caibi
+Caicara
 Caiçara
-Caiçara
+Caicara do Norte
 Caiçara do Norte
+Caicara do Rio do Vento
 Caiçara do Rio do Vento
+Caico
 Caicó
 Caieiras
 Cairu
+Caiua
 Caiuá
 Cajamar
+Cajapio
 Cajapió
 Cajari
 Cajati
 Cajazeiras
+Cajazeiras do Piaui
 Cajazeiras do Piauí
 Cajazeirinhas
 Cajobi
@@ -898,60 +1194,84 @@ Cajueiro
 Cajueiro da Praia
 Cajuri
 Cajuru
+Calcado
 Calçado
+Calcoene
 Calçoene
 Caldas
+Caldas Brandao
 Caldas Brandão
 Caldas Novas
 Caldazinha
+Caldeirao Grande
 Caldeirão Grande
+Caldeirao Grande do Piaui
 Caldeirão Grande do Piauí
+California
 Califórnia
 Calmon
 Calumbi
 Camacan
+Camacari
 Camaçari
 Camacho
+Camalau
 Camalaú
 Camamu
 Camanducaia
+Camapua
 Camapuã
+Camaqua
 Camaquã
 Camaragibe
 Camargo
+Cambara
 Cambará
+Cambara do Sul
 Cambará do Sul
+Cambe
 Cambé
 Cambira
+Camboriu
 Camboriú
 Cambuci
+Cambui
 Cambuí
 Cambuquira
+Cameta
 Cametá
 Camocim
+Camocim de Sao Felix
 Camocim de São Félix
+Campanario
 Campanário
 Campanha
 Campestre
-Campestre
 Campestre da Serra
+Campestre de Goias
 Campestre de Goiás
+Campestre do Maranhao
 Campestre do Maranhão
 Campina da Lagoa
+Campina Das Missoes
 Campina Das Missões
 Campina do Monte Alegre
+Campina do Simao
 Campina do Simão
 Campina Grande
 Campina Grande do Sul
 Campina Verde
+Campinacu
 Campinaçu
+Campinapolis
 Campinápolis
 Campinas
+Campinas do Piaui
 Campinas do Piauí
 Campinas do Sul
 Campinorte
 Campo Alegre
-Campo Alegre
+Campo Alegre de Goias
 Campo Alegre de Goiás
 Campo Alegre de Lourdes
 Campo Alegre do Fidalgo
@@ -964,20 +1284,25 @@ Campo de Santana
 Campo do Brito
 Campo do Meio
 Campo do Tenente
+Campo Ere
 Campo Erê
 Campo Florido
 Campo Formoso
 Campo Grande
-Campo Grande
+Campo Grande do Piaui
 Campo Grande do Piauí
 Campo Largo
+Campo Largo do Piaui
 Campo Largo do Piauí
+Campo Limpo de Goias
 Campo Limpo de Goiás
 Campo Limpo Paulista
 Campo Magro
 Campo Maior
+Campo Mourao
 Campo Mourão
 Campo Novo
+Campo Novo de Rondonia
 Campo Novo de Rondônia
 Campo Novo do Parecis
 Campo Redondo
@@ -985,7 +1310,9 @@ Campo Verde
 Campos Altos
 Campos Belos
 Campos Borges
+Campos de Julio
 Campos de Júlio
+Campos do Jordao
 Campos do Jordão
 Campos Dos Goytacazes
 Campos Gerais
@@ -996,47 +1323,59 @@ Campos Sales
 Campos Verdes
 Camutanga
 Cana Verde
+Canaa
 Canaã
+Canaa Dos Carajas
 Canaã Dos Carajás
 Canabrava do Norte
+Cananeia
 Cananéia
 Canapi
+Canapolis
 Canápolis
-Canápolis
-Canarana
 Canarana
 Canas
 Canavieira
 Canavieiras
 Candeal
 Candeias
-Candeias
 Candeias do Jamari
+Candelaria
 Candelária
 Candiba
+Candido de Abreu
 Cândido de Abreu
+Candido Godoi
 Cândido Godói
+Candido Mendes
 Cândido Mendes
+Candido Mota
 Cândido Mota
+Candido Rodrigues
 Cândido Rodrigues
+Candido Sales
 Cândido Sales
 Candiota
+Candoi
 Candói
 Canela
 Canelinha
 Canguaretama
+Cangucu
 Canguçu
 Canhoba
 Canhotinho
+Caninde
 Canindé
+Caninde de Sao Francisco
 Canindé de São Francisco
 Canitar
 Canoas
 Canoinhas
+Cansancao
 Cansanção
+Canta
 Cantá
-Cantagalo
-Cantagalo
 Cantagalo
 Cantanhede
 Canto do Buriti
@@ -1044,15 +1383,20 @@ Canudos
 Canudos do Vale
 Canutama
 Capanema
-Capanema
+Capao Alto
 Capão Alto
+Capao Bonito
 Capão Bonito
+Capao Bonito do Sul
 Capão Bonito do Sul
+Capao da Canoa
 Capão da Canoa
+Capao do Cipo
 Capão do Cipó
+Capao do Leao
 Capão do Leão
+Caparao
 Caparaó
-Capela
 Capela
 Capela de Santana
 Capela do Alto
@@ -1063,17 +1407,26 @@ Capetinga
 Capim
 Capim Branco
 Capim Grosso
+Capinopolis
 Capinópolis
 Capinzal
 Capinzal do Norte
 Capistrano
+Capitao
 Capitão
+Capitao Andrade
 Capitão Andrade
+Capitao de Campos
 Capitão de Campos
+Capitao Eneas
 Capitão Enéas
+Capitao Gervasio Oliveira
 Capitão Gervásio Oliveira
+Capitao Leonidas Marques
 Capitão Leônidas Marques
+Capitao Poco
 Capitão Poço
+Capitolio
 Capitólio
 Capivari
 Capivari de Baixo
@@ -1081,23 +1434,31 @@ Capivari do Sul
 Capixaba
 Capoeiras
 Caputira
+Caraa
 Caraá
+Caracarai
 Caracaraí
 Caracol
-Caracol
 Caraguatatuba
+Carai
 Caraí
+Caraibas
 Caraíbas
+Carambei
 Carambeí
+Caranaiba
 Caranaíba
+Carandai
 Carandaí
 Carangola
 Carapebus
+Carapicuiba
 Carapicuíba
 Caratinga
 Carauari
+Caraubas
 Caraúbas
-Caraúbas
+Caraubas do Piaui
 Caraúbas do Piauí
 Caravelas
 Carazinho
@@ -1105,36 +1466,50 @@ Carbonita
 Cardeal da Silva
 Cardoso
 Cardoso Moreira
+Careacu
 Careaçu
 Careiro
+Careiro da Varzea
 Careiro da Várzea
 Cariacica
 Caridade
+Caridade do Piaui
 Caridade do Piauí
 Carinhanha
 Carira
+Carire
 Cariré
 Cariri do Tocantins
+Caririacu
 Caririaçu
+Carius
 Cariús
 Carlinda
+Carlopolis
 Carlópolis
 Carlos Barbosa
 Carlos Chagas
 Carlos Gomes
+Carmesia
 Carmésia
 Carmo
 Carmo da Cachoeira
 Carmo da Mata
 Carmo de Minas
 Carmo do Cajuru
+Carmo do Paranaiba
 Carmo do Paranaíba
 Carmo do Rio Claro
 Carmo do Rio Verde
+Carmolandia
 Carmolândia
+Carmopolis
 Carmópolis
+Carmopolis de Minas
 Carmópolis de Minas
+Carnaiba
 Carnaíba
+Carnauba Dos Dantas
 Carnaúba Dos Dantas
 Carnaubais
 Carnaubal
@@ -1149,6 +1524,7 @@ Carrapateira
 Carrasco Bonito
 Caruaru
 Carutapera
+Carvalhopolis
 Carvalhópolis
 Carvalhos
 Casa Branca
@@ -1157,43 +1533,53 @@ Casa Nova
 Casca
 Cascalho Rico
 Cascavel
-Cascavel
 Caseara
 Caseiros
 Casimiro de Abreu
 Casinhas
 Casserengue
+Cassia
 Cássia
+Cassia Dos Coqueiros
 Cássia Dos Coqueiros
+Cassilandia
 Cassilândia
 Castanhal
 Castanheira
 Castanheiras
+Castelandia
 Castelândia
 Castelo
+Castelo do Piaui
 Castelo do Piauí
 Castilho
 Castro
 Castro Alves
 Cataguases
+Catalao
 Catalão
 Catanduva
-Catanduvas
 Catanduvas
 Catarina
 Catas Altas
 Catas Altas da Noruega
 Catende
+Catigua
 Catiguá
 Catingueira
+Catolandia
 Catolândia
+Catole do Rocha
 Catolé do Rocha
 Catu
+Catuipe
 Catuípe
 Catuji
 Catunda
+Caturai
 Caturaí
 Caturama
+Caturite
 Caturité
 Catuti
 Caucaia
@@ -1202,54 +1588,74 @@ Caxambu
 Caxambu do Sul
 Caxias
 Caxias do Sul
+Caxingo
 Caxingó
+Ceara-mirim
 Ceará-mirim
 Cedral
-Cedral
 Cedro
-Cedro
+Cedro de Sao Joao
 Cedro de São João
+Cedro do Abaete
 Cedro do Abaeté
 Celso Ramos
+Centenario
 Centenário
-Centenário
+Centenario do Sul
 Centenário do Sul
 Central
 Central de Minas
+Central do Maranhao
 Central do Maranhão
 Centralina
 Centro do Guilherme
+Centro Novo do Maranhao
 Centro Novo do Maranhão
 Cerejeiras
 Ceres
+Cerqueira Cesar
 Cerqueira César
 Cerquilho
 Cerrito
 Cerro Azul
 Cerro Branco
+Cerro Cora
 Cerro Corá
 Cerro Grande
 Cerro Grande do Sul
 Cerro Largo
 Cerro Negro
+Cesario Lange
 Cesário Lange
+Ceu Azul
 Céu Azul
 Cezarina
+Cha de Alegria
 Chã de Alegria
+Cha Grande
 Chã Grande
+Cha Preta
 Chã Preta
+Chacara
 Chácara
+Chale
 Chalé
 Chapada
 Chapada da Natividade
 Chapada de Areia
 Chapada do Norte
+Chapada Dos Guimaraes
 Chapada Dos Guimarães
+Chapada Gaucha
 Chapada Gaúcha
+Chapadao do Ceu
 Chapadão do Céu
+Chapadao do Lageado
 Chapadão do Lageado
+Chapadao do Sul
 Chapadão do Sul
 Chapadinha
+Chapeco
 Chapecó
 Charqueada
 Charqueadas
@@ -1260,26 +1666,39 @@ Chaves
 Chiador
 Chiapetta
 Chopinzinho
+Choro
 Choró
 Chorozinho
+Chorrocho
 Chorrochó
+Chui
 Chuí
 Chupinguaia
 Chuvisca
 Cianorte
+Cicero Dantas
 Cícero Dantas
+Cidade Gaucha
 Cidade Gaúcha
 Cidade Ocidental
+Cidelandia
 Cidelândia
 Cidreira
+Cipo
 Cipó
+Cipotanea
 Cipotânea
+Ciriaco
 Ciríaco
 Claraval
+Claro Dos Pocoes
 Claro Dos Poções
+Claudia
 Cláudia
+Claudio
 Cláudio
 Clementina
+Clevelandia
 Clevelândia
 Coaraci
 Coari
@@ -1288,30 +1707,38 @@ Cocal de Telha
 Cocal do Sul
 Cocal Dos Alves
 Cocalinho
+Cocalzinho de Goias
 Cocalzinho de Goiás
 Cocos
+Codajas
 Codajás
+Codo
 Codó
 Coelho Neto
 Coimbra
+Coite do Noia
 Coité do Nóia
 Coivaras
 Colares
 Colatina
+Colider
 Colíder
 Colina
 Colinas
-Colinas
 Colinas do Sul
 Colinas do Tocantins
+Colmeia
 Colméia
 Colniza
+Colombia
 Colômbia
 Colombo
+Colonia do Gurgueia
 Colônia do Gurguéia
+Colonia do Piaui
 Colônia do Piauí
+Colonia Leopoldina
 Colônia Leopoldina
-Colorado
 Colorado
 Colorado do Oeste
 Coluna
@@ -1320,37 +1747,60 @@ Comendador Gomes
 Comendador Levy Gasparian
 Comercinho
 Comodoro
+Conceicao
 Conceição
+Conceicao da Aparecida
 Conceição da Aparecida
+Conceicao da Barra
 Conceição da Barra
+Conceicao da Barra de Minas
 Conceição da Barra de Minas
+Conceicao da Feira
 Conceição da Feira
+Conceicao Das Alagoas
 Conceição Das Alagoas
+Conceicao Das Pedras
 Conceição Das Pedras
+Conceicao de Ipanema
 Conceição de Ipanema
+Conceicao de Macabu
 Conceição de Macabu
+Conceicao do Almeida
 Conceição do Almeida
+Conceicao do Araguaia
 Conceição do Araguaia
+Conceicao do Caninde
 Conceição do Canindé
+Conceicao do Castelo
 Conceição do Castelo
+Conceicao do Coite
 Conceição do Coité
+Conceicao do Jacuipe
 Conceição do Jacuípe
+Conceicao do Lago-acu
 Conceição do Lago-açu
+Conceicao do Mato Dentro
 Conceição do Mato Dentro
+Conceicao do Para
 Conceição do Pará
+Conceicao do Rio Verde
 Conceição do Rio Verde
+Conceicao do Tocantins
 Conceição do Tocantins
+Conceicao Dos Ouros
 Conceição Dos Ouros
 Conchal
 Conchas
+Concordia
 Concórdia
+Concordia do Para
 Concórdia do Pará
 Condado
-Condado
 Conde
-Conde
+Condeuba
 Condeúba
 Condor
+Conego Marinho
 Cônego Marinho
 Confins
 Confresa
@@ -1364,32 +1814,42 @@ Conquista D´oeste
 Conselheiro Lafaiete
 Conselheiro Mairinck
 Conselheiro Pena
+Consolacao
 Consolação
 Constantina
 Contagem
 Contenda
+Contendas do Sincora
 Contendas do Sincorá
 Coqueiral
 Coqueiro Baixo
 Coqueiro Seco
 Coqueiros do Sul
+Coracao de Jesus
 Coração de Jesus
+Coracao de Maria
 Coração de Maria
+Corbelia
 Corbélia
 Cordeiro
+Cordeiropolis
 Cordeirópolis
 Cordeiros
 Cordilheira Alta
 Cordisburgo
+Cordislandia
 Cordislândia
+Coreau
 Coreaú
 Coremas
 Corguinho
 Coribe
 Corinto
+Cornelio Procopio
 Cornélio Procópio
 Coroaci
 Coroados
+Coroata
 Coroatá
 Coromandel
 Coronel Barros
@@ -1398,8 +1858,11 @@ Coronel Domingos Soares
 Coronel Ezequiel
 Coronel Fabriciano
 Coronel Freitas
+Coronel Joao Pessoa
 Coronel João Pessoa
+Coronel Joao sa
 Coronel João sá
+Coronel Jose Dias
 Coronel José Dias
 Coronel Macedo
 Coronel Martins
@@ -1409,86 +1872,126 @@ Coronel Pilar
 Coronel Sapucaia
 Coronel Vivida
 Coronel Xavier Chaves
+Corrego Danta
 Córrego Danta
+Corrego do Bom Jesus
 Córrego do Bom Jesus
+Corrego do Ouro
 Córrego do Ouro
+Corrego Fundo
 Córrego Fundo
+Corrego Novo
 Córrego Novo
 Correia Pinto
 Corrente
 Correntes
 Correntina
+Cortes
 Cortês
+Corumba
 Corumbá
+Corumba de Goias
 Corumbá de Goiás
+Corumbaiba
 Corumbaíba
+Corumbatai
 Corumbataí
+Corumbatai do Sul
 Corumbataí do Sul
 Corumbiara
+Corupa
 Corupá
 Coruripe
+Cosmopolis
 Cosmópolis
 Cosmorama
 Costa Marques
 Costa Rica
 Cotegipe
 Cotia
+Cotipora
 Cotiporã
+Cotriguacu
 Cotriguaçu
+Couto de Magalhaes
 Couto de Magalhães
+Couto de Magalhaes de Minas
 Couto de Magalhães de Minas
 Coxilha
 Coxim
 Coxixola
+Craibas
 Craíbas
+Crateus
 Crateús
 Crato
 Cravinhos
+Cravolandia
 Cravolândia
+Criciuma
 Criciúma
+Crisolita
 Crisólita
+Crisopolis
 Crisópolis
 Crissiumal
 Cristais
 Cristais Paulista
 Cristal
 Cristal do Sul
+Cristalandia
 Cristalândia
+Cristalandia do Piaui
 Cristalândia do Piauí
+Cristalia
 Cristália
 Cristalina
 Cristiano Otoni
+Cristianopolis
 Cristianópolis
 Cristina
+Cristinapolis
 Cristinápolis
 Cristino Castro
+Cristopolis
 Cristópolis
+Crixas
 Crixás
+Crixas do Tocantins
 Crixás do Tocantins
+Croata
 Croatá
+Crominia
 Cromínia
+Crucilandia
 Crucilândia
 Cruz
 Cruz Alta
 Cruz Das Almas
+Cruz do Espirito Santo
 Cruz do Espírito Santo
 Cruz Machado
+Cruzalia
 Cruzália
 Cruzaltense
 Cruzeiro
 Cruzeiro da Fortaleza
+Cruzeiro do Iguacu
 Cruzeiro do Iguaçu
 Cruzeiro do Oeste
 Cruzeiro do Sul
-Cruzeiro do Sul
-Cruzeiro do Sul
 Cruzeta
+Cruzilia
 Cruzília
 Cruzmaltina
+Cubatao
 Cubatão
 Cubati
+Cuiaba
 Cuiabá
+Cuite
 Cuité
+Cuite de Mamanguape
 Cuité de Mamanguape
 Cuitegi
 Cujubim
@@ -1497,46 +2000,65 @@ Cumaru
 Cumaru do Norte
 Cumbe
 Cunha
+Cunha Pora
 Cunha Porã
+Cunhatai
 Cunhataí
 Cuparaque
 Cupira
+Curaca
 Curaçá
+Curimata
 Curimatá
+Curionopolis
 Curionópolis
 Curitiba
 Curitibanos
+Curiuva
 Curiúva
 Currais
 Currais Novos
 Curral de Cima
 Curral de Dentro
+Curral Novo do Piaui
 Curral Novo do Piauí
 Curral Velho
 Curralinho
 Curralinhos
+Curua
 Curuá
+Curuca
 Curuçá
 Cururupu
+Curvelandia
 Curvelândia
 Curvelo
+Custodia
 Custódia
 Cutias
+Damianopolis
 Damianópolis
+Damiao
 Damião
+Damolandia
 Damolândia
+Darcinopolis
 Darcinópolis
+Dario Meira
 Dário Meira
 Datas
 David Canabarro
-Davinópolis
+Davinopolis
 Davinópolis
 Delfim Moreira
+Delfinopolis
 Delfinópolis
 Delmiro Gouveia
 Delta
+Demerval Lobao
 Demerval Lobão
 Denise
+Deodapolis
 Deodápolis
 Deputado Irapuan Pinheiro
 Derrubadas
@@ -1554,112 +2076,156 @@ Diamante do Norte
 Diamante do Sul
 Diamantina
 Diamantino
+Dianopolis
 Dianópolis
+Dias D´avila
 Dias D´ávila
 Dilermando de Aguiar
 Diogo de Vasconcelos
+Dionisio
 Dionísio
+Dionisio Cerqueira
 Dionísio Cerqueira
 Diorama
 Dirce Reis
 Dirceu Arcoverde
 Divina Pastora
+Divinesia
 Divinésia
 Divino
 Divino Das Laranjeiras
+Divino de Sao Lourenco
 Divino de São Lourenço
+Divinolandia
 Divinolândia
+Divinolandia de Minas
 Divinolândia de Minas
+Divinopolis
 Divinópolis
+Divinopolis de Goias
 Divinópolis de Goiás
+Divinopolis do Tocantins
 Divinópolis do Tocantins
 Divisa Alegre
 Divisa Nova
+Divisopolis
 Divisópolis
 Dobrada
+Dois Corregos
 Dois Córregos
+Dois Irmaos
 Dois Irmãos
+Dois Irmaos Das Missoes
 Dois Irmãos Das Missões
+Dois Irmaos do Buriti
 Dois Irmãos do Buriti
+Dois Irmaos do Tocantins
 Dois Irmãos do Tocantins
 Dois Lajeados
 Dois Riachos
 Dois Vizinhos
+Dolcinopolis
 Dolcinópolis
 Dom Aquino
+Dom Basilio
 Dom Basílio
 Dom Bosco
 Dom Cavati
 Dom Eliseu
 Dom Expedito Lopes
 Dom Feliciano
+Dom Inocencio
 Dom Inocêncio
 Dom Joaquim
 Dom Macedo Costa
 Dom Pedrito
 Dom Pedro
+Dom Pedro de Alcantara
 Dom Pedro de Alcântara
+Dom Silverio
 Dom Silvério
+Dom Vicoso
 Dom Viçoso
 Domingos Martins
+Domingos Mourao
 Domingos Mourão
 Dona Emma
+Dona Eusebia
 Dona Eusébia
 Dona Francisca
+Dona Ines
 Dona Inês
 Dores de Campos
+Dores de Guanhaes
 Dores de Guanhães
+Dores do Indaia
 Dores do Indaiá
 Dores do Rio Preto
 Dores do Turvo
+Doresopolis
 Doresópolis
 Dormentes
-Douradina
 Douradina
 Dourado
 Douradoquara
 Dourados
 Doutor Camargo
+Doutor Mauricio Cardoso
 Doutor Maurício Cardoso
 Doutor Pedrinho
 Doutor Ricardo
 Doutor Severiano
 Doutor Ulysses
+Doverlandia
 Doverlândia
 Dracena
 Duartina
 Duas Barras
 Duas Estradas
+Duere
 Dueré
 Dumont
 Duque Bacelar
 Duque de Caxias
+Durande
 Durandé
+Echapora
 Echaporã
 Ecoporanga
 Edealina
+Edeia
 Edéia
+Eirunepe
 Eirunepé
 Eldorado
-Eldorado
 Eldorado do Sul
+Eldorado Dos Carajas
 Eldorado Dos Carajás
+Elesbao Veloso
 Elesbão Veloso
 Elias Fausto
 Eliseu Martins
+Elisiario
 Elisiário
+Elisio Medrado
 Elísio Medrado
+Eloi Mendes
 Elói Mendes
 Emas
+Embauba
 Embaúba
 Embu
+Embu-guacu
 Embu-guaçu
+Emilianopolis
 Emilianópolis
 Encantado
 Encanto
 Encruzilhada
 Encruzilhada do Sul
+Eneas Marques
 Enéas Marques
+Engenheiro Beltrao
 Engenheiro Beltrão
 Engenheiro Caldas
 Engenheiro Coelho
@@ -1668,45 +2234,61 @@ Engenheiro Paulo de Frontin
 Engenho Velho
 Entre Folhas
 Entre Rios
-Entre Rios
 Entre Rios de Minas
 Entre Rios do Oeste
 Entre Rios do Sul
+Entre-ijuis
 Entre-ijuís
 Envira
+Epitaciolandia
 Epitaciolândia
 Equador
 Erebango
 Erechim
+Erere
 Ererê
+erico Cardoso
 Érico Cardoso
 Ermo
 Ernestina
 Erval Grande
 Erval Seco
 Erval Velho
+Ervalia
 Ervália
 Escada
 Esmeralda
 Esmeraldas
 Espera Feliz
+Esperanca
 Esperança
+Esperanca do Sul
 Esperança do Sul
+Esperanca Nova
 Esperança Nova
 Esperantina
-Esperantina
+Esperantinopolis
 Esperantinópolis
+Espigao Alto do Iguacu
 Espigão Alto do Iguaçu
+Espigao D´oeste
 Espigão D´oeste
 Espinosa
+Espirito Santo
 Espírito Santo
+Espirito Santo do Dourado
 Espírito Santo do Dourado
+Espirito Santo do Pinhal
 Espírito Santo do Pinhal
+Espirito Santo do Turvo
 Espírito Santo do Turvo
 Esplanada
 Espumoso
+Estacao
 Estação
+Estancia
 Estância
+Estancia Velha
 Estância Velha
 Esteio
 Estiva
@@ -1716,17 +2298,22 @@ Estrela
 Estrela D´oeste
 Estrela Dalva
 Estrela de Alagoas
+Estrela do Indaia
 Estrela do Indaiá
-Estrela do Norte
 Estrela do Norte
 Estrela do Sul
 Estrela Velha
 Euclides da Cunha
 Euclides da Cunha Paulista
+Eugenio de Castro
 Eugênio de Castro
+Eugenopolis
 Eugenópolis
+Eunapolis
 Eunápolis
+Eusebio
 Eusébio
+Ewbank da Camara
 Ewbank da Câmara
 Extrema
 Extremoz
@@ -1741,9 +2328,11 @@ Faro
 Farol
 Farroupilha
 Fartura
+Fartura do Piaui
 Fartura do Piauí
+Fatima
 Fátima
-Fátima
+Fatima do Sul
 Fátima do Sul
 Faxinal
 Faxinal do Soturno
@@ -1752,28 +2341,35 @@ Faxinalzinho
 Fazenda Nova
 Fazenda Rio Grande
 Fazenda Vilanova
+Feijo
 Feijó
 Feira da Mata
 Feira de Santana
 Feira Grande
 Feira Nova
-Feira Nova
+Feira Nova do Maranhao
 Feira Nova do Maranhão
+Felicio Dos Santos
 Felício Dos Santos
 Felipe Guerra
 Felisburgo
+Felixlandia
 Felixlândia
 Feliz
 Feliz Deserto
 Feliz Natal
+Fenix
 Fênix
 Fernandes Pinheiro
 Fernandes Tourinho
 Fernando de Noronha
+Fernando Falcao
 Fernando Falcão
 Fernando Pedroza
 Fernando Prestes
+Fernandopolis
 Fernandópolis
+Fernao
 Fernão
 Ferraz de Vasconcelos
 Ferreira Gomes
@@ -1781,36 +2377,50 @@ Ferreiros
 Ferros
 Fervedouro
 Figueira
+Figueirao
 Figueirão
+Figueiropolis
 Figueirópolis
+Figueiropolis D´oeste
 Figueirópolis D´oeste
-Filadélfia
+Filadelfia
 Filadélfia
 Firmino Alves
+Firminopolis
 Firminópolis
 Flexeiras
 Flor da Serra do Sul
+Flor do Sertao
 Flor do Sertão
 Flora Rica
+Florai
 Floraí
+Florania
 Florânia
 Floreal
 Flores
 Flores da Cunha
+Flores de Goias
 Flores de Goiás
+Flores do Piaui
 Flores do Piauí
-Floresta
 Floresta
 Floresta Azul
 Floresta do Araguaia
+Floresta do Piaui
 Floresta do Piauí
 Florestal
+Florestopolis
 Florestópolis
 Floriano
 Floriano Peixoto
+Florianopolis
 Florianópolis
+Florida
 Flórida
+Florida Paulista
 Flórida Paulista
+Florinia
 Florínia
 Fonte Boa
 Fontoura Xavier
@@ -1822,44 +2432,53 @@ Formosa do Oeste
 Formosa do Rio Preto
 Formosa do Sul
 Formoso
-Formoso
 Formoso do Araguaia
 Forquetinha
 Forquilha
 Forquilhinha
 Fortaleza
 Fortaleza de Minas
+Fortaleza do Tabocao
 Fortaleza do Tabocão
 Fortaleza Dos Nogueiras
 Fortaleza Dos Valos
 Fortim
 Fortuna
 Fortuna de Minas
+Foz do Iguacu
 Foz do Iguaçu
+Foz do Jordao
 Foz do Jordão
 Fraiburgo
 Franca
+Francinopolis
 Francinópolis
 Francisco Alves
 Francisco Ayres
+Francisco Badaro
 Francisco Badaró
+Francisco Beltrao
 Francisco Beltrão
 Francisco Dantas
 Francisco Dumont
 Francisco Macedo
 Francisco Morato
+Francisco sa
 Francisco sá
 Francisco Santos
+Franciscopolis
 Franciscópolis
 Franco da Rocha
 Frecheirinha
 Frederico Westphalen
 Frei Gaspar
+Frei Inocencio
 Frei Inocêncio
 Frei Lagonegro
 Frei Martinho
 Frei Miguelinho
 Frei Paulo
+Frei Rogerio
 Frei Rogério
 Fronteira
 Fronteira Dos Vales
@@ -1867,35 +2486,47 @@ Fronteiras
 Fruta de Leite
 Frutal
 Frutuoso Gomes
+Fundao
 Fundão
+Funilandia
 Funilândia
 Gabriel Monteiro
 Gado Bravo
+Galia
 Gália
+Galileia
 Galiléia
 Galinhos
+Galvao
 Galvão
 Gameleira
+Gameleira de Goias
 Gameleira de Goiás
 Gameleiras
 Gandu
 Garanhuns
 Gararu
+Garca
 Garça
 Garibaldi
 Garopaba
+Garrafao do Norte
 Garrafão do Norte
 Garruchos
 Garuva
 Gaspar
+Gastao Vidigal
 Gastão Vidigal
+Gaucha do Norte
 Gaúcha do Norte
 Gaurama
+Gaviao
 Gavião
+Gaviao Peixoto
 Gavião Peixoto
 Geminiano
+General Camara
 General Câmara
-General Carneiro
 General Carneiro
 General Maynard
 General Salgado
@@ -1903,15 +2534,24 @@ General Sampaio
 Gentil
 Gentio do Ouro
 Getulina
+Getulio Vargas
 Getúlio Vargas
+Gilbues
 Gilbués
 Girau do Ponciano
+Girua
 Giruá
+Glaucilandia
 Glaucilândia
+Glicerio
 Glicério
+Gloria
 Glória
+Gloria D´oeste
 Glória D´oeste
+Gloria de Dourados
 Glória de Dourados
+Gloria do Goita
 Glória do Goitá
 Glorinha
 Godofredo Viana
@@ -1919,41 +2559,56 @@ Godoy Moreira
 Goiabeira
 Goiana
 Goianá
+Goianapolis
 Goianápolis
 Goiandira
+Goianesia
 Goianésia
+Goianesia do Para
 Goianésia do Pará
+Goiania
 Goiânia
 Goianinha
 Goianira
 Goianorte
+Goias
 Goiás
 Goiatins
 Goiatuba
+Goioere
 Goioerê
 Goioxim
+Goncalves
 Gonçalves
+Goncalves Dias
 Gonçalves Dias
 Gongogi
 Gonzaga
 Gouveia
+Gouvelandia
 Gouvelândia
 Governador Archer
 Governador Celso Ramos
 Governador Dix-sept Rosado
+Governador Edison Lobao
 Governador Edison Lobão
+Governador Eugenio Barros
 Governador Eugênio Barros
 Governador Jorge Teixeira
 Governador Lindenberg
+Governador Lomanto Junior
 Governador Lomanto Júnior
 Governador Luiz Rocha
 Governador Mangabeira
 Governador Newton Bello
 Governador Nunes Freire
 Governador Valadares
+Graca
 Graça
+Graca Aranha
 Graça Aranha
 Gracho Cardoso
+Grajau
 Grajaú
 Gramado
 Gramado Dos Loureiros
@@ -1962,117 +2617,167 @@ Grandes Rios
 Granito
 Granja
 Granjeiro
+Grao Mogol
 Grão Mogol
+Grao Para
 Grão Pará
+Gravata
 Gravatá
+Gravatai
 Gravataí
 Gravatal
+Groairas
 Groaíras
 Grossos
 Grupiara
 Guabiju
 Guabiruba
+Guacui
 Guaçuí
 Guadalupe
+Guaiba
 Guaíba
+Guaicara
 Guaiçara
+Guaimbe
 Guaimbê
+Guaira
 Guaíra
-Guaíra
+Guairaca
 Guairaçá
+Guaiuba
 Guaiúba
+Guajara
 Guajará
+Guajara-mirim
 Guajará-mirim
 Guajeru
+Guamare
 Guamaré
 Guamiranga
 Guanambi
+Guanhaes
 Guanhães
+Guape
 Guapé
+Guapiacu
 Guapiaçu
 Guapiara
 Guapimirim
 Guapirama
+Guapo
 Guapó
+Guapore
 Guaporé
 Guaporema
+Guara
 Guará
 Guarabira
+Guaracai
 Guaraçaí
 Guaraci
-Guaraci
-Guaraciaba
 Guaraciaba
 Guaraciaba do Norte
 Guaraciama
+Guarai
 Guaraí
+Guaraita
 Guaraíta
 Guaramiranga
 Guaramirim
+Guaranesia
 Guaranésia
 Guarani
 Guarani D´oeste
+Guarani Das Missoes
 Guarani Das Missões
+Guarani de Goias
 Guarani de Goiás
+Guaraniacu
 Guaraniaçu
+Guaranta
 Guarantã
+Guaranta do Norte
 Guarantã do Norte
 Guarapari
 Guarapuava
+Guaraquecaba
 Guaraqueçaba
+Guarara
 Guarará
 Guararapes
 Guararema
 Guaratinga
+Guaratingueta
 Guaratinguetá
 Guaratuba
 Guarda-mor
+Guarei
 Guareí
 Guariba
 Guaribas
 Guarinos
+Guaruja
 Guarujá
+Guaruja do Sul
 Guarujá do Sul
 Guarulhos
+Guatambu
 Guatambú
+Guatapara
 Guatapará
+Guaxupe
 Guaxupé
 Guia Lopes da Laguna
 Guidoval
+Guimaraes
 Guimarães
+Guimarania
 Guimarânia
 Guiratinga
 Guiricema
+Gurinhata
 Gurinhatã
+Gurinhem
 Gurinhém
+Gurjao
 Gurjão
+Gurupa
 Gurupá
 Gurupi
+Guzolandia
 Guzolândia
 Harmonia
+Heitorai
 Heitoraí
 Heliodora
+Heliopolis
 Heliópolis
+Herculandia
 Herculândia
 Herval
 Herval D´oeste
 Herveiras
-Hidrolândia
+Hidrolandia
 Hidrolândia
 Hidrolina
 Holambra
+Honorio Serpa
 Honório Serpa
 Horizonte
 Horizontina
+Hortolandia
 Hortolândia
+Hugo Napoleao
 Hugo Napoleão
 Hulha Negra
-Humaitá
+Humaita
 Humaitá
 Humberto de Campos
 Iacanga
 Iaciara
 Iacri
+Iacu
 Iaçu
 Iapu
 Iaras
@@ -2080,255 +2785,356 @@ Iati
 Ibaiti
 Ibarama
 Ibaretama
+Ibate
 Ibaté
 Ibateguara
 Ibatiba
 Ibema
 Ibertioga
+Ibia
 Ibiá
+Ibiaca
 Ibiaçá
+Ibiai
 Ibiaí
 Ibiam
 Ibiapina
 Ibiara
+Ibiassuce
 Ibiassucê
+Ibicarai
 Ibicaraí
+Ibicare
 Ibicaré
 Ibicoara
+Ibicui
 Ibicuí
 Ibicuitinga
 Ibimirim
 Ibipeba
 Ibipitanga
+Ibipora
 Ibiporã
 Ibiquera
+Ibira
 Ibirá
 Ibiracatu
 Ibiraci
+Ibiracu
 Ibiraçu
 Ibiraiaras
 Ibirajuba
 Ibirama
 Ibirapitanga
+Ibirapua
 Ibirapuã
+Ibirapuita
 Ibirapuitã
 Ibirarema
 Ibirataia
+Ibirite
 Ibirité
+Ibiruba
 Ibirubá
 Ibitiara
 Ibitinga
 Ibitirama
+Ibitita
 Ibititá
+Ibitiura de Minas
 Ibitiúra de Minas
 Ibituruna
+Ibiuna
 Ibiúna
 Ibotirama
+Icapui
 Icapuí
+Icara
 Içara
+Icarai de Minas
 Icaraí de Minas
+Icaraima
 Icaraíma
 Icatu
+Icem
 Icém
 Ichu
+Ico
 Icó
 Iconha
 Ielmo Marinho
+Iepe
 Iepê
 Igaci
+Igapora
 Igaporã
+Igaracu do Tiete
 Igaraçu do Tietê
 Igaracy
 Igarapava
+Igarape
 Igarapé
+Igarape do Meio
 Igarapé do Meio
+Igarape Grande
 Igarapé Grande
+Igarape-acu
 Igarapé-açu
+Igarape-miri
 Igarapé-miri
 Igarassu
+Igarata
 Igaratá
 Igaratinga
+Igrapiuna
 Igrapiúna
 Igreja Nova
 Igrejinha
 Iguaba Grande
+Iguai
 Iguaí
 Iguape
 Iguaraci
+Iguaracu
 Iguaraçu
 Iguatama
 Iguatemi
 Iguatu
-Iguatu
 Ijaci
+Ijui
 Ijuí
 Ilha Comprida
 Ilha Das Flores
+Ilha de Itamaraca
 Ilha de Itamaracá
 Ilha Grande
 Ilha Solteira
 Ilhabela
+Ilheus
 Ilhéus
 Ilhota
+Ilicinea
 Ilicínea
+Ilopolis
 Ilópolis
 Imaculada
+Imarui
 Imaruí
+Imbau
 Imbaú
+Imbe
 Imbé
+Imbe de Minas
 Imbé de Minas
 Imbituba
 Imbituva
 Imbuia
 Imigrante
 Imperatriz
+Inacio Martins
 Inácio Martins
+Inaciolandia
 Inaciolândia
-Inajá
+Inaja
 Inajá
 Inconfidentes
 Indaiabira
 Indaial
 Indaiatuba
-Independência
+Independencia
 Independência
 Indiana
+Indianopolis
 Indianópolis
-Indianópolis
+Indiapora
 Indiaporã
 Indiara
 Indiaroba
+Indiavai
 Indiavaí
+Inga
 Ingá
+Ingai
 Ingaí
 Ingazeira
+Inhacora
 Inhacorá
 Inhambupe
 Inhangapi
 Inhapi
 Inhapim
+Inhauma
 Inhaúma
 Inhuma
 Inhumas
 Inimutaba
+Inocencia
 Inocência
+Inubia Paulista
 Inúbia Paulista
+Iomere
 Iomerê
 Ipaba
 Ipameri
 Ipanema
+Ipanguacu
 Ipanguaçu
 Ipaporanga
 Ipatinga
 Ipaumirim
 Ipaussu
+Ipe
 Ipê
+Ipecaeta
 Ipecaetá
+Ipero
 Iperó
+Ipeuna
 Ipeúna
+Ipiacu
 Ipiaçu
+Ipiau
 Ipiaú
+Ipigua
 Ipiguá
 Ipira
 Ipirá
 Ipiranga
+Ipiranga de Goias
 Ipiranga de Goiás
 Ipiranga do Norte
+Ipiranga do Piaui
 Ipiranga do Piauí
 Ipiranga do Sul
 Ipixuna
+Ipixuna do Para
 Ipixuna do Pará
 Ipojuca
+Ipora
 Iporá
 Iporã
+Ipora do Oeste
 Iporã do Oeste
 Iporanga
 Ipu
+Ipua
 Ipuã
+Ipuacu
 Ipuaçu
 Ipubi
 Ipueira
 Ipueiras
-Ipueiras
+Ipuiuna
 Ipuiúna
 Ipumirim
 Ipupiara
 Iracema
-Iracema
 Iracema do Oeste
+Iracemapolis
 Iracemápolis
 Iraceminha
+Irai
 Iraí
+Irai de Minas
 Iraí de Minas
 Irajuba
 Iramaia
 Iranduba
 Irani
+Irapua
 Irapuã
 Irapuru
 Iraquara
+Irara
 Irará
 Irati
-Irati
+Iraucuba
 Irauçuba
+Irece
 Irecê
 Iretama
+Irineopolis
 Irineópolis
 Irituia
 Irupi
+Isaias Coelho
 Isaías Coelho
+Israelandia
 Israelândia
+Ita
 Itá
 Itaara
 Itabaiana
-Itabaiana
 Itabaianinha
 Itabela
+Itabera
 Itaberá
 Itaberaba
+Itaberai
 Itaberaí
 Itabi
 Itabira
 Itabirinha
 Itabirito
+Itaborai
 Itaboraí
 Itabuna
+Itacaja
 Itacajá
 Itacambira
 Itacarambi
+Itacare
 Itacaré
 Itacoatiara
 Itacuruba
 Itacurubi
+Itaete
 Itaeté
 Itagi
+Itagiba
 Itagibá
 Itagimirim
+Itaguacu
 Itaguaçu
+Itaguacu da Bahia
 Itaguaçu da Bahia
+Itaguai
 Itaguaí
+Itaguaje
 Itaguajé
 Itaguara
 Itaguari
 Itaguaru
 Itaguatins
+Itai
 Itaí
+Itaiba
 Itaíba
+Itaicaba
 Itaiçaba
+Itainopolis
 Itainópolis
+Itaiopolis
 Itaiópolis
+Itaipava do Grajau
 Itaipava do Grajaú
+Itaipe
 Itaipé
+Itaipulandia
 Itaipulândia
 Itaitinga
 Itaituba
+Itaja
 Itajá
-Itajá
+Itajai
 Itajaí
 Itajobi
 Itaju
+Itaju do Colonia
 Itaju do Colônia
+Itajuba
 Itajubá
+Itajuipe
 Itajuípe
 Italva
 Itamaraju
@@ -2337,26 +3143,33 @@ Itamarati
 Itamarati de Minas
 Itamari
 Itambacuri
+Itambaraca
 Itambaracá
+Itambe
 Itambé
-Itambé
-Itambé
+Itambe do Mato Dentro
 Itambé do Mato Dentro
 Itamogi
 Itamonte
 Itanagra
+Itanhaem
 Itanhaém
 Itanhandu
+Itanhanga
 Itanhangá
+Itanhem
 Itanhém
 Itanhomi
 Itaobim
+Itaoca
 Itaóca
 Itaocara
 Itapaci
+Itapage
 Itapagé
 Itapagipe
 Itaparica
+Itape
 Itapé
 Itapebi
 Itapecerica
@@ -2365,51 +3178,62 @@ Itapecuru Mirim
 Itapejara D´oeste
 Itapema
 Itapemirim
+Itaperucu
 Itaperuçu
 Itaperuna
 Itapetim
 Itapetinga
 Itapetininga
 Itapeva
-Itapeva
 Itapevi
 Itapicuru
 Itapipoca
 Itapira
 Itapiranga
-Itapiranga
+Itapirapua
 Itapirapuã
+Itapirapua Paulista
 Itapirapuã Paulista
 Itapiratins
 Itapissuma
 Itapitanga
+Itapiuna
 Itapiúna
+Itapoa
 Itapoá
+Itapolis
 Itápolis
+Itapora
 Itaporã
+Itapora do Tocantins
 Itaporã do Tocantins
-Itaporanga
 Itaporanga
 Itaporanga D´ajuda
 Itapororoca
+Itapua do Oeste
 Itapuã do Oeste
 Itapuca
+Itapui
 Itapuí
 Itapura
 Itapuranga
 Itaquaquecetuba
 Itaquara
 Itaqui
+Itaquirai
 Itaquiraí
 Itaquitinga
 Itarana
 Itarantim
+Itarare
 Itararé
 Itarema
 Itariri
+Itaruma
 Itarumã
 Itati
 Itatiaia
+Itatiaiucu
 Itatiaiuçu
 Itatiba
 Itatiba do Sul
@@ -2417,26 +3241,39 @@ Itatim
 Itatinga
 Itatira
 Itatuba
+Itau
 Itaú
+Itau de Minas
 Itaú de Minas
+Itauba
 Itaúba
 Itaubal
+Itaucu
 Itauçu
 Itaueira
+Itauna
 Itaúna
+Itauna do Sul
 Itaúna do Sul
 Itaverava
 Itinga
+Itinga do Maranhao
 Itinga do Maranhão
 Itiquira
 Itirapina
+Itirapua
 Itirapuã
+Itirucu
 Itiruçu
+Itiuba
 Itiúba
 Itobi
+Itororo
 Itororó
 Itu
+Ituacu
 Ituaçu
+Itubera
 Ituberá
 Itueta
 Ituiutaba
@@ -2448,29 +3285,41 @@ Ituporanga
 Iturama
 Itutinga
 Ituverava
+Iuiu
 Iuiú
+Iuna
 Iúna
+Ivai
 Ivaí
+Ivaipora
 Ivaiporã
+Ivate
 Ivaté
 Ivatuba
 Ivinhema
+Ivolandia
 Ivolândia
+Ivora
 Ivorá
 Ivoti
+Jaboatao Dos Guararapes
 Jaboatão Dos Guararapes
+Jabora
 Jaborá
-Jaborandi
 Jaborandi
 Jaboti
 Jaboticaba
 Jaboticabal
 Jaboticatubas
+Jacana
 Jaçanã
 Jacaraci
+Jacarau
 Jacaraú
+Jacare Dos Homens
 Jacaré Dos Homens
 Jacareacanga
+Jacarei
 Jacareí
 Jacarezinho
 Jaci
@@ -2478,84 +3327,111 @@ Jaciara
 Jacinto
 Jacinto Machado
 Jacobina
+Jacobina do Piaui
 Jacobina do Piauí
+Jacui
 Jacuí
+Jacuipe
 Jacuípe
 Jacuizinho
+Jacunda
 Jacundá
 Jacupiranga
 Jacutinga
-Jacutinga
+Jaguapita
 Jaguapitã
 Jaguaquara
+Jaguaracu
 Jaguaraçu
+Jaguarao
 Jaguarão
 Jaguarari
+Jaguare
 Jaguaré
 Jaguaretama
 Jaguari
+Jaguariaiva
 Jaguariaíva
 Jaguaribara
 Jaguaribe
 Jaguaripe
+Jaguariuna
 Jaguariúna
 Jaguaruana
 Jaguaruna
+Jaiba
 Jaíba
+Jaicos
 Jaicós
 Jales
 Jambeiro
 Jampruca
+Janauba
 Janaúba
 Jandaia
 Jandaia do Sul
-Jandaíra
+Jandaira
 Jandaíra
 Jandira
+Janduis
 Janduís
 Jangada
+Janiopolis
 Janiópolis
+Januaria
 Januária
+Januario Cicco
 Januário Cicco
+Japaraiba
 Japaraíba
 Japaratinga
 Japaratuba
 Japeri
 Japi
 Japira
+Japoata
 Japoatã
 Japonvar
+Japora
 Japorã
-Japurá
+Japura
 Japurá
 Jaqueira
 Jaquirana
+Jaragua
 Jaraguá
+Jaragua do Sul
 Jaraguá do Sul
 Jaraguari
 Jaramataia
-Jardim
 Jardim
 Jardim Alegre
 Jardim de Angicos
 Jardim de Piranhas
 Jardim do Mulato
+Jardim do Serido
 Jardim do Seridó
 Jardim Olinda
-Jardinópolis
+Jardinopolis
 Jardinópolis
 Jari
 Jarinu
 Jaru
+Jatai
 Jataí
 Jataizinho
+Jatauba
 Jataúba
+Jatei
 Jateí
 Jati
+Jatoba
 Jatobá
-Jatobá
+Jatoba do Piaui
 Jatobá do Piauí
+Jau
 Jaú
+Jau do Tocantins
 Jaú do Tocantins
 Jaupaci
 Jauru
@@ -2563,110 +3439,170 @@ Jeceaba
 Jenipapo de Minas
 Jenipapo Dos Vieiras
 Jequeri
+Jequia da Praia
 Jequiá da Praia
+Jequie
 Jequié
+Jequitai
 Jequitaí
+Jequitiba
 Jequitibá
 Jequitinhonha
 Jeremoabo
+Jerico
 Jericó
 Jeriquara
+Jeronimo Monteiro
 Jerônimo Monteiro
 Jerumenha
+Jesuania
 Jesuânia
+Jesuitas
 Jesuítas
+Jesupolis
 Jesúpolis
 Jijoca de Jericoacoara
+Ji-parana
 Ji-paraná
+Jiquirica
 Jiquiriçá
+Jitauna
 Jitaúna
+Joacaba
 Joaçaba
+Joaima
 Joaíma
+Joanesia
 Joanésia
+Joanopolis
 Joanópolis
+Joao Alfredo
 João Alfredo
+Joao Camara
 João Câmara
+Joao Costa
 João Costa
+Joao Dias
 João Dias
+Joao Dourado
 João Dourado
+Joao Lisboa
 João Lisboa
+Joao Monlevade
 João Monlevade
+Joao Neiva
 João Neiva
+Joao Pessoa
 João Pessoa
+Joao Pinheiro
 João Pinheiro
+Joao Ramalho
 João Ramalho
+Joaquim Felicio
 Joaquim Felício
 Joaquim Gomes
 Joaquim Nabuco
 Joaquim Pires
+Joaquim Tavora
 Joaquim Távora
 Joca Marques
+Joia
 Jóia
 Joinville
+Jordania
 Jordânia
+Jordao
 Jordão
+Jose Boiteux
 José Boiteux
+Jose Bonifacio
 José Bonifácio
+Jose da Penha
 José da Penha
+Jose de Freitas
 José de Freitas
+Jose Goncalves de Minas
 José Gonçalves de Minas
+Jose Raydan
 José Raydan
+Joselandia
 Joselândia
+Josenopolis
 Josenópolis
+Joviania
 Joviânia
 Juara
+Juarez Tavora
 Juarez Távora
 Juarina
 Juatuba
 Juazeirinho
 Juazeiro
 Juazeiro do Norte
+Juazeiro do Piaui
 Juazeiro do Piauí
+Jucas
 Jucás
 Jucati
+Jucurucu
 Jucuruçu
 Jucurutu
+Juina
 Juína
 Juiz de Fora
+Julio Borges
 Júlio Borges
+Julio de Castilhos
 Júlio de Castilhos
+Julio Mesquita
 Júlio Mesquita
 Jumirim
+Junco do Maranhao
 Junco do Maranhão
+Junco do Serido
 Junco do Seridó
+Jundia
 Jundiá
-Jundiá
+Jundiai
 Jundiaí
+Jundiai do Sul
 Jundiaí do Sul
 Junqueiro
+Junqueiropolis
 Junqueirópolis
 Jupi
+Jupia
 Jupiá
+Juquia
 Juquiá
 Juquitiba
 Juramento
 Juranda
 Jurema
-Jurema
 Juripiranga
 Juru
+Jurua
 Juruá
 Juruaia
 Juruena
 Juruti
 Juscimeira
 Jussara
-Jussara
-Jussara
 Jussari
 Jussiape
+Jutai
 Jutaí
 Juti
+Juvenilia
 Juvenília
+Kalore
 Kaloré
+Labrea
 Lábrea
+Lacerdopolis
 Lacerdópolis
 Ladainha
+Ladario
 Ladário
 Lafaiete Coutinho
 Lagamar
@@ -2681,47 +3617,56 @@ Lagoa Alegre
 Lagoa Bonita do Sul
 Lagoa D´anta
 Lagoa da Canoa
+Lagoa da Confusao
 Lagoa da Confusão
 Lagoa da Prata
 Lagoa de Dentro
 Lagoa de Pedras
+Lagoa de Sao Francisco
 Lagoa de São Francisco
 Lagoa de Velhos
+Lagoa do Barro do Piaui
 Lagoa do Barro do Piauí
 Lagoa do Carro
 Lagoa do Itaenga
 Lagoa do Mato
 Lagoa do Ouro
+Lagoa do Piaui
 Lagoa do Piauí
+Lagoa do Sitio
 Lagoa do Sítio
 Lagoa do Tocantins
 Lagoa Dos Gatos
 Lagoa Dos Patos
+Lagoa Dos Tres Cantos
 Lagoa Dos Três Cantos
 Lagoa Dourada
 Lagoa Formosa
 Lagoa Grande
-Lagoa Grande
+Lagoa Grande do Maranhao
 Lagoa Grande do Maranhão
 Lagoa Nova
 Lagoa Real
 Lagoa Salgada
 Lagoa Santa
-Lagoa Santa
 Lagoa Seca
 Lagoa Vermelha
+Lagoao
 Lagoão
 Lagoinha
+Lagoinha do Piaui
 Lagoinha do Piauí
 Laguna
+Laguna Carapa
 Laguna Carapã
 Laje
+Laje do Muriae
 Laje do Muriaé
-Lajeado
 Lajeado
 Lajeado do Bugre
 Lajeado Grande
 Lajeado Novo
+Lajedao
 Lajedão
 Lajedinho
 Lajedo
@@ -2729,15 +3674,16 @@ Lajedo do Tabocal
 Lajes
 Lajes Pintadas
 Lajinha
+Lamarao
 Lamarão
 Lambari
 Lambari D´oeste
 Lamim
 Landri Sales
 Lapa
+Lapao
 Lapão
 Laranja da Terra
-Laranjal
 Laranjal
 Laranjal do Jari
 Laranjal Paulista
@@ -2749,24 +3695,32 @@ Laurentino
 Lauro de Freitas
 Lauro Muller
 Lavandeira
+Lavinia
 Lavínia
 Lavras
 Lavras da Mangabeira
 Lavras do Sul
 Lavrinhas
 Leandro Ferreira
+Lebon Regis
 Lebon Régis
 Leme
 Leme do Prado
+Lencois
 Lençóis
+Lencois Paulista
 Lençóis Paulista
 Leoberto Leal
 Leopoldina
+Leopoldo de Bulhoes
 Leopoldo de Bulhões
+Leopolis
 Leópolis
 Liberato Salzano
 Liberdade
+Licinio de Almeida
 Licínio de Almeida
+Lidianopolis
 Lidianópolis
 Lima Campos
 Lima Duarte
@@ -2777,7 +3731,9 @@ Limoeiro de Anadia
 Limoeiro do Ajuru
 Limoeiro do Norte
 Lindoeste
+Lindoia
 Lindóia
+Lindoia do Sul
 Lindóia do Sul
 Lindolfo Collor
 Linha Nova
@@ -2797,44 +3753,69 @@ Loreto
 Lourdes
 Louveira
 Lucas do Rio Verde
+Lucelia
 Lucélia
 Lucena
+Lucianopolis
 Lucianópolis
+Luciara
 Luciára
+Lucrecia
 Lucrécia
+Luis Antonio
 Luís Antônio
+Luis Correia
 Luís Correia
+Luis Domingues
 Luís Domingues
+Luis Eduardo Magalhaes
 Luís Eduardo Magalhães
+Luis Gomes
 Luís Gomes
 Luisburgo
+Luislandia
 Luislândia
 Luiz Alves
 Luiziana
+Luiziania
 Luiziânia
+Luminarias
 Luminárias
 Lunardelli
+Lupercio
 Lupércio
+Lupionopolis
 Lupionópolis
+Lutecia
 Lutécia
 Luz
 Luzerna
+Luziania
 Luziânia
+Luzilandia
 Luzilândia
+Luzinopolis
 Luzinópolis
+Macae
 Macaé
+Macaiba
 Macaíba
 Macajuba
+Macambara
 Maçambara
 Macambira
+Macapa
 Macapá
 Macaparana
 Macarani
 Macatuba
 Macau
 Macaubal
+Macaubas
 Macaúbas
+Macedonia
 Macedônia
+Maceio
 Maceió
 Machacalis
 Machadinho
@@ -2843,22 +3824,29 @@ Machado
 Machados
 Macieira
 Macuco
+Macurure
 Macururé
 Madalena
 Madeiro
 Madre de Deus
 Madre de Deus de Minas
+Mae D´agua
 Mãe D´água
+Mae do Rio
 Mãe do Rio
 Maetinga
 Mafra
+Magalhaes Barata
 Magalhães Barata
+Magalhaes de Almeida
 Magalhães de Almeida
 Magda
+Mage
 Magé
 Maiquinique
 Mairi
 Mairinque
+Mairipora
 Mairiporã
 Mairipotaba
 Major Gercino
@@ -2873,201 +3861,281 @@ Malhador
 Mallet
 Malta
 Mamanguape
+Mambai
 Mambaí
+Mambore
 Mamborê
 Mamonas
 Mampituba
 Manacapuru
+Manaira
 Manaíra
 Manaquiri
 Manari
 Manaus
+Mancio Lima
 Mâncio Lima
+Mandaguacu
 Mandaguaçu
 Mandaguari
 Mandirituba
 Manduri
+Manfrinopolis
 Manfrinópolis
 Manga
 Mangaratiba
 Mangueirinha
+Manhuacu
 Manhuaçu
 Manhumirim
+Manicore
 Manicoré
+Manoel Emidio
 Manoel Emídio
 Manoel Ribas
 Manoel Urbano
 Manoel Viana
 Manoel Vitorino
+Mansidao
 Mansidão
 Mantena
+Mantenopolis
 Mantenópolis
+Maquine
 Maquiné
 Mar de Espanha
 Mar Vermelho
 Mara Rosa
+Maraa
 Maraã
+Maraba
 Marabá
+Maraba Paulista
 Marabá Paulista
+Maracacume
 Maracaçumé
+Maracai
 Maracaí
+Maracaja
 Maracajá
 Maracaju
+Maracana
 Maracanã
+Maracanau
 Maracanaú
+Maracas
 Maracás
 Maragogi
 Maragogipe
 Maraial
+Maraja do Sena
 Marajá do Sena
 Maranguape
+Maranhaozinho
 Maranhãozinho
 Marapanim
 Marapoama
+Marata
 Maratá
+Marataizes
 Marataízes
 Marau
 Maraú
 Maravilha
-Maravilha
 Maravilhas
+Marcacao
 Marcação
+Marcelandia
 Marcelândia
 Marcelino Ramos
 Marcelino Vieira
+Marcionilio Souza
 Marcionílio Souza
 Marco
+Marcolandia
 Marcolândia
 Marcos Parente
+Marechal Candido Rondon
 Marechal Cândido Rondon
 Marechal Deodoro
 Marechal Floriano
 Marechal Thaumaturgo
 Marema
 Mari
+Maria da fe
 Maria da fé
 Maria Helena
 Marialva
 Mariana
 Mariana Pimentel
 Mariano Moro
+Marianopolis do Tocantins
 Marianópolis do Tocantins
+Mariapolis
 Mariápolis
 Maribondo
+Marica
 Maricá
 Marilac
+Marilandia
 Marilândia
+Marilandia do Sul
 Marilândia do Sul
 Marilena
+Marilia
 Marília
 Mariluz
+Maringa
 Maringá
+Marinopolis
 Marinópolis
+Mario Campos
 Mário Campos
+Mariopolis
 Mariópolis
+Maripa
 Maripá
+Maripa de Minas
 Maripá de Minas
 Marituba
+Marizopolis
 Marizópolis
+Marlieria
 Marliéria
 Marmeleiro
+Marmelopolis
 Marmelópolis
 Marques de Souza
 Marquinho
 Martinho Campos
+Martinopole
 Martinópole
+Martinopolis
 Martinópolis
 Martins
 Martins Soares
 Maruim
 Marumbi
+Marzagao
 Marzagão
 Mascote
+Massape
 Massapê
+Massape do Piaui
 Massapê do Piauí
 Massaranduba
-Massaranduba
 Mata
+Mata de Sao Joao
 Mata de São João
 Mata Grande
 Mata Roma
 Mata Verde
+Matao
 Matão
 Mataraca
 Mateiros
+Matelandia
 Matelândia
+Materlandia
 Materlândia
 Mateus Leme
 Mathias Lobato
 Matias Barbosa
 Matias Cardoso
+Matias Olimpio
 Matias Olímpio
 Matina
 Matinha
 Matinhas
 Matinhos
+Matipo
 Matipó
 Mato Castelhano
 Mato Grosso
+Mato Leitao
 Mato Leitão
 Mato Queimado
 Mato Rico
 Mato Verde
+Matoes
 Matões
+Matoes do Norte
 Matões do Norte
 Matos Costa
 Matozinhos
+Matrincha
 Matrinchã
 Matriz de Camaragibe
+Matupa
 Matupá
+Matureia
 Maturéia
 Matutina
+Maua
 Mauá
+Maua da Serra
 Mauá da Serra
+Maues
 Maués
+Maurilandia
 Maurilândia
+Maurilandia do Tocantins
 Maurilândia do Tocantins
 Mauriti
 Maxaranguape
 Maximiliano de Almeida
+Mazagao
 Mazagão
 Medeiros
 Medeiros Neto
 Medianeira
+Medicilandia
 Medicilândia
 Medina
 Meleiro
+Melgaco
 Melgaço
 Mendes
 Mendes Pimentel
+Mendonca
 Mendonça
 Mercedes
+Merces
 Mercês
 Meridiano
 Meruoca
+Mesopolis
 Mesópolis
-Mesquita
 Mesquita
 Messias
 Messias Targino
 Miguel Alves
 Miguel Calmon
+Miguel Leao
 Miguel Leão
 Miguel Pereira
+Miguelopolis
 Miguelópolis
 Milagres
-Milagres
+Milagres do Maranhao
 Milagres do Maranhão
+Milha
 Milhã
+Milton Brandao
 Milton Brandão
+Mimoso de Goias
 Mimoso de Goiás
 Mimoso do Sul
+Minacu
 Minaçu
+Minador do Negrao
 Minador do Negrão
+Minas do Leao
 Minas do Leão
 Minas Novas
 Minduri
 Mineiros
+Mineiros do Tiete
 Mineiros do Tietê
 Ministro Andreazza
 Mira Estrela
@@ -3076,14 +4144,17 @@ Miracatu
 Miracema
 Miracema do Tocantins
 Mirador
-Mirador
 Miradouro
+Miraguai
 Miraguaí
+Mirai
 Miraí
+Miraima
 Miraíma
 Miranda
 Miranda do Norte
 Mirandiba
+Mirandopolis
 Mirandópolis
 Mirangaba
 Miranorte
@@ -3093,11 +4164,14 @@ Mirante do Paranapanema
 Miraselva
 Mirassol
 Mirassol D´oeste
+Mirassolandia
 Mirassolândia
+Miravania
 Miravânia
 Mirim Doce
 Mirinzal
 Missal
+Missao Velha
 Missão Velha
 Mocajuba
 Mococa
@@ -3105,38 +4179,50 @@ Modelo
 Moeda
 Moema
 Mogeiro
+Mogi Guacu
 Mogi Guaçu
+Moipora
 Moiporá
 Moita Bonita
 Moji Das Cruzes
 Moji-mirim
 Moju
+Mojui dos Campos
 Mojuí dos Campos
+Mombaca
 Mombaça
 Mombuca
+Moncao
 Monção
+Moncoes
 Monções
+Mondai
 Mondaí
+Mongagua
 Mongaguá
 Monjolos
 Monsenhor Gil
+Monsenhor Hipolito
 Monsenhor Hipólito
 Monsenhor Paulo
 Monsenhor Tabosa
 Montadas
+Montalvania
 Montalvânia
 Montanha
 Montanhas
 Montauri
 Monte Alegre
-Monte Alegre
+Monte Alegre de Goias
 Monte Alegre de Goiás
 Monte Alegre de Minas
 Monte Alegre de Sergipe
+Monte Alegre do Piaui
 Monte Alegre do Piauí
 Monte Alegre do Sul
 Monte Alegre Dos Campos
 Monte Alto
+Monte Aprazivel
 Monte Aprazível
 Monte Azul
 Monte Azul Paulista
@@ -3144,7 +4230,6 @@ Monte Belo
 Monte Belo do Sul
 Monte Carlo
 Monte Carmelo
-Monte Castelo
 Monte Castelo
 Monte Das Gameleiras
 Monte do Carmo
@@ -3155,35 +4240,47 @@ Monte Negro
 Monte Santo
 Monte Santo de Minas
 Monte Santo do Tocantins
+Monte Siao
 Monte Sião
 Monteiro
 Monteiro Lobato
+Monteiropolis
 Monteirópolis
 Montenegro
 Montes Altos
 Montes Claros
+Montes Claros de Goias
 Montes Claros de Goiás
 Montezuma
 Montividiu
 Montividiu do Norte
 Morada Nova
 Morada Nova de Minas
+Moraujo
 Moraújo
+Moreilandia
 Moreilândia
 Moreira Sales
 Moreno
+Mormaco
 Mormaço
+Morpara
 Morpará
 Morretes
 Morrinhos
-Morrinhos
 Morrinhos do Sul
 Morro Agudo
+Morro Agudo de Goias
 Morro Agudo de Goiás
+Morro Cabeca no Tempo
 Morro Cabeça no Tempo
+Morro da Fumaca
 Morro da Fumaça
+Morro da Garca
 Morro da Garça
+Morro do Chapeu
 Morro do Chapéu
+Morro do Chapeu do Piaui
 Morro do Chapéu do Piauí
 Morro do Pilar
 Morro Grande
@@ -3192,143 +4289,197 @@ Morro Reuter
 Morros
 Mortugaba
 Morungaba
+Mossamedes
 Mossâmedes
+Mossoro
 Mossoró
 Mostardas
 Motuca
+Mozarlandia
 Mozarlândia
+Muana
 Muaná
+Mucajai
 Mucajaí
 Mucambo
+Mucuge
 Mucugê
+Mucum
 Muçum
 Mucuri
 Mucurici
+Muitos Capoes
 Muitos Capões
 Muliterno
 Mulungu
-Mulungu
 Mulungu do Morro
-Mundo Novo
-Mundo Novo
 Mundo Novo
 Munhoz
 Munhoz de Melo
 Muniz Ferreira
 Muniz Freire
+Muquem de Sao Francisco
 Muquém de São Francisco
 Muqui
+Muriae
 Muriaé
 Muribeca
 Murici
 Murici Dos Portelas
+Muricilandia
 Muricilândia
 Muritiba
 Murutinga do Sul
+Mutuipe
 Mutuípe
 Mutum
+Mutunopolis
 Mutunópolis
 Muzambinho
 Nacip Raydan
 Nantes
 Nanuque
+Nao-me-toque
 Não-me-toque
 Naque
 Narandiba
 Natal
+Natalandia
 Natalândia
+Natercia
 Natércia
-Natividade
 Natividade
 Natividade da Serra
 Natuba
 Navegantes
+Navirai
 Naviraí
+Nazare
 Nazaré
-Nazaré
+Nazare da Mata
 Nazaré da Mata
+Nazare do Piaui
 Nazaré do Piauí
+Nazare Paulista
 Nazaré Paulista
 Nazareno
 Nazarezinho
+Nazaria
 Nazária
+Nazario
 Nazário
+Neopolis
 Neópolis
 Nepomuceno
+Neropolis
 Nerópolis
 Neves Paulista
+Nhamunda
 Nhamundá
 Nhandeara
 Nicolau Vergueiro
+Nilo Pecanha
 Nilo Peçanha
+Nilopolis
 Nilópolis
 Nina Rodrigues
 Ninheira
 Nioaque
+Nipoa
 Nipoã
+Niquelandia
 Niquelândia
+Nisia Floresta
 Nísia Floresta
+Niteroi
 Niterói
 Nobres
 Nonoai
 Nordestina
 Normandia
+Nortelandia
 Nortelândia
 Nossa Senhora Aparecida
+Nossa Senhora da Gloria
 Nossa Senhora da Glória
 Nossa Senhora Das Dores
+Nossa Senhora Das Gracas
 Nossa Senhora Das Graças
 Nossa Senhora de Lourdes
+Nossa Senhora de Nazare
 Nossa Senhora de Nazaré
 Nossa Senhora do Livramento
 Nossa Senhora do Socorro
+Nossa Senhora Dos Remedios
 Nossa Senhora Dos Remédios
+Nova Alianca
 Nova Aliança
+Nova Alianca do Ivai
 Nova Aliança do Ivaí
 Nova Alvorada
 Nova Alvorada do Sul
+Nova America
 Nova América
+Nova America da Colina
 Nova América da Colina
 Nova Andradina
+Nova Araca
 Nova Araçá
-Nova Aurora
 Nova Aurora
 Nova Bandeirantes
 Nova Bassano
+Nova Belem
 Nova Belém
 Nova Boa Vista
+Nova Brasilandia
 Nova Brasilândia
+Nova Brasilandia D´oeste
 Nova Brasilândia D´oeste
+Nova Brescia
 Nova Bréscia
 Nova Campina
+Nova Canaa
 Nova Canaã
+Nova Canaa do Norte
 Nova Canaã do Norte
+Nova Canaa Paulista
 Nova Canaã Paulista
+Nova Candelaria
 Nova Candelária
 Nova Cantu
 Nova Castilho
 Nova Colinas
+Nova Crixas
 Nova Crixás
 Nova Cruz
 Nova Era
 Nova Erechim
+Nova Esperanca
 Nova Esperança
+Nova Esperanca do Piria
 Nova Esperança do Piriá
+Nova Esperanca do Sudoeste
 Nova Esperança do Sudoeste
+Nova Esperanca do Sul
 Nova Esperança do Sul
 Nova Europa
-Nova Fátima
+Nova Fatima
 Nova Fátima
 Nova Floresta
 Nova Friburgo
+Nova Gloria
 Nova Glória
 Nova Granada
 Nova Guarita
 Nova Guataporanga
 Nova Hartz
+Nova Ibia
 Nova Ibiá
+Nova Iguacu
 Nova Iguaçu
+Nova Iguacu de Goias
 Nova Iguaçu de Goiás
+Nova Independencia
 Nova Independência
 Nova Iorque
 Nova Ipixuna
@@ -3338,40 +4489,50 @@ Nova Lacerda
 Nova Laranjeiras
 Nova Lima
 Nova Londrina
+Nova Luzitania
 Nova Luzitânia
+Nova Mamore
 Nova Mamoré
+Nova Marilandia
 Nova Marilândia
+Nova Maringa
 Nova Maringá
+Nova Modica
 Nova Módica
 Nova Monte Verde
 Nova Mutum
+Nova Nazare
 Nova Nazaré
 Nova Odessa
+Nova Olimpia
 Nova Olímpia
-Nova Olímpia
 Nova Olinda
-Nova Olinda
-Nova Olinda
+Nova Olinda do Maranhao
 Nova Olinda do Maranhão
 Nova Olinda do Norte
+Nova Padua
 Nova Pádua
 Nova Palma
 Nova Palmeira
+Nova Petropolis
 Nova Petrópolis
 Nova Ponte
 Nova Porteirinha
 Nova Prata
+Nova Prata do Iguacu
 Nova Prata do Iguaçu
 Nova Ramada
+Nova Redencao
 Nova Redenção
 Nova Resende
 Nova Roma
 Nova Roma do Sul
+Nova Rosalandia
 Nova Rosalândia
 Nova Russas
+Nova Santa Barbara
 Nova Santa Bárbara
 Nova Santa Helena
-Nova Santa Rita
 Nova Santa Rita
 Nova Santa Rosa
 Nova Serrana
@@ -3379,18 +4540,22 @@ Nova Soure
 Nova Tebas
 Nova Timboteua
 Nova Trento
+Nova Ubirata
 Nova Ubiratã
+Nova Uniao
 Nova União
-Nova União
+Nova Venecia
 Nova Venécia
 Nova Veneza
-Nova Veneza
+Nova Vicosa
 Nova Viçosa
 Nova Xavantina
 Novais
 Novo Acordo
+Novo Airao
 Novo Airão
 Novo Alegre
+Novo Aripuana
 Novo Aripuanã
 Novo Barreiro
 Novo Brasil
@@ -3398,8 +4563,6 @@ Novo Cabrais
 Novo Cruzeiro
 Novo Gama
 Novo Hamburgo
-Novo Horizonte
-Novo Horizonte
 Novo Horizonte
 Novo Horizonte do Norte
 Novo Horizonte do Oeste
@@ -3411,199 +4574,266 @@ Novo Machado
 Novo Mundo
 Novo Oriente
 Novo Oriente de Minas
+Novo Oriente do Piaui
 Novo Oriente do Piauí
 Novo Planalto
 Novo Progresso
 Novo Repartimento
+Novo Santo Antonio
 Novo Santo Antônio
-Novo Santo Antônio
+Novo Sao Joaquim
 Novo São Joaquim
 Novo Tiradentes
 Novo Triunfo
 Novo Xingu
 Novorizonte
 Nuporanga
+obidos
 Óbidos
 Ocara
+Ocaucu
 Ocauçu
 Oeiras
+Oeiras do Para
 Oeiras do Pará
 Oiapoque
 Olaria
+oleo
 Óleo
+Olho D´agua
 Olho D´água
+Olho D´agua Das Cunhas
 Olho D´água Das Cunhãs
+Olho D´agua Das Flores
 Olho D´água Das Flores
+Olho D´agua do Casado
 Olho D´água do Casado
+Olho D´agua do Piaui
 Olho D´água do Piauí
+Olho D´agua Grande
 Olho D´água Grande
+Olho-d´agua do Borges
 Olho-d´água do Borges
+Olhos-d´agua
 Olhos-d´água
+Olimpia
 Olímpia
+Olimpio Noronha
 Olímpio Noronha
 Olinda
+Olinda Nova do Maranhao
 Olinda Nova do Maranhão
 Olindina
 Olivedos
 Oliveira
+Oliveira de Fatima
 Oliveira de Fátima
 Oliveira Dos Brejinhos
 Oliveira Fortes
+Olivenca
 Olivença
+Onca de Pitangui
 Onça de Pitangui
 Onda Verde
+Oratorios
 Oratórios
 Oriente
+Orindiuva
 Orindiúva
+Oriximina
 Oriximiná
+Orizania
 Orizânia
 Orizona
+Orlandia
 Orlândia
 Orleans
+Orobo
 Orobó
+Oroco
 Orocó
+Oros
 Orós
 Ortigueira
 Osasco
 Oscar Bressane
+Osorio
 Osório
 Osvaldo Cruz
+Otacilio Costa
 Otacílio Costa
+Ourem
 Ourém
+Ouricangas
 Ouriçangas
 Ouricuri
+Ourilandia do Norte
 Ourilândia do Norte
 Ourinhos
 Ourizona
 Ouro
-Ouro Branco
-Ouro Branco
 Ouro Branco
 Ouro Fino
 Ouro Preto
 Ouro Preto do Oeste
 Ouro Velho
 Ouro Verde
-Ouro Verde
+Ouro Verde de Goias
 Ouro Verde de Goiás
 Ouro Verde de Minas
 Ouro Verde do Oeste
 Ouroeste
+Ourolandia
 Ourolândia
 Ouvidor
 Pacaembu
+Pacaja
 Pacajá
 Pacajus
 Pacaraima
 Pacatuba
-Pacatuba
+Paco do Lumiar
 Paço do Lumiar
 Pacoti
+Pacuja
 Pacujá
 Padre Bernardo
 Padre Carvalho
 Padre Marcos
+Padre Paraiso
 Padre Paraíso
 Paes Landim
 Pai Pedro
 Paial
+Paicandu
 Paiçandu
 Paim Filho
 Paineiras
 Painel
 Pains
 Paiva
+Pajeu do Piaui
 Pajeú do Piauí
 Palestina
-Palestina
+Palestina de Goias
 Palestina de Goiás
+Palestina do Para
 Palestina do Pará
 Palhano
+Palhoca
 Palhoça
 Palma
 Palma Sola
+Palmacia
 Palmácia
 Palmares
 Palmares do Sul
 Palmares Paulista
 Palmas
-Palmas
 Palmas de Monte Alto
 Palmeira
-Palmeira
 Palmeira D´oeste
+Palmeira Das Missoes
 Palmeira Das Missões
+Palmeira do Piaui
 Palmeira do Piauí
+Palmeira Dos indios
 Palmeira Dos Índios
 Palmeirais
+Palmeirandia
 Palmeirândia
 Palmeirante
 Palmeiras
+Palmeiras de Goias
 Palmeiras de Goiás
 Palmeiras do Tocantins
 Palmeirina
+Palmeiropolis
 Palmeirópolis
 Palmelo
+Palminopolis
 Palminópolis
-Palmital
 Palmital
 Palmitinho
 Palmitos
+Palmopolis
 Palmópolis
 Palotina
+Panama
 Panamá
 Panambi
 Pancas
 Panelas
 Panorama
 Pantano Grande
+Pao de Acucar
 Pão de Açúcar
 Papagaios
 Papanduva
+Paqueta
 Paquetá
+Para de Minas
 Pará de Minas
 Paracambi
 Paracatu
 Paracuru
 Paragominas
+Paraguacu
 Paraguaçu
+Paraguacu Paulista
 Paraguaçu Paulista
+Parai
 Paraí
+Paraiba do Sul
 Paraíba do Sul
 Paraibano
 Paraibuna
 Paraipaba
+Paraiso
 Paraíso
-Paraíso
+Paraiso das aguas
 Paraíso das Águas
+Paraiso do Norte
 Paraíso do Norte
+Paraiso do Sul
 Paraíso do Sul
+Paraiso do Tocantins
 Paraíso do Tocantins
+Paraisopolis
 Paraisópolis
 Parambu
 Paramirim
 Paramoti
+Parana
 Paraná
 Paranã
 Paranacity
+Paranagua
 Paranaguá
+Paranaiba
 Paranaíba
 Paranaiguara
+Paranaita
 Paranaíta
 Paranapanema
 Paranapoema
+Paranapua
 Paranapuã
 Paranatama
 Paranatinga
+Paranavai
 Paranavaí
 Paranhos
 Paraopeba
+Parapua
 Parapuã
 Parari
 Parati
 Paratinga
+Parau
 Paraú
 Parauapebas
+Parauna
 Paraúna
 Parazinho
 Pardinho
@@ -3614,22 +4844,26 @@ Pariconha
 Parintins
 Paripiranga
 Paripueira
+Pariquera-acu
 Pariquera-açu
 Parisi
+Parnagua
 Parnaguá
+Parnaiba
 Parnaíba
 Parnamirim
-Parnamirim
 Parnarama
+Parobe
 Parobé
 Passa e Fica
 Passa Quatro
 Passa Sete
 Passa Tempo
+Passabem
 Passabém
 Passagem
-Passagem
 Passagem Franca
+Passagem Franca do Piaui
 Passagem Franca do Piauí
 Passa-vinte
 Passira
@@ -3645,27 +4879,34 @@ Pato Bragado
 Pato Branco
 Patos
 Patos de Minas
+Patos do Piaui
 Patos do Piauí
+Patrocinio
 Patrocínio
+Patrocinio do Muriae
 Patrocínio do Muriaé
+Patrocinio Paulista
 Patrocínio Paulista
 Patu
 Paty do Alferes
 Pau Brasil
 Pau D´arco
-Pau D´arco
+Pau D´arco do Piaui
 Pau D´arco do Piauí
 Pau Dos Ferros
 Paudalho
 Pauini
+Paula Candido
 Paula Cândido
 Paula Freitas
+Pauliceia
 Paulicéia
+Paulinia
 Paulínia
 Paulino Neves
 Paulista
-Paulista
 Paulistana
+Paulistania
 Paulistânia
 Paulistas
 Paulo Afonso
@@ -3675,11 +4916,14 @@ Paulo Frontin
 Paulo Jacinto
 Paulo Lopes
 Paulo Ramos
+Pavao
 Pavão
 Paverama
 Pavussu
+pe de Serra
 pé de Serra
 Peabiru
+Pecanha
 Peçanha
 Pederneiras
 Pedra
@@ -3687,18 +4931,19 @@ Pedra Azul
 Pedra Bela
 Pedra Bonita
 Pedra Branca
-Pedra Branca
 Pedra Branca do Amapari
 Pedra do Anta
+Pedra do Indaia
 Pedra do Indaiá
 Pedra Dourada
 Pedra Grande
 Pedra Lavrada
 Pedra Mole
 Pedra Preta
-Pedra Preta
 Pedralva
+Pedranopolis
 Pedranópolis
+Pedrao
 Pedrão
 Pedras Altas
 Pedras de Fogo
@@ -3709,29 +4954,37 @@ Pedreira
 Pedreiras
 Pedrinhas
 Pedrinhas Paulista
+Pedrinopolis
 Pedrinópolis
 Pedro Afonso
 Pedro Alexandre
 Pedro Avelino
+Pedro Canario
 Pedro Canário
 Pedro de Toledo
+Pedro do Rosario
 Pedro do Rosário
 Pedro Gomes
 Pedro ii
 Pedro Laurentino
 Pedro Leopoldo
+Pedro Osorio
 Pedro Osório
+Pedro Regis
 Pedro Régis
 Pedro Teixeira
 Pedro Velho
 Peixe
 Peixe-boi
 Peixoto de Azevedo
+Pejucara
 Pejuçara
 Pelotas
 Penaforte
 Penalva
+Penapolis
 Penápolis
+Pendencias
 Pendências
 Penedo
 Penha
@@ -3739,8 +4992,10 @@ Pentecoste
 Pequeri
 Pequi
 Pequizeiro
+Perdigao
 Perdigão
 Perdizes
+Perdoes
 Perdões
 Pereira Barreto
 Pereiras
@@ -3748,66 +5003,88 @@ Pereiro
 Peri Mirim
 Periquito
 Peritiba
+Peritoro
 Peritoró
 Perobal
+Perola
 Pérola
+Perola D´oeste
 Pérola D´oeste
+Perolandia
 Perolândia
+Peruibe
 Peruíbe
 Pescador
 Pescaria Brava
 Pesqueira
-Petrolândia
+Petrolandia
 Petrolândia
 Petrolina
+Petrolina de Goias
 Petrolina de Goiás
+Petropolis
 Petrópolis
+Piacabucu
 Piaçabuçu
 Piacatu
+Pianco
 Piancó
+Piata
 Piatã
 Piau
+Picada Cafe
 Picada Café
+Picarra
 Piçarra
+Picarras
 Piçarras
 Picos
+Picui
 Picuí
 Piedade
 Piedade de Caratinga
 Piedade de Ponte Nova
 Piedade do Rio Grande
 Piedade Dos Gerais
+Pien
 Piên
+Pilao Arcado
 Pilão Arcado
 Pilar
-Pilar
+Pilar de Goias
 Pilar de Goiás
 Pilar do Sul
+Piloes
 Pilões
-Pilões
+Piloezinhos
 Pilõezinhos
 Pimenta
 Pimenta Bueno
 Pimenteiras
 Pimenteiras do Oeste
+Pindai
 Pindaí
 Pindamonhangaba
+Pindare-mirim
 Pindaré-mirim
 Pindoba
+Pindobacu
 Pindobaçu
 Pindorama
 Pindorama do Tocantins
 Pindoretama
+Pingo-d´agua
 Pingo-d´água
 Pinhais
 Pinhal
 Pinhal da Serra
+Pinhal de Sao Bento
 Pinhal de São Bento
 Pinhal Grande
+Pinhalao
 Pinhalão
 Pinhalzinho
-Pinhalzinho
-Pinhão
+Pinhao
 Pinhão
 Pinheiral
 Pinheirinho do Vale
@@ -3817,6 +5094,7 @@ Pinheiro Preto
 Pinheiros
 Pintadas
 Pinto Bandeira
+Pintopolis
 Pintópolis
 Pio ix
 Pio Xii
@@ -3828,74 +5106,96 @@ Piracanjuba
 Piracema
 Piracicaba
 Piracuruca
+Pirai
 Piraí
+Pirai do Norte
 Piraí do Norte
+Pirai do Sul
 Piraí do Sul
 Piraju
 Pirajuba
+Pirajui
 Pirajuí
 Pirambu
 Piranga
 Pirangi
+Pirangucu
 Piranguçu
 Piranguinho
 Piranhas
-Piranhas
 Pirapemas
 Pirapetinga
+Pirapo
 Pirapó
 Pirapora
 Pirapora do Bom Jesus
 Pirapozinho
 Piraquara
+Piraque
 Piraquê
 Pirassununga
 Piratini
 Piratininga
 Piratuba
+Pirauba
 Piraúba
+Pirenopolis
 Pirenópolis
 Pires do Rio
 Pires Ferreira
+Piripa
 Piripá
 Piripiri
 Piritiba
 Pirpirituba
 Pitanga
 Pitangueiras
-Pitangueiras
 Pitangui
 Pitimbu
 Pium
+Piuma
 Piúma
 Piumhi
 Placas
+Placido de Castro
 Plácido de Castro
 Planaltina
+Planaltina do Parana
 Planaltina do Paraná
 Planaltino
-Planalto
-Planalto
-Planalto
 Planalto
 Planalto Alegre
 Planalto da Serra
 Planura
 Platina
+Poa
 Poá
+Pocao
 Poção
+Pocao de Pedras
 Poção de Pedras
 Pocinhos
+Poco Branco
 Poço Branco
+Poco Dantas
 Poço Dantas
+Poco Das Antas
 Poço Das Antas
+Poco Das Trincheiras
 Poço Das Trincheiras
+Poco de Jose de Moura
 Poço de José de Moura
+Poco Fundo
 Poço Fundo
+Poco Redondo
 Poço Redondo
+Poco Verde
 Poço Verde
+Pocoes
 Poções
+Pocone
 Poconé
+Pocos de Caldas
 Poços de Caldas
 Pocrane
 Pojuca
@@ -3903,17 +5203,23 @@ Poloni
 Pombal
 Pombos
 Pomerode
+Pompeia
 Pompéia
+Pompeu
 Pompéu
+Pongai
 Pongaí
 Ponta de Pedras
 Ponta Grossa
+Ponta Pora
 Ponta Porã
 Pontal
 Pontal do Araguaia
+Pontal do Parana
 Pontal do Paraná
 Pontalina
 Pontalinda
+Pontao
 Pontão
 Ponte Alta
 Ponte Alta do Bom Jesus
@@ -3933,19 +5239,24 @@ Populina
 Poranga
 Porangaba
 Porangatu
+Porciuncula
 Porciúncula
 Porecatu
 Portalegre
+Portao
 Portão
+Porteirao
 Porteirão
 Porteiras
 Porteirinha
 Portel
+Portelandia
 Portelândia
 Porto
 Porto Acre
 Porto Alegre
 Porto Alegre do Norte
+Porto Alegre do Piaui
 Porto Alegre do Piauí
 Porto Alegre do Tocantins
 Porto Amazonas
@@ -3956,7 +5267,9 @@ Porto da Folha
 Porto de Moz
 Porto de Pedras
 Porto do Mangue
+Porto Dos Gauchos
 Porto Dos Gaúchos
+Porto Esperidiao
 Porto Esperidião
 Porto Estrela
 Porto Feliz
@@ -3965,24 +5278,31 @@ Porto Firme
 Porto Franco
 Porto Grande
 Porto Lucena
+Porto Maua
 Porto Mauá
 Porto Murtinho
 Porto Nacional
 Porto Real
+Porto Real do Colegio
 Porto Real do Colégio
 Porto Rico
+Porto Rico do Maranhao
 Porto Rico do Maranhão
 Porto Seguro
+Porto Uniao
 Porto União
 Porto Velho
 Porto Vera Cruz
+Porto Vitoria
 Porto Vitória
 Porto Walter
 Porto Xavier
 Posse
+Pote
 Poté
 Potengi
 Potim
+Potiragua
 Potiraguá
 Potirendaba
 Potiretama
@@ -3990,45 +5310,47 @@ Pouso Alegre
 Pouso Alto
 Pouso Novo
 Pouso Redondo
+Poxoreo
 Poxoréo
 Pracinha
+Pracuuba
 Pracuúba
 Prado
 Prado Ferreira
+Pradopolis
 Pradópolis
 Prados
-Praia Grande
 Praia Grande
 Praia Norte
 Prainha
 Pranchita
 Prata
-Prata
+Prata do Piaui
 Prata do Piauí
+Pratania
 Pratânia
+Pratapolis
 Pratápolis
 Pratinha
 Presidente Alves
 Presidente Bernardes
-Presidente Bernardes
-Presidente Castelo Branco
 Presidente Castelo Branco
 Presidente Dutra
-Presidente Dutra
+Presidente Epitacio
 Presidente Epitácio
 Presidente Figueiredo
+Presidente Getulio
 Presidente Getúlio
+Presidente Janio Quadros
 Presidente Jânio Quadros
 Presidente Juscelino
-Presidente Juscelino
-Presidente Juscelino
-Presidente Kennedy
 Presidente Kennedy
 Presidente Kubitschek
 Presidente Lucena
-Presidente Médici
+Presidente Medici
 Presidente Médici
 Presidente Nereu
+Presidente Olegario
 Presidente Olegário
 Presidente Prudente
 Presidente Sarney
@@ -4036,7 +5358,7 @@ Presidente Tancredo Neves
 Presidente Vargas
 Presidente Venceslau
 Primavera
-Primavera
+Primavera de Rondonia
 Primavera de Rondônia
 Primavera do Leste
 Primeira Cruz
@@ -4045,36 +5367,48 @@ Princesa
 Princesa Isabel
 Professor Jamil
 Progresso
+Promissao
 Promissão
+Propria
 Propriá
+Protasio Alves
 Protásio Alves
 Prudente de Morais
+Prudentopolis
 Prudentópolis
 Pugmil
 Pureza
 Putinga
+Puxinana
 Puxinanã
 Quadra
+Quarai
 Quaraí
 Quartel Geral
+Quarto Centenario
 Quarto Centenário
+Quata
 Quatá
+Quatigua
 Quatiguá
 Quatipuru
 Quatis
 Quatro Barras
+Quatro Irmaos
 Quatro Irmãos
 Quatro Pontes
 Quebrangulo
+Quedas do Iguacu
 Quedas do Iguaçu
 Queimada Nova
-Queimadas
 Queimadas
 Queimados
 Queiroz
 Queluz
 Queluzito
+Querencia
 Querência
+Querencia do Norte
 Querência do Norte
 Quevedos
 Quijingue
@@ -4082,22 +5416,30 @@ Quilombo
 Quinta do Sol
 Quintana
 Quinze de Novembro
+Quipapa
 Quipapá
+Quirinopolis
 Quirinópolis
+Quissama
 Quissamã
 Quitandinha
+Quiterianopolis
 Quiterianópolis
 Quixaba
 Quixabá
 Quixabeira
+Quixada
 Quixadá
+Quixelo
 Quixelô
 Quixeramobim
+Quixere
 Quixeré
 Rafael Fernandes
 Rafael Godeiro
 Rafael Jambeiro
 Rafard
+Ramilandia
 Ramilândia
 Rancharia
 Rancho Alegre
@@ -4107,98 +5449,136 @@ Raposa
 Raposos
 Raul Soares
 Realeza
+Reboucas
 Rebouças
 Recife
 Recreio
+Recursolandia
 Recursolândia
+Redencao
 Redenção
-Redenção
+Redencao da Serra
 Redenção da Serra
+Redencao do Gurgueia
 Redenção do Gurguéia
 Redentora
 Reduto
+Regeneracao
 Regeneração
+Regente Feijo
 Regente Feijó
+Reginopolis
 Reginópolis
 Registro
 Relvado
 Remanso
+Remigio
 Remígio
+Renascenca
 Renascença
 Reriutaba
 Resende
 Resende Costa
 Reserva
+Reserva do Cabacal
 Reserva do Cabaçal
+Reserva do Iguacu
 Reserva do Iguaçu
 Resplendor
 Ressaquinha
 Restinga
 Restinga Seca
+Retirolandia
 Retirolândia
+Riachao
 Riachão
-Riachão
+Riachao Das Neves
 Riachão Das Neves
+Riachao do Bacamarte
 Riachão do Bacamarte
+Riachao do Dantas
 Riachão do Dantas
+Riachao do Jacuipe
 Riachão do Jacuípe
+Riachao do Poco
 Riachão do Poço
-Riachinho
 Riachinho
 Riacho da Cruz
 Riacho Das Almas
 Riacho de Santana
-Riacho de Santana
+Riacho de Santo Antonio
 Riacho de Santo Antônio
 Riacho Dos Cavalos
 Riacho Dos Machados
 Riacho Frio
 Riachuelo
-Riachuelo
 Rialma
+Rianapolis
 Rianápolis
 Ribamar Fiquene
 Ribas do Rio Pardo
 Ribeira
 Ribeira do Amparo
+Ribeira do Piaui
 Ribeira do Piauí
 Ribeira do Pombal
+Ribeirao
 Ribeirão
+Ribeirao Bonito
 Ribeirão Bonito
+Ribeirao Branco
 Ribeirão Branco
+Ribeirao Cascalheira
 Ribeirão Cascalheira
+Ribeirao Claro
 Ribeirão Claro
+Ribeirao Corrente
 Ribeirão Corrente
+Ribeirao Das Neves
 Ribeirão Das Neves
+Ribeirao do Largo
 Ribeirão do Largo
+Ribeirao do Pinhal
 Ribeirão do Pinhal
+Ribeirao do Sul
 Ribeirão do Sul
+Ribeirao Dos indios
 Ribeirão Dos Índios
+Ribeirao Grande
 Ribeirão Grande
+Ribeirao Pires
 Ribeirão Pires
+Ribeirao Preto
 Ribeirão Preto
+Ribeirao Vermelho
 Ribeirão Vermelho
+Ribeiraozinho
 Ribeirãozinho
+Ribeiro Goncalves
 Ribeiro Gonçalves
+Ribeiropolis
 Ribeirópolis
 Rifaina
+Rincao
 Rincão
+Rinopolis
 Rinópolis
 Rio Acima
 Rio Azul
 Rio Bananal
 Rio Bom
 Rio Bonito
+Rio Bonito do Iguacu
 Rio Bonito do Iguaçu
 Rio Branco
-Rio Branco
+Rio Branco do Ivai
 Rio Branco do Ivaí
 Rio Branco do Sul
 Rio Brilhante
 Rio Casca
 Rio Claro
-Rio Claro
 Rio Crespo
+Rio da Conceicao
 Rio da Conceição
 Rio Das Antas
 Rio Das Flores
@@ -4206,6 +5586,7 @@ Rio Das Ostras
 Rio Das Pedras
 Rio de Contas
 Rio de Janeiro
+Rio do Antonio
 Rio do Antônio
 Rio do Campo
 Rio do Fogo
@@ -4216,21 +5597,23 @@ Rio do Sul
 Rio Doce
 Rio Dos Bois
 Rio Dos Cedros
+Rio Dos indios
 Rio Dos Índios
 Rio Espera
 Rio Formoso
 Rio Fortuna
 Rio Grande
 Rio Grande da Serra
+Rio Grande do Piaui
 Rio Grande do Piauí
 Rio Largo
 Rio Manso
 Rio Maria
 Rio Negrinho
 Rio Negro
-Rio Negro
 Rio Novo
 Rio Novo do Sul
+Rio Paranaiba
 Rio Paranaíba
 Rio Pardo
 Rio Pardo de Minas
@@ -4246,9 +5629,11 @@ Rio Tinto
 Rio Verde
 Rio Verde de Mato Grosso
 Rio Vermelho
+Riolandia
 Riolândia
 Riozinho
 Riqueza
+Ritapolis
 Ritápolis
 Riversul
 Roca Sales
@@ -4261,117 +5646,163 @@ Rodelas
 Rodolfo Fernandes
 Rodrigues Alves
 Rolador
+Rolandia
 Rolândia
 Rolante
 Rolim de Moura
 Romaria
+Romelandia
 Romelândia
 Roncador
 Ronda Alta
 Rondinha
+Rondolandia
 Rondolândia
 Rondon
+Rondon do Para
 Rondon do Pará
+Rondonopolis
 Rondonópolis
 Roque Gonzales
+Rorainopolis
 Rorainópolis
 Rosana
+Rosario
 Rosário
+Rosario da Limeira
 Rosário da Limeira
+Rosario do Catete
 Rosário do Catete
+Rosario do Ivai
 Rosário do Ivaí
+Rosario do Sul
 Rosário do Sul
+Rosario Oeste
 Rosário Oeste
 Roseira
 Roteiro
 Rubelita
+Rubiacea
 Rubiácea
 Rubiataba
 Rubim
+Rubineia
 Rubinéia
+Ruropolis
 Rurópolis
 Russas
 Ruy Barbosa
-Ruy Barbosa
+Sabara
 Sabará
+Sabaudia
 Sabáudia
 Sabino
+Sabinopolis
 Sabinópolis
 Saboeiro
 Sacramento
+Sagrada Familia
 Sagrada Família
 Sagres
+Saire
 Sairé
 Saldanha Marinho
 Sales
 Sales Oliveira
+Salesopolis
 Salesópolis
 Salete
 Salgadinho
-Salgadinho
 Salgado
+Salgado de Sao Felix
 Salgado de São Félix
 Salgado Filho
 Salgueiro
 Salinas
 Salinas da Margarida
+Salinopolis
 Salinópolis
 Salitre
+Salmourao
 Salmourão
+Saloa
 Saloá
-Saltinho
 Saltinho
 Salto
 Salto da Divisa
 Salto de Pirapora
+Salto do Ceu
 Salto do Céu
+Salto do Itarare
 Salto do Itararé
+Salto do Jacui
 Salto do Jacuí
 Salto do Lontra
 Salto Grande
 Salto Veloso
 Salvador
+Salvador Das Missoes
 Salvador Das Missões
 Salvador do Sul
 Salvaterra
+Sambaiba
 Sambaíba
 Sampaio
 Sananduva
+Sanclerlandia
 Sanclerlândia
+Sandolandia
 Sandolândia
 Sandovalina
+Sangao
 Sangão
+Sanharo
 Sanharó
+Santa Adelia
 Santa Adélia
 Santa Albertina
+Santa Amelia
 Santa Amélia
+Santa Barbara
 Santa Bárbara
-Santa Bárbara
+Santa Barbara D´oeste
 Santa Bárbara D´oeste
+Santa Barbara de Goias
 Santa Bárbara de Goiás
+Santa Barbara do Leste
 Santa Bárbara do Leste
+Santa Barbara do Monte Verde
 Santa Bárbara do Monte Verde
+Santa Barbara do Para
 Santa Bárbara do Pará
+Santa Barbara do Sul
 Santa Bárbara do Sul
+Santa Barbara do Tugurio
 Santa Bárbara do Tugúrio
 Santa Branca
+Santa Brigida
 Santa Brígida
 Santa Carmem
+Santa Cecilia
 Santa Cecília
-Santa Cecília
+Santa Cecilia do Pavao
 Santa Cecília do Pavão
+Santa Cecilia do Sul
 Santa Cecília do Sul
 Santa Clara D´oeste
 Santa Clara do Sul
 Santa Cruz
-Santa Cruz
-Santa Cruz
+Santa Cruz Cabralia
 Santa Cruz Cabrália
 Santa Cruz da Baixa Verde
+Santa Cruz da Conceicao
 Santa Cruz da Conceição
+Santa Cruz da Esperanca
 Santa Cruz da Esperança
+Santa Cruz da Vitoria
 Santa Cruz da Vitória
 Santa Cruz Das Palmeiras
+Santa Cruz de Goias
 Santa Cruz de Goiás
 Santa Cruz de Minas
 Santa Cruz de Monte Castelo
@@ -4379,79 +5810,89 @@ Santa Cruz de Salinas
 Santa Cruz do Arari
 Santa Cruz do Capibaribe
 Santa Cruz do Escalvado
+Santa Cruz do Piaui
 Santa Cruz do Piauí
 Santa Cruz do Rio Pardo
 Santa Cruz do Sul
 Santa Cruz do Xingu
 Santa Cruz Dos Milagres
+Santa Efigenia de Minas
 Santa Efigênia de Minas
 Santa Ernestina
+Santa fe
 Santa fé
+Santa fe de Goias
 Santa fé de Goiás
+Santa fe de Minas
 Santa fé de Minas
+Santa fe do Araguaia
 Santa fé do Araguaia
+Santa fe do Sul
 Santa fé do Sul
 Santa Filomena
-Santa Filomena
+Santa Filomena do Maranhao
 Santa Filomena do Maranhão
 Santa Gertrudes
 Santa Helena
-Santa Helena
-Santa Helena
-Santa Helena
+Santa Helena de Goias
 Santa Helena de Goiás
 Santa Helena de Minas
-Santa Inês
-Santa Inês
-Santa Inês
+Santa Ines
 Santa Inês
 Santa Isabel
-Santa Isabel
+Santa Isabel do Ivai
 Santa Isabel do Ivaí
+Santa Isabel do Para
 Santa Isabel do Pará
 Santa Isabel do Rio Negro
 Santa Izabel do Oeste
 Santa Juliana
 Santa Leopoldina
-Santa Lúcia
+Santa Lucia
 Santa Lúcia
 Santa Luz
-Santa Luzia
-Santa Luzia
-Santa Luzia
 Santa Luzia
 Santa Luzia D´oeste
 Santa Luzia do Itanhy
 Santa Luzia do Norte
+Santa Luzia do Para
 Santa Luzia do Pará
+Santa Luzia do Parua
 Santa Luzia do Paruá
 Santa Margarida
 Santa Margarida do Sul
 Santa Maria
-Santa Maria
 Santa Maria da Boa Vista
 Santa Maria da Serra
+Santa Maria da Vitoria
 Santa Maria da Vitória
 Santa Maria Das Barreiras
 Santa Maria de Itabira
+Santa Maria de Jetiba
 Santa Maria de Jetibá
+Santa Maria do Cambuca
 Santa Maria do Cambucá
 Santa Maria do Herval
 Santa Maria do Oeste
+Santa Maria do Para
 Santa Maria do Pará
 Santa Maria do Salto
+Santa Maria do Suacui
 Santa Maria do Suaçuí
 Santa Maria do Tocantins
 Santa Maria Madalena
 Santa Mariana
 Santa Mercedes
+Santa Monica
 Santa Mônica
+Santa Quiteria
 Santa Quitéria
+Santa Quiteria do Maranhao
 Santa Quitéria do Maranhão
-Santa Rita
 Santa Rita
 Santa Rita D´oeste
 Santa Rita de Caldas
+Santa Rita de Cassia
 Santa Rita de Cássia
 Santa Rita de Ibitipoca
 Santa Rita de Jacutinga
@@ -4461,15 +5902,17 @@ Santa Rita do Itueto
 Santa Rita do Novo Destino
 Santa Rita do Pardo
 Santa Rita do Passa Quatro
+Santa Rita do Sapucai
 Santa Rita do Sapucaí
 Santa Rita do Tocantins
 Santa Rita do Trivelato
 Santa Rosa
 Santa Rosa da Serra
+Santa Rosa de Goias
 Santa Rosa de Goiás
 Santa Rosa de Lima
-Santa Rosa de Lima
 Santa Rosa de Viterbo
+Santa Rosa do Piaui
 Santa Rosa do Piauí
 Santa Rosa do Purus
 Santa Rosa do Sul
@@ -4477,53 +5920,67 @@ Santa Rosa do Tocantins
 Santa Salete
 Santa Teresa
 Santa Teresinha
-Santa Teresinha
 Santa Tereza
+Santa Tereza de Goias
 Santa Tereza de Goiás
 Santa Tereza do Oeste
 Santa Tereza do Tocantins
 Santa Terezinha
-Santa Terezinha
-Santa Terezinha
+Santa Terezinha de Goias
 Santa Terezinha de Goiás
 Santa Terezinha de Itaipu
 Santa Terezinha do Progresso
 Santa Terezinha do Tocantins
+Santa Vitoria
 Santa Vitória
+Santa Vitoria do Palmar
 Santa Vitória do Palmar
 Santaluz
-Santana
 Santana
 Santana da Boa Vista
 Santana da Ponte Pensa
 Santana da Vargem
 Santana de Cataguases
 Santana de Mangueira
+Santana de Parnaiba
 Santana de Parnaíba
 Santana de Pirapama
+Santana do Acarau
 Santana do Acaraú
 Santana do Araguaia
 Santana do Cariri
 Santana do Deserto
+Santana do Garambeu
 Santana do Garambéu
 Santana do Ipanema
+Santana do Itarare
 Santana do Itararé
+Santana do Jacare
 Santana do Jacaré
 Santana do Livramento
+Santana do Manhuacu
 Santana do Manhuaçu
+Santana do Maranhao
 Santana do Maranhão
 Santana do Matos
+Santana do Mundau
 Santana do Mundaú
+Santana do Paraiso
 Santana do Paraíso
+Santana do Piaui
 Santana do Piauí
 Santana do Riacho
+Santana do Sao Francisco
 Santana do São Francisco
+Santana do Serido
 Santana do Seridó
 Santana Dos Garrotes
 Santana Dos Montes
+Santanopolis
 Santanópolis
+Santarem
 Santarém
-Santarém
+Santarem Novo
 Santarém Novo
 Santiago
 Santiago do Sul
@@ -4531,433 +5988,786 @@ Santo Afonso
 Santo Amaro
 Santo Amaro da Imperatriz
 Santo Amaro Das Brotas
+Santo Amaro do Maranhao
 Santo Amaro do Maranhão
+Santo Anastacio
 Santo Anastácio
+Santo Andre
 Santo André
-Santo André
+Santo angelo
 Santo Ângelo
+Santo Antonio
 Santo Antônio
+Santo Antonio da Alegria
 Santo Antônio da Alegria
+Santo Antonio da Barra
 Santo Antônio da Barra
+Santo Antonio da Patrulha
 Santo Antônio da Patrulha
+Santo Antonio da Platina
 Santo Antônio da Platina
+Santo Antonio Das Missoes
 Santo Antônio Das Missões
+Santo Antonio de Goias
 Santo Antônio de Goiás
+Santo Antonio de Jesus
 Santo Antônio de Jesus
+Santo Antonio de Lisboa
 Santo Antônio de Lisboa
+Santo Antonio de Padua
 Santo Antônio de Pádua
+Santo Antonio de Posse
 Santo Antônio de Posse
+Santo Antonio do Amparo
 Santo Antônio do Amparo
+Santo Antonio do Aracangua
 Santo Antônio do Aracanguá
+Santo Antonio do Aventureiro
 Santo Antônio do Aventureiro
+Santo Antonio do Caiua
 Santo Antônio do Caiuá
+Santo Antonio do Descoberto
 Santo Antônio do Descoberto
+Santo Antonio do Grama
 Santo Antônio do Grama
+Santo Antonio do Ica
 Santo Antônio do Içá
+Santo Antonio do Itambe
 Santo Antônio do Itambé
+Santo Antonio do Jacinto
 Santo Antônio do Jacinto
+Santo Antonio do Jardim
 Santo Antônio do Jardim
+Santo Antonio do Leste
 Santo Antônio do Leste
+Santo Antonio do Leverger
 Santo Antônio do Leverger
+Santo Antonio do Monte
 Santo Antônio do Monte
+Santo Antonio do Palma
 Santo Antônio do Palma
+Santo Antonio do Paraiso
 Santo Antônio do Paraíso
+Santo Antonio do Pinhal
 Santo Antônio do Pinhal
+Santo Antonio do Planalto
 Santo Antônio do Planalto
+Santo Antonio do Retiro
 Santo Antônio do Retiro
+Santo Antonio do Rio Abaixo
 Santo Antônio do Rio Abaixo
+Santo Antonio do Sudoeste
 Santo Antônio do Sudoeste
+Santo Antonio do Taua
 Santo Antônio do Tauá
+Santo Antonio Dos Lopes
 Santo Antônio Dos Lopes
+Santo Antonio Dos Milagres
 Santo Antônio Dos Milagres
 Santo Augusto
 Santo Cristo
+Santo Estevao
 Santo Estêvão
 Santo Expedito
 Santo Expedito do Sul
+Santo Hipolito
 Santo Hipólito
+Santo Inacio
 Santo Inácio
+Santo Inacio do Piaui
 Santo Inácio do Piauí
+Santopolis do Aguapei
 Santópolis do Aguapeí
 Santos
 Santos Dumont
+Sao Benedito
 São Benedito
+Sao Benedito do Rio Preto
 São Benedito do Rio Preto
+Sao Benedito do Sul
 São Benedito do Sul
+Sao Bentinho
 São Bentinho
+Sao Bento
 São Bento
-São Bento
+Sao Bento Abade
 São Bento Abade
+Sao Bento do Norte
 São Bento do Norte
+Sao Bento do Sapucai
 São Bento do Sapucaí
+Sao Bento do Sul
 São Bento do Sul
+Sao Bento do Tocantins
 São Bento do Tocantins
+Sao Bento do Trairi
 São Bento do Trairí
+Sao Bento do Una
 São Bento do Una
+Sao Bernardino
 São Bernardino
+Sao Bernardo
 São Bernardo
+Sao Bernardo do Campo
 São Bernardo do Campo
+Sao Bonifacio
 São Bonifácio
+Sao Borja
 São Borja
+Sao Bras
 São Brás
+Sao Bras do Suacui
 São Brás do Suaçuí
+Sao Braz do Piaui
 São Braz do Piauí
+Sao Caetano de Odivelas
 São Caetano de Odivelas
+Sao Caetano do Sul
 São Caetano do Sul
+Sao Caitano
 São Caitano
+Sao Carlos
 São Carlos
-São Carlos
+Sao Carlos do Ivai
 São Carlos do Ivaí
+Sao Cristovao
 São Cristóvão
+Sao Cristovao do Sul
 São Cristovão do Sul
+Sao Desiderio
 São Desidério
+Sao Domingos
 São Domingos
-São Domingos
-São Domingos
-São Domingos
+Sao Domingos Das Dores
 São Domingos Das Dores
+Sao Domingos de Pombal
 São Domingos de Pombal
+Sao Domingos do Araguaia
 São Domingos do Araguaia
+Sao Domingos do Azeitao
 São Domingos do Azeitão
+Sao Domingos do Capim
 São Domingos do Capim
+Sao Domingos do Cariri
 São Domingos do Cariri
+Sao Domingos do Maranhao
 São Domingos do Maranhão
+Sao Domingos do Norte
 São Domingos do Norte
+Sao Domingos do Prata
 São Domingos do Prata
+Sao Domingos do Sul
 São Domingos do Sul
+Sao Felipe
 São Felipe
+Sao Felipe D´oeste
 São Felipe D´oeste
+Sao Felix
 São Félix
+Sao Felix de Balsas
 São Félix de Balsas
+Sao Felix de Minas
 São Félix de Minas
+Sao Felix do Araguaia
 São Félix do Araguaia
+Sao Felix do Coribe
 São Félix do Coribe
+Sao Felix do Piaui
 São Félix do Piauí
+Sao Felix do Tocantins
 São Félix do Tocantins
+Sao Felix do Xingu
 São Félix do Xingu
+Sao Fernando
 São Fernando
+Sao Fidelis
 São Fidélis
+Sao Francisco
 São Francisco
-São Francisco
-São Francisco
-São Francisco
+Sao Francisco de Assis
 São Francisco de Assis
+Sao Francisco de Assis do Piaui
 São Francisco de Assis do Piauí
+Sao Francisco de Goias
 São Francisco de Goiás
+Sao Francisco de Itabapoana
 São Francisco de Itabapoana
+Sao Francisco de Paula
 São Francisco de Paula
-São Francisco de Paula
+Sao Francisco de Sales
 São Francisco de Sales
+Sao Francisco do Brejao
 São Francisco do Brejão
+Sao Francisco do Conde
 São Francisco do Conde
+Sao Francisco do Gloria
 São Francisco do Glória
+Sao Francisco do Guapore
 São Francisco do Guaporé
+Sao Francisco do Maranhao
 São Francisco do Maranhão
+Sao Francisco do Oeste
 São Francisco do Oeste
+Sao Francisco do Para
 São Francisco do Pará
+Sao Francisco do Piaui
 São Francisco do Piauí
+Sao Francisco do Sul
 São Francisco do Sul
+Sao Gabriel
 São Gabriel
-São Gabriel
+Sao Gabriel da Cachoeira
 São Gabriel da Cachoeira
+Sao Gabriel da Palha
 São Gabriel da Palha
+Sao Gabriel do Oeste
 São Gabriel do Oeste
+Sao Geraldo
 São Geraldo
+Sao Geraldo da Piedade
 São Geraldo da Piedade
+Sao Geraldo do Araguaia
 São Geraldo do Araguaia
+Sao Geraldo do Baixio
 São Geraldo do Baixio
+Sao Goncalo
 São Gonçalo
+Sao Goncalo do Abaete
 São Gonçalo do Abaeté
+Sao Goncalo do Amarante
 São Gonçalo do Amarante
-São Gonçalo do Amarante
+Sao Goncalo do Gurgueia
 São Gonçalo do Gurguéia
+Sao Goncalo do Para
 São Gonçalo do Pará
+Sao Goncalo do Piaui
 São Gonçalo do Piauí
+Sao Goncalo do Rio Abaixo
 São Gonçalo do Rio Abaixo
+Sao Goncalo do Rio Preto
 São Gonçalo do Rio Preto
+Sao Goncalo do Sapucai
 São Gonçalo do Sapucaí
+Sao Goncalo Dos Campos
 São Gonçalo Dos Campos
+Sao Gotardo
 São Gotardo
+Sao Jeronimo
 São Jerônimo
+Sao Jeronimo da Serra
 São Jerônimo da Serra
+Sao Joao
 São João
-São João
+Sao Joao Batista
 São João Batista
-São João Batista
+Sao Joao Batista do Gloria
 São João Batista do Glória
+Sao Joao D´alianca
 São João D´aliança
+Sao Joao da Baliza
 São João da Baliza
+Sao Joao da Barra
 São João da Barra
+Sao Joao da Boa Vista
 São João da Boa Vista
+Sao Joao da Canabrava
 São João da Canabrava
+Sao Joao da Fronteira
 São João da Fronteira
+Sao Joao da Lagoa
 São João da Lagoa
+Sao Joao da Mata
 São João da Mata
+Sao Joao da Parauna
 São João da Paraúna
+Sao Joao da Ponta
 São João da Ponta
+Sao Joao da Ponte
 São João da Ponte
+Sao Joao da Serra
 São João da Serra
+Sao Joao da Urtiga
 São João da Urtiga
+Sao Joao da Varjota
 São João da Varjota
+Sao Joao Das Duas Pontes
 São João Das Duas Pontes
+Sao Joao Das Missoes
 São João Das Missões
+Sao Joao de Iracema
 São João de Iracema
+Sao Joao de Meriti
 São João de Meriti
+Sao Joao de Pirabas
 São João de Pirabas
+Sao Joao Del Rei
 São João Del Rei
+Sao Joao do Araguaia
 São João do Araguaia
+Sao Joao do Arraial
 São João do Arraial
+Sao Joao do Caiua
 São João do Caiuá
+Sao Joao do Cariri
 São João do Cariri
+Sao Joao do Caru
 São João do Carú
+Sao Joao do Itaperiu
 São João do Itaperiú
+Sao Joao do Ivai
 São João do Ivaí
+Sao Joao do Jaguaribe
 São João do Jaguaribe
+Sao Joao do Manhuacu
 São João do Manhuaçu
+Sao Joao do Manteninha
 São João do Manteninha
+Sao Joao do Oeste
 São João do Oeste
+Sao Joao do Oriente
 São João do Oriente
+Sao Joao do Pacui
 São João do Pacuí
+Sao Joao do Paraiso
 São João do Paraíso
-São João do Paraíso
+Sao Joao do Pau D´alho
 São João do Pau D´alho
+Sao Joao do Piaui
 São João do Piauí
+Sao Joao do Polesine
 São João do Polêsine
+Sao Joao do Rio do Peixe
 São João do Rio do Peixe
+Sao Joao do Sabugi
 São João do Sabugi
+Sao Joao do Soter
 São João do Soter
+Sao Joao do Sul
 São João do Sul
+Sao Joao do Tigre
 São João do Tigre
+Sao Joao do Triunfo
 São João do Triunfo
+Sao Joao Dos Patos
 São João Dos Patos
+Sao Joao Evangelista
 São João Evangelista
+Sao Joao Nepomuceno
 São João Nepomuceno
+Sao Joaquim
 São Joaquim
+Sao Joaquim da Barra
 São Joaquim da Barra
+Sao Joaquim de Bicas
 São Joaquim de Bicas
+Sao Joaquim do Monte
 São Joaquim do Monte
+Sao Jorge
 São Jorge
+Sao Jorge D´oeste
 São Jorge D´oeste
+Sao Jorge do Ivai
 São Jorge do Ivaí
+Sao Jorge do Patrocinio
 São Jorge do Patrocínio
+Sao Jose
 São José
+Sao Jose da Barra
 São José da Barra
+Sao Jose da Bela Vista
 São José da Bela Vista
+Sao Jose da Boa Vista
 São José da Boa Vista
+Sao Jose da Coroa Grande
 São José da Coroa Grande
+Sao Jose da Lagoa Tapada
 São José da Lagoa Tapada
+Sao Jose da Laje
 São José da Laje
+Sao Jose da Lapa
 São José da Lapa
+Sao Jose da Safira
 São José da Safira
+Sao Jose da Tapera
 São José da Tapera
+Sao Jose da Varginha
 São José da Varginha
+Sao Jose da Vitoria
 São José da Vitória
+Sao Jose Das Missoes
 São José Das Missões
+Sao Jose Das Palmeiras
 São José Das Palmeiras
+Sao Jose de Caiana
 São José de Caiana
+Sao Jose de Espinharas
 São José de Espinharas
+Sao Jose de Mipibu
 São José de Mipibu
+Sao Jose de Piranhas
 São José de Piranhas
+Sao Jose de Princesa
 São José de Princesa
+Sao Jose de Ribamar
 São José de Ribamar
+Sao Jose de Uba
 São José de Ubá
+Sao Jose do Alegre
 São José do Alegre
+Sao Jose do Barreiro
 São José do Barreiro
+Sao Jose do Belmonte
 São José do Belmonte
+Sao Jose do Bonfim
 São José do Bonfim
+Sao Jose do Brejo do Cruz
 São José do Brejo do Cruz
+Sao Jose do Calcado
 São José do Calçado
+Sao Jose do Campestre
 São José do Campestre
+Sao Jose do Cedro
 São José do Cedro
+Sao Jose do Cerrito
 São José do Cerrito
+Sao Jose do Divino
 São José do Divino
-São José do Divino
+Sao Jose do Egito
 São José do Egito
+Sao Jose do Goiabal
 São José do Goiabal
+Sao Jose do Herval
 São José do Herval
+Sao Jose do Hortencio
 São José do Hortêncio
+Sao Jose do Inhacora
 São José do Inhacorá
+Sao Jose do Jacuipe
 São José do Jacuípe
+Sao Jose do Jacuri
 São José do Jacuri
+Sao Jose do Mantimento
 São José do Mantimento
+Sao Jose do Norte
 São José do Norte
+Sao Jose do Ouro
 São José do Ouro
+Sao Jose do Peixe
 São José do Peixe
+Sao Jose do Piaui
 São José do Piauí
+Sao Jose do Povo
 São José do Povo
+Sao Jose do Rio Claro
 São José do Rio Claro
+Sao Jose do Rio Pardo
 São José do Rio Pardo
+Sao Jose do Rio Preto
 São José do Rio Preto
+Sao Jose do Sabugi
 São José do Sabugi
+Sao Jose do Serido
 São José do Seridó
+Sao Jose do Sul
 São José do Sul
+Sao Jose do Vale do Rio Preto
 São José do Vale do Rio Preto
+Sao Jose do Xingu
 São José do Xingu
+Sao Jose Dos Ausentes
 São José Dos Ausentes
+Sao Jose Dos Basilios
 São José Dos Basílios
+Sao Jose Dos Campos
 São José Dos Campos
+Sao Jose Dos Cordeiros
 São José Dos Cordeiros
+Sao Jose Dos Pinhais
 São José Dos Pinhais
+Sao Jose Dos Quatro Marcos
 São José Dos Quatro Marcos
+Sao Jose Dos Ramos
 São José Dos Ramos
+Sao Juliao
 São Julião
+Sao Leopoldo
 São Leopoldo
+Sao Lourenco
 São Lourenço
+Sao Lourenco da Mata
 São Lourenço da Mata
+Sao Lourenco da Serra
 São Lourenço da Serra
+Sao Lourenco do Oeste
 São Lourenço do Oeste
+Sao Lourenco do Piaui
 São Lourenço do Piauí
+Sao Lourenco do Sul
 São Lourenço do Sul
+Sao Ludgero
 São Ludgero
+Sao Luis
 São Luís
+Sao Luis de Montes Belos
 São Luís de Montes Belos
+Sao Luis do Curu
 São Luís do Curu
+Sao Luis do Paraitinga
 São Luís do Paraitinga
+Sao Luis do Piaui
 São Luis do Piauí
+Sao Luis do Quitunde
 São Luís do Quitunde
+Sao Luis Gonzaga do Maranhao
 São Luís Gonzaga do Maranhão
+Sao Luiz
 São Luiz
+Sao Luiz do Norte
 São Luíz do Norte
+Sao Luiz Gonzaga
 São Luiz Gonzaga
+Sao Mamede
 São Mamede
+Sao Manoel do Parana
 São Manoel do Paraná
+Sao Manuel
 São Manuel
+Sao Marcos
 São Marcos
+Sao Martinho
 São Martinho
-São Martinho
+Sao Martinho da Serra
 São Martinho da Serra
+Sao Mateus
 São Mateus
+Sao Mateus do Maranhao
 São Mateus do Maranhão
+Sao Mateus do Sul
 São Mateus do Sul
+Sao Miguel
 São Miguel
+Sao Miguel Arcanjo
 São Miguel Arcanjo
+Sao Miguel da Baixa Grande
 São Miguel da Baixa Grande
+Sao Miguel da Boa Vista
 São Miguel da Boa Vista
+Sao Miguel Das Matas
 São Miguel Das Matas
+Sao Miguel Das Missoes
 São Miguel Das Missões
+Sao Miguel de Taipu
 São Miguel de Taipu
+Sao Miguel do Aleixo
 São Miguel do Aleixo
+Sao Miguel do Anta
 São Miguel do Anta
+Sao Miguel do Araguaia
 São Miguel do Araguaia
+Sao Miguel do Fidalgo
 São Miguel do Fidalgo
+Sao Miguel do Gostoso
 São Miguel do Gostoso
+Sao Miguel do Guama
 São Miguel do Guamá
+Sao Miguel do Guapore
 São Miguel do Guaporé
+Sao Miguel do Iguacu
 São Miguel do Iguaçu
+Sao Miguel do Oeste
 São Miguel do Oeste
+Sao Miguel do Passa Quatro
 São Miguel do Passa Quatro
+Sao Miguel do Tapuio
 São Miguel do Tapuio
+Sao Miguel do Tocantins
 São Miguel do Tocantins
+Sao Miguel Dos Campos
 São Miguel Dos Campos
+Sao Miguel Dos Milagres
 São Miguel Dos Milagres
+Sao Nicolau
 São Nicolau
+Sao Patricio
 São Patrício
+Sao Paulo
 São Paulo
+Sao Paulo Das Missoes
 São Paulo Das Missões
+Sao Paulo de Olivenca
 São Paulo de Olivença
+Sao Paulo do Potengi
 São Paulo do Potengi
+Sao Pedro
 São Pedro
-São Pedro
+Sao Pedro da agua Branca
 São Pedro da Água Branca
+Sao Pedro da Aldeia
 São Pedro da Aldeia
+Sao Pedro da Cipa
 São Pedro da Cipa
+Sao Pedro da Serra
 São Pedro da Serra
+Sao Pedro da Uniao
 São Pedro da União
+Sao Pedro Das Missoes
 São Pedro Das Missões
+Sao Pedro de Alcantara
 São Pedro de Alcântara
+Sao Pedro do Butia
 São Pedro do Butiá
+Sao Pedro do Iguacu
 São Pedro do Iguaçu
+Sao Pedro do Ivai
 São Pedro do Ivaí
+Sao Pedro do Parana
 São Pedro do Paraná
+Sao Pedro do Piaui
 São Pedro do Piauí
+Sao Pedro do Suacui
 São Pedro do Suaçuí
+Sao Pedro do Sul
 São Pedro do Sul
+Sao Pedro do Turvo
 São Pedro do Turvo
+Sao Pedro Dos Crentes
 São Pedro Dos Crentes
+Sao Pedro Dos Ferros
 São Pedro Dos Ferros
+Sao Rafael
 São Rafael
+Sao Raimundo Das Mangabeiras
 São Raimundo Das Mangabeiras
+Sao Raimundo do Doca Bezerra
 São Raimundo do Doca Bezerra
+Sao Raimundo Nonato
 São Raimundo Nonato
+Sao Roberto
 São Roberto
+Sao Romao
 São Romão
+Sao Roque
 São Roque
+Sao Roque de Minas
 São Roque de Minas
+Sao Roque do Canaa
 São Roque do Canaã
+Sao Salvador do Tocantins
 São Salvador do Tocantins
+Sao Sebastiao
 São Sebastião
-São Sebastião
+Sao Sebastiao da Amoreira
 São Sebastião da Amoreira
+Sao Sebastiao da Bela Vista
 São Sebastião da Bela Vista
+Sao Sebastiao da Boa Vista
 São Sebastião da Boa Vista
+Sao Sebastiao da Grama
 São Sebastião da Grama
+Sao Sebastiao da Vargem Alegre
 São Sebastião da Vargem Alegre
+Sao Sebastiao de Lagoa de Roca
 São Sebastião de Lagoa de Roça
+Sao Sebastiao do Alto
 São Sebastião do Alto
+Sao Sebastiao do Anta
 São Sebastião do Anta
+Sao Sebastiao do Cai
 São Sebastião do Caí
+Sao Sebastiao do Maranhao
 São Sebastião do Maranhão
+Sao Sebastiao do Oeste
 São Sebastião do Oeste
+Sao Sebastiao do Paraiso
 São Sebastião do Paraíso
+Sao Sebastiao do Passe
 São Sebastião do Passé
+Sao Sebastiao do Rio Preto
 São Sebastião do Rio Preto
+Sao Sebastiao do Rio Verde
 São Sebastião do Rio Verde
+Sao Sebastiao do Tocantins
 São Sebastião do Tocantins
+Sao Sebastiao do Uatuma
 São Sebastião do Uatumã
+Sao Sebastiao do Umbuzeiro
 São Sebastião do Umbuzeiro
+Sao Sepe
 São Sepé
+Sao Simao
 São Simão
-São Simão
+Sao Thome Das Letras
 São Thomé Das Letras
+Sao Tiago
 São Tiago
+Sao Tomas de Aquino
 São Tomás de Aquino
+Sao Tome
 São Tomé
-São Tomé
+Sao Valentim
 São Valentim
+Sao Valentim do Sul
 São Valentim do Sul
+Sao Valerio da Natividade
 São Valério da Natividade
+Sao Valerio do Sul
 São Valério do Sul
+Sao Vendelino
 São Vendelino
+Sao Vicente
 São Vicente
-São Vicente
+Sao Vicente de Minas
 São Vicente de Minas
+Sao Vicente do Sul
 São Vicente do Sul
+Sao Vicente Ferrer
 São Vicente Ferrer
-São Vicente Ferrer
+Sape
 Sapé
+Sapeacu
 Sapeaçu
 Sapezal
 Sapiranga
 Sapopema
 Sapucaia
-Sapucaia
 Sapucaia do Sul
+Sapucai-mirim
 Sapucaí-mirim
 Saquarema
 Sarandi
-Sarandi
+Sarapui
 Sarapuí
+Sardoa
 Sardoá
+Sarutaia
 Sarutaiá
 Sarzedo
+Satiro Dias
 Sátiro Dias
 Satuba
 Satubinha
 Saubara
+Saudade do Iguacu
 Saudade do Iguaçu
 Saudades
+Saude
 Saúde
 Schroeder
 Seabra
 Seara
+Sebastianopolis do Sul
 Sebastianópolis do Sul
+Sebastiao Barros
 Sebastião Barros
+Sebastiao Laranjeiras
 Sebastião Laranjeiras
+Sebastiao Leal
 Sebastião Leal
 Seberi
 Sede Nova
 Segredo
 Selbach
+Selviria
 Selvíria
 Sem-peixe
 Sena Madureira
@@ -4965,31 +6775,43 @@ Senador Alexandre Costa
 Senador Amaral
 Senador Canedo
 Senador Cortes
+Senador Eloi de Souza
 Senador Elói de Souza
 Senador Firmino
 Senador Georgino Avelino
 Senador Guiomard
+Senador Jose Bento
 Senador José Bento
+Senador Jose Porfirio
 Senador José Porfírio
 Senador la Rocque
+Senador Modestino Goncalves
 Senador Modestino Gonçalves
 Senador Pompeu
 Senador Rui Palmeira
+Senador sa
 Senador sá
 Senador Salgado Filho
+Senges
 Sengés
 Senhor do Bonfim
 Senhora de Oliveira
 Senhora do Porto
+Senhora Dos Remedios
 Senhora Dos Remédios
 Sentinela do Sul
+Sento se
 Sento sé
+Serafina Correa
 Serafina Corrêa
 Sericita
+Serido
 Seridó
 Seringueiras
+Serio
 Sério
 Seritinga
+Seropedica
 Seropédica
 Serra
 Serra Alta
@@ -4998,11 +6820,13 @@ Serra Azul de Minas
 Serra Branca
 Serra da Raiz
 Serra da Saudade
+Serra de Sao Bento
 Serra de São Bento
 Serra do Mel
 Serra do Navio
 Serra do Ramalho
 Serra do Salitre
+Serra Dos Aimores
 Serra Dos Aimorés
 Serra Dourada
 Serra Grande
@@ -5014,24 +6838,32 @@ Serra Redonda
 Serra Talhada
 Serrana
 Serrania
+Serrano do Maranhao
 Serrano do Maranhão
+Serranopolis
 Serranópolis
+Serranopolis de Minas
 Serranópolis de Minas
+Serranopolis do Iguacu
 Serranópolis do Iguaçu
 Serranos
 Serraria
 Serrinha
-Serrinha
 Serrinha Dos Pintos
 Serrita
 Serro
+Serrolandia
 Serrolândia
 Sertaneja
+Sertania
 Sertânia
+Sertanopolis
 Sertanópolis
+Sertao
 Sertão
+Sertao Santana
 Sertão Santana
-Sertãozinho
+Sertaozinho
 Sertãozinho
 Sete Barras
 Sete de Setembro
@@ -5040,224 +6872,298 @@ Sete Quedas
 Setubinha
 Severiano de Almeida
 Severiano Melo
+Severinia
 Severínia
+Sideropolis
 Siderópolis
+Sidrolandia
 Sidrolândia
 Sigefredo Pacheco
 Silva Jardim
+Silvania
 Silvânia
+Silvanopolis
 Silvanópolis
 Silveira Martins
+Silveirania
 Silveirânia
 Silveiras
 Silves
+Silvianopolis
 Silvianópolis
+Simao Dias
 Simão Dias
+Simao Pereira
 Simão Pereira
+Simoes
 Simões
+Simoes Filho
 Simões Filho
+Simolandia
 Simolândia
+Simonesia
 Simonésia
+Simplicio Mendes
 Simplício Mendes
 Sinimbu
 Sinop
 Siqueira Campos
+Sirinhaem
 Sirinhaém
 Siriri
+Sitio D´abadia
 Sítio D´abadia
+Sitio do Mato
 Sítio do Mato
+Sitio do Quinto
 Sítio do Quinto
+Sitio Novo
 Sítio Novo
-Sítio Novo
+Sitio Novo do Tocantins
 Sítio Novo do Tocantins
-Sobradinho
 Sobradinho
 Sobrado
 Sobral
+Sobralia
 Sobrália
 Socorro
+Socorro do Piaui
 Socorro do Piauí
+Solanea
 Solânea
 Soledade
-Soledade
 Soledade de Minas
+Solidao
 Solidão
+Solonopole
 Solonópole
 Sombrio
 Sonora
 Sooretama
 Sorocaba
 Sorriso
+Sossego
 Sossêgo
 Soure
 Sousa
 Souto Soares
 Sucupira
 Sucupira do Norte
+Sucupira do Riachao
 Sucupira do Riachão
 Sud Mennucci
 Sul Brasil
 Sulina
+Sumare
 Sumaré
+Sume
 Sumé
 Sumidouro
 Surubim
 Sussuapara
+Suzanapolis
 Suzanápolis
 Suzano
+Tabai
 Tabaí
+Tabapora
 Tabaporã
+Tabapua
 Tabapuã
 Tabatinga
-Tabatinga
 Tabira
+Taboao da Serra
 Taboão da Serra
 Tabocas do Brejo Velho
 Taboleiro Grande
 Tabuleiro
 Tabuleiro do Norte
+Tacaimbo
 Tacaimbó
 Tacaratu
 Taciba
 Tacuru
+Taguai
 Taguaí
 Taguatinga
+Taiacu
 Taiaçu
+Tailandia
 Tailândia
+Taio
 Taió
 Taiobeiras
 Taipas do Tocantins
 Taipu
+Taiuva
 Taiúva
+Talisma
 Talismã
+Tamandare
 Tamandaré
 Tamarana
+Tambau
 Tambaú
 Tamboara
 Tamboril
+Tamboril do Piaui
 Tamboril do Piauí
 Tanabi
+Tangara
 Tangará
-Tangará
+Tangara da Serra
 Tangará da Serra
+Tangua
 Tanguá
+Tanhacu
 Tanhaçu
 Tanque D´arca
+Tanque do Piaui
 Tanque do Piauí
 Tanque Novo
 Tanquinho
 Taparuba
+Tapaua
 Tapauá
 Tapejara
-Tapejara
 Tapera
-Taperoá
+Taperoa
 Taperoá
 Tapes
 Tapira
-Tapira
+Tapirai
 Tapiraí
-Tapiraí
+Tapiramuta
 Tapiramutá
 Tapiratiba
 Tapurah
 Taquara
+Taquaracu de Minas
 Taquaraçu de Minas
 Taquaral
+Taquaral de Goias
 Taquaral de Goiás
 Taquarana
 Taquari
 Taquaritinga
 Taquaritinga do Norte
 Taquarituba
+Taquarivai
 Taquarivaí
+Taquarucu do Sul
 Taquaruçu do Sul
 Taquarussu
 Tarabai
+Tarauaca
 Tarauacá
 Tarrafas
 Tartarugalzinho
+Taruma
 Tarumã
 Tarumirim
 Tasso Fragoso
+Tatui
 Tatuí
+Taua
 Tauá
+Taubate
 Taubaté
 Tavares
-Tavares
+Tefe
 Tefé
 Teixeira
 Teixeira de Freitas
 Teixeira Soares
 Teixeiras
+Teixeiropolis
 Teixeirópolis
+Tejucuoca
 Tejuçuoca
+Tejupa
 Tejupá
+Telemaco Borba
 Telêmaco Borba
 Telha
 Tenente Ananias
 Tenente Laurentino Cruz
 Tenente Portela
+Tenorio
 Tenório
 Teodoro Sampaio
-Teodoro Sampaio
+Teofilandia
 Teofilândia
+Teofilo Otoni
 Teófilo Otoni
+Teolandia
 Teolândia
+Teotonio Vilela
 Teotônio Vilela
 Terenos
 Teresina
+Teresina de Goias
 Teresina de Goiás
+Teresopolis
 Teresópolis
 Terezinha
+Terezopolis de Goias
 Terezópolis de Goiás
 Terra Alta
 Terra Boa
 Terra de Areia
 Terra Nova
-Terra Nova
 Terra Nova do Norte
 Terra Rica
 Terra Roxa
-Terra Roxa
 Terra Santa
 Tesouro
+Teutonia
 Teutônia
 Theobroma
+Tiangua
 Tianguá
 Tibagi
 Tibau
 Tibau do Sul
+Tiete
 Tietê
 Tigrinhos
 Tijucas
 Tijucas do Sul
+Timbauba
 Timbaúba
+Timbauba Dos Batistas
 Timbaúba Dos Batistas
+Timbe do Sul
 Timbé do Sul
 Timbiras
+Timbo
 Timbó
+Timbo Grande
 Timbó Grande
 Timburi
 Timon
+Timoteo
 Timóteo
 Tio Hugo
 Tiradentes
 Tiradentes do Sul
 Tiros
 Tobias Barreto
+Tocantinia
 Tocantínia
+Tocantinopolis
 Tocantinópolis
 Tocantins
 Tocos do Moji
 Toledo
-Toledo
 Tomar do Geru
 Tomazina
 Tombos
+Tome-acu
 Tomé-açu
 Tonantins
 Toritama
+Torixoreu
 Torixoréu
 Toropi
 Torre de Pedra
@@ -5266,106 +7172,151 @@ Torrinha
 Touros
 Trabiju
 Tracuateua
+Tracunhaem
 Tracunhaém
 Traipu
+Trairao
 Trairão
 Trairi
 Trajano de Morais
+Tramandai
 Tramandaí
 Travesseiro
 Tremedal
+Tremembe
 Tremembé
+Tres Arroios
 Três Arroios
+Tres Barras
 Três Barras
+Tres Barras do Parana
 Três Barras do Paraná
+Tres Cachoeiras
 Três Cachoeiras
+Tres Coracoes
 Três Corações
+Tres Coroas
 Três Coroas
+Tres de Maio
 Três de Maio
+Tres Forquilhas
 Três Forquilhas
+Tres Fronteiras
 Três Fronteiras
+Tres Lagoas
 Três Lagoas
+Tres Marias
 Três Marias
+Tres Palmeiras
 Três Palmeiras
+Tres Passos
 Três Passos
+Tres Pontas
 Três Pontas
+Tres Ranchos
 Três Ranchos
+Tres Rios
 Três Rios
 Treviso
 Treze de Maio
+Treze Tilias
 Treze Tílias
 Trindade
-Trindade
 Trindade do Sul
-Triunfo
-Triunfo
 Triunfo
 Triunfo Potiguar
 Trizidela do Vale
 Trombas
 Trombudo Central
+Tubarao
 Tubarão
 Tucano
+Tucuma
 Tucumã
 Tucunduva
+Tucurui
 Tucuruí
+Tufilandia
 Tufilândia
 Tuiuti
 Tumiritinga
+Tunapolis
 Tunápolis
 Tunas
+Tunas do Parana
 Tunas do Paraná
 Tuneiras do Oeste
 Tuntum
+Tupa
 Tupã
 Tupaciguara
 Tupanatinga
 Tupanci do Sul
+Tupancireta
 Tupanciretã
 Tupandi
 Tuparendi
 Tuparetama
+Tupassi
 Tupãssi
 Tupi Paulista
 Tupirama
 Tupiratins
+Turiacu
 Turiaçu
+Turilandia
 Turilândia
+Turiuba
 Turiúba
 Turmalina
-Turmalina
+Turucu
 Turuçu
 Tururu
+Turvania
 Turvânia
+Turvelandia
 Turvelândia
 Turvo
-Turvo
+Turvolandia
 Turvolândia
+Tutoia
 Tutóia
 Uarini
+Uaua
 Uauá
+Uba
 Ubá
+Ubai
 Ubaí
+Ubaira
 Ubaíra
 Ubaitaba
 Ubajara
 Ubaporanga
 Ubarana
+Ubata
 Ubatã
 Ubatuba
 Uberaba
+Uberlandia
 Uberlândia
 Ubirajara
+Ubirata
 Ubiratã
 Ubiretama
 Uchoa
+Uibai
 Uibaí
+Uiramuta
 Uiramutã
 Uirapuru
+Uirauna
 Uiraúna
+Ulianopolis
 Ulianópolis
 Umari
 Umarizal
+Umbauba
 Umbaúba
 Umburanas
 Umburatiba
@@ -5373,90 +7324,125 @@ Umbuzeiro
 Umirim
 Umuarama
 Una
+Unai
 Unaí
+Uniao
 União
+Uniao da Serra
 União da Serra
+Uniao da Vitoria
 União da Vitória
+Uniao de Minas
 União de Minas
+Uniao do Oeste
 União do Oeste
+Uniao do Sul
 União do Sul
+Uniao Dos Palmares
 União Dos Palmares
+Uniao Paulista
 União Paulista
 Uniflor
 Unistalda
 Upanema
+Urai
 Uraí
 Urandi
+Urania
 Urânia
 Urbano Santos
 Uru
+Uruacu
 Uruaçu
 Uruana
 Uruana de Minas
+Uruara
 Uruará
 Urubici
 Uruburetama
+Urucania
 Urucânia
+Urucara
 Urucará
+Urucuca
 Uruçuca
+Urucui
 Uruçuí
 Urucuia
 Urucurituba
 Uruguaiana
 Uruoca
+Urupa
 Urupá
 Urupema
+Urupes
 Urupês
 Urussanga
+Urutai
 Urutaí
 Utinga
 Vacaria
+Vale de Sao Domingos
 Vale de São Domingos
 Vale do Anari
+Vale do Paraiso
 Vale do Paraíso
 Vale do Sol
 Vale Real
 Vale Verde
+Valenca
 Valença
-Valença
+Valenca do Piaui
 Valença do Piauí
 Valente
 Valentim Gentil
 Valinhos
+Valparaiso
 Valparaíso
+Valparaiso de Goias
 Valparaíso de Goiás
 Vanini
+Vargeao
 Vargeão
-Vargem
 Vargem
 Vargem Alegre
 Vargem Alta
-Vargem Bonita
 Vargem Bonita
 Vargem Grande
 Vargem Grande do Rio Pardo
 Vargem Grande do Sul
 Vargem Grande Paulista
 Varginha
+Varjao
 Varjão
+Varjao de Minas
 Varjão de Minas
 Varjota
 Varre-sai
+Varzea
 Várzea
-Várzea
+Varzea Alegre
 Várzea Alegre
+Varzea Branca
 Várzea Branca
+Varzea da Palma
 Várzea da Palma
+Varzea da Roca
 Várzea da Roça
+Varzea do Poco
 Várzea do Poço
+Varzea Grande
 Várzea Grande
-Várzea Grande
+Varzea Nova
 Várzea Nova
+Varzea Paulista
 Várzea Paulista
 Varzedo
+Varzelandia
 Varzelândia
 Vassouras
 Vazante
+Venancio Aires
 Venâncio Aires
 Venda Nova do Imigrante
 Venha-ver
@@ -5464,63 +7450,79 @@ Ventania
 Venturosa
 Vera
 Vera Cruz
-Vera Cruz
-Vera Cruz
-Vera Cruz
 Vera Cruz do Oeste
 Vera Mendes
+Veranopolis
 Veranópolis
 Verdejante
+Verdelandia
 Verdelândia
+Vere
 Verê
 Vereda
 Veredinha
+Verissimo
 Veríssimo
 Vermelho Novo
+Vertente do Lerio
 Vertente do Lério
 Vertentes
 Vespasiano
 Vespasiano Correa
 Viadutos
+Viamao
 Viamão
 Viana
-Viana
+Vianopolis
 Vianópolis
+Vicencia
 Vicência
 Vicente Dutra
 Vicentina
+Vicentinopolis
 Vicentinópolis
+Vicosa
 Viçosa
-Viçosa
-Viçosa
+Vicosa do Ceara
 Viçosa do Ceará
 Victor Graeff
 Vidal Ramos
 Videira
 Vieiras
+Vieiropolis
 Vieirópolis
 Vigia
 Vila Alta
+Vila Bela da Santissima Trindade
 Vila Bela da Santíssima Trindade
 Vila Boa
 Vila Flor
 Vila Flores
+Vila Langaro
 Vila Lângaro
 Vila Maria
+Vila Nova do Piaui
 Vila Nova do Piauí
 Vila Nova do Sul
+Vila Nova Dos Martirios
 Vila Nova Dos Martírios
+Vila Pavao
 Vila Pavão
+Vila Propicio
 Vila Propício
 Vila Rica
+Vila Valerio
 Vila Valério
 Vila Velha
 Vilhena
 Vinhedo
 Viradouro
 Virgem da Lapa
+Virginia
 Virgínia
+Virginopolis
 Virginópolis
+Virgolandia
 Virgolândia
 Virmond
 Visconde do Rio Branco
@@ -5528,16 +7530,25 @@ Viseu
 Vista Alegre
 Vista Alegre do Alto
 Vista Alegre do Prata
+Vista Gaucha
 Vista Gaúcha
 Vista Serrana
 Vitor Meireles
+Vitoria
 Vitória
+Vitoria Brasil
 Vitória Brasil
+Vitoria da Conquista
 Vitória da Conquista
+Vitoria Das Missoes
 Vitória Das Missões
+Vitoria de Santo Antao
 Vitória de Santo Antão
+Vitoria do Jari
 Vitória do Jari
+Vitoria do Mearim
 Vitória do Mearim
+Vitoria do Xingu
 Vitória do Xingu
 Vitorino
 Vitorino Freire
@@ -5547,24 +7558,33 @@ Votorantim
 Votuporanga
 Wagner
 Wall Ferraz
+Wanderlandia
 Wanderlândia
 Wanderley
 Wenceslau Braz
-Wenceslau Braz
+Wenceslau Guimaraes
 Wenceslau Guimarães
 Westfalia
 Witmarsum
+Xambioa
 Xambioá
+Xambre
 Xambrê
+Xangri-la
 Xangri-lá
+Xanxere
 Xanxerê
 Xapuri
 Xavantina
 Xaxim
+Xexeu
 Xexéu
 Xinguara
 Xique-xique
+Zabele
 Zabelê
 Zacarias
+ze Doca
 zé Doca
+Zortea
 Zortéa
